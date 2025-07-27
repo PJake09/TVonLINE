@@ -1,0 +1,334 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Universal" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png" group-title="Gojek - Entertainment", Universal
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.3
+http://49.0.64.96:8007/H-Channel
+#EXTINF:-1 tvg-name="Pluse Channel " tvg-logo="https://i.ibb.co/7xf3sR9Z/logo-pluse.png" group-title="Gojek - Entertainment", Pluse Channel 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.4
+http://49.0.64.96:8007/PLUSE
+#EXTINF:-1 tvg-name="FuckIDSeries" tvg-logo="https://i.ibb.co/wFSYqgpG/logo-fuckseries.png" group-title="Gojek - Entertainment", FuckIDSeries
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.5
+http://49.0.64.96:8007/SERIES
+#EXTINF:-1 tvg-name="FuckIDTOON" tvg-logo="https://i.ibb.co/qYGcDkdc/logo-fuck-toon.png" group-title="Gojek - Entertainment", FuckIDTOON
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.6
+http://49.0.64.96:8007/Cartoonumi
+#EXTINF:-1 tvg-name="FuckIDMovie" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png" group-title="Gojek - Entertainment", FuckIDMovie
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.7
+http://49.0.64.96:8007/PING
+#EXTINF:-1 tvg-name="AMAZING" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png" group-title="Gojek - Entertainment", AMAZING
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.8
+http://49.0.64.96:8007/AMAZING
+#EXTINF:-1 tvg-name="Animal" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png" group-title="Gojek - Entertainment", Animal
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.9
+http://49.0.64.96:8007/Animal
+#EXTINF:-1 tvg-name="Science" tvg-logo="https://i.ibb.co/gQLyLmK/logo-seience.png" group-title="Gojek - Entertainment", Science
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.2
+http://49.0.64.96:8007/WSCI
+#EXTINF:-1 tvg-name="Superrix" tvg-logo="https://i.ibb.co/pBHghpSx/237x0-icon.png" group-title="Gojek - Entertainment", Superrix
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.3
+http://49.0.64.96:8007/Cinemachi
+#EXTINF:-1 tvg-name="HBO - 1" tvg-logo="https://dookeela.live/uploads/1703686191.png" group-title="Gojek - Entertainment", HBO - 1
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.15
+https://dookeela.live/live-tv/hbo
+#EXTINF:-1 tvg-name="HBO - 2" tvg-logo="https://dookeela.live/uploads/1703686191.png" group-title="Gojek - Entertainment", HBO - 2
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.16
+https://goal-th.com/ช่องรายการทีวี/?id=274&tv=HBO
+#EXTINF:-1 tvg-name="HBO - 3" tvg-logo="https://dookeela.live/uploads/1703686191.png" group-title="Gojek - Entertainment", HBO - 3
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.36
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueasiamove.m3u8
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://dookeela.live/uploads/1703786776.png" group-title="Gojek - Entertainment", HBO Family
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.23
+https://dookeela.live/live-tv/hbo-family
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://dookeela.live/uploads/1703786776.png" group-title="Gojek - Entertainment", HBO Family
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.24
+https://goal-th.com/ช่องรายการทีวี/?id=277&tv=HBOFamily
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://dookeela.live/uploads/1703786599.png" group-title="Gojek - Entertainment", HBO Hits
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.26
+https://dookeela.live/live-tv/hbo-hits
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://dookeela.live/uploads/1703786599.png" group-title="Gojek - Entertainment", HBO Hits
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.27
+https://goal-th.com/ช่องรายการทีวี/?id=276&tv=HBOHits
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://dookeela.live/uploads/1703786305.png" group-title="Gojek - Entertainment", HBO Signature
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.28
+https://dookeela.live/live-tv/hbo-signature
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://dookeela.live/uploads/1703786305.png" group-title="Gojek - Entertainment", HBO Signature
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.29
+https://goal-th.com/ช่องรายการทีวี/?id=275&tv=HBOSignature
+#EXTINF:-1 tvg-name="True Asian More" tvg-logo="https://dookeela.live/uploads/1719205850.png" group-title="Gojek - Entertainment", True Asian More
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.34
+https://dookeela.live/live-tv/trueasianmore
+#EXTINF:-1 tvg-name="True Asian More" tvg-logo="https://dookeela.live/uploads/1719205850.png" group-title="Gojek - Entertainment", True Asian More
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.35
+https://goal-th.com/ช่องรายการทีวี/?id=405&tv=TrueAsianMore
+#EXTINF:-1 tvg-name="True Film 1" tvg-logo="https://dookeela.live/uploads/1720380229.png" group-title="Gojek - Entertainment", True Film 1
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.37
+https://dookeela.live/live-tv/truefilm1
+#EXTINF:-1 tvg-name="True Film 1" tvg-logo="https://dookeela.live/uploads/1720380229.png" group-title="Gojek - Entertainment", True Film 1
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.40
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm1.m3u8
+#EXTINF:-1 tvg-name="True Film 2" tvg-logo="https://dookeela.live/uploads/1720723122.png" group-title="Gojek - Entertainment", True Film 2
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.43
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm2.m3u8
+#EXTINF:-1 tvg-name="True Film 2" tvg-logo="https://dookeela.live/uploads/1720723122.png" group-title="Gojek - Entertainment", True Film 2
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.54
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truethaifilm.m3u8
+#EXTINF:-1 tvg-name="True Film Asia" tvg-logo="https://dookeela.live/uploads/1719205705.png" group-title="Gojek - Entertainment", True Film Asia
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.44
+https://dookeela.live/live-tv/truefilmasia
+#EXTINF:-1 tvg-name="True Film Asia" tvg-logo="https://dookeela.live/uploads/1719205705.png" group-title="Gojek - Entertainment", True Film Asia
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.45
+https://goal-th.com/ช่องรายการทีวี/?id=404&tv=TrueFilmAsia
+#EXTINF:-1 tvg-name="True Film Asia" tvg-logo="https://dookeela.live/uploads/1719205705.png" group-title="Gojek - Entertainment", True Film Asia
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.47
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilmasia.m3u8
+#EXTINF:-1 tvg-name="True Movie Hits " tvg-logo="https://dookeela.live/uploads/1719803882.png" group-title="Gojek - Entertainment", True Movie Hits 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.49
+https://goal-th.com/ช่องรายการทีวี/?id=412&tv=TrueMovieHits
+#EXTINF:-1 tvg-name="True Movie Hits " tvg-logo="https://dookeela.live/uploads/1719803882.png" group-title="Gojek - Entertainment", True Movie Hits 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.50
+https://dookeela.live/live-tv/truemoviehits
+#EXTINF:-1 tvg-name="True Thai Film " tvg-logo="https://dookeela.live/uploads/1706539896.png" group-title="Gojek - Entertainment", True Thai Film 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.51
+https://dookeela.live/live-tv/truethaifilm
+#EXTINF:-1 tvg-name="True Thai Film " tvg-logo="https://dookeela.live/uploads/1706539896.png" group-title="Gojek - Entertainment", True Thai Film 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.52
+https://goal-th.com/ช่องรายการทีวี/?id=307&tv=TrueThaiFilm
+#EXTINF:-1 tvg-name="True X-Zyte" tvg-logo="https://dookeela.live/uploads/1719206155.png" group-title="Gojek - Entertainment", True X-Zyte
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.55
+https://dookeela.live/live-tv/truex-zyte
+#EXTINF:-1 tvg-name="KhongDee" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuqopcRSIQJ_OIefz8Dj-a-Z2rPuEkXS1F7Q&s" group-title="Gojek - Entertainment", KhongDee
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.56
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
+#EXTINF:-1 tvg-name="True X-zyte" tvg-logo="https://dookeela.live/uploads/1719206155.png" group-title="Gojek - Entertainment", True X-zyte
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.57
+https://dookeela.live/live-tv/truex-zyte
+#EXTINF:-1 tvg-name="True X-zyte" tvg-logo="https://dookeela.live/uploads/1719206155.png" group-title="Gojek - Entertainment", True X-zyte
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.58
+https://goal-th.com/ช่องรายการทีวี/?id=407&tv=TrueX-Zyte
+#EXTINF:-1 tvg-name="True Series " tvg-logo="https://dookeela.live/uploads/1719205991.png" group-title="Gojek - Entertainment", True Series 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.62
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
+#EXTINF:-1 tvg-name="FWMOV" tvg-logo="https://img.inwiptv.net/postor/20200512164154fwmov.jpg" group-title="Gojek - Entertainment", FWMOV
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.63
+https://www.inwiptv.com/player_demo.php?channel=95262
+#EXTINF:-1 tvg-name="FWSOV" tvg-logo="https://img.inwiptv.net/postor/20200512165346fwsov.jpg" group-title="Gojek - Entertainment", FWSOV
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.64
+https://www.inwiptv.com/player_demo.php?channel=94898
+#EXTINF:-1 tvg-name="3BB Asian" tvg-logo="https://dookeela.live/uploads/1703829940.png" group-title="Gojek - Entertainment", 3BB Asian
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.65
+https://dookeela.live/live-tv/3bbasian
+#EXTINF:-1 tvg-name="3BB Asian" tvg-logo="https://dookeela.live/uploads/1703829940.png" group-title="Gojek - Entertainment", 3BB Asian
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.66
+https://goal-th.com/ช่องรายการทีวี/?id=281&tv=3BBAsian
+#EXTINF:-1 tvg-name="MONO Plus" tvg-logo="https://dookeela.live/uploads/1703787733.png" group-title="Gojek - Entertainment", MONO Plus
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/mono29plus
+#EXTINF:-1 tvg-name="MONO Plus" tvg-logo="https://dookeela.live/uploads/1703787733.png" group-title="Gojek - Entertainment", MONO Plus
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.68
+https://goal-th.com/ช่องรายการทีวี/?id=280&tv=MONO29Plus
+#EXTINF:-1 tvg-name="Asian Food Network" tvg-logo="https://dookeela.live/uploads/1717696078.png" group-title="Gojek - Entertainment", Asian Food Network
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.69
+https://dookeela.live/live-tv/afn
+#EXTINF:-1 tvg-name="Asian Food Network" tvg-logo="https://dookeela.live/uploads/1717696078.png" group-title="Gojek - Entertainment", Asian Food Network
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.70
+https://goal-th.com/ช่องรายการทีวี/?id=398&tv=AsianFoodNetwork
+#EXTINF:-1 tvg-name="Asian Food Network" tvg-logo="https://dookeela.live/uploads/1717696078.png" group-title="Gojek - Entertainment", Asian Food Network
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.72
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/ASIANFOODCHANNE.m3u8
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://dookeela.live/uploads/1717696062.png" group-title="Gojek - Entertainment", Food Network
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.74
+https://dookeela.live/live-tv/foodnetwork
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://dookeela.live/uploads/1717696062.png" group-title="Gojek - Entertainment", Food Network
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.75
+https://goal-th.com/ช่องรายการทีวี/?id=397&tv=FoodNetwork
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://dookeela.live/uploads/1717696062.png" group-title="Gojek - Entertainment", Food Network
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.73
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/foodnetwork.m3u8
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://dookeela.live/uploads/1717696062.png" group-title="Gojek - Entertainment", Food Network
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.85
+https://dookeela.live/live-tv/foodnetwork
+#EXTINF:-1 tvg-name="AXN HD" tvg-logo="https://dookeela.live/uploads/1719897010.png" group-title="Gojek - Entertainment", AXN HD
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.78
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueAXN.m3u8
+#EXTINF:-1 tvg-name="CCM" tvg-logo="https://dookeela.live/uploads/1719803240.png" group-title="Gojek - Entertainment", CCM
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.79
+https://dookeela.live/live-tv/ccm
+#EXTINF:-1 tvg-name="CCM" tvg-logo="https://dookeela.live/uploads/1719803240.png" group-title="Gojek - Entertainment", CCM
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.80
+https://goal-th.com/ช่องรายการทีวี/?id=411&tv=CCM
+#EXTINF:-1 tvg-name="CCM" tvg-logo="https://dookeela.live/uploads/1719803240.png" group-title="Gojek - Entertainment", CCM
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.81
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueccm.m3u8
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://dookeela.live/uploads/1703786799.png" group-title="Gojek - Entertainment", CINEMAX
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.82
+https://dookeela.live/live-tv/cinemax
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://dookeela.live/uploads/1703786799.png" group-title="Gojek - Entertainment", CINEMAX
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.83
+https://goal-th.com/ช่องรายการทีวี/?id=278&tv=CINEMAX
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://dookeela.live/uploads/1703786799.png" group-title="Gojek - Entertainment", CINEMAX
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.84
+https://streamer1.nexgen.bz/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-name="HITS" tvg-logo="https://dookeela.live/uploads/1706112791.png" group-title="Gojek - Entertainment", HITS
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.86
+https://dookeela.live/live-tv/hits
+#EXTINF:-1 tvg-name="HITS MOVIES" tvg-logo="https://dookeela.live/uploads/1714100677.png" group-title="Gojek - Entertainment", HITS MOVIES
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.87
+https://dookeela.live/live-tv/hits-movies
+#EXTINF:-1 tvg-name="KBS Korea" tvg-logo="https://dookeela.live/uploads/1719897483.png" group-title="Gojek - Entertainment", KBS Korea
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.94
+https://dookeela.live/live-tv/kbskorea
+#EXTINF:-1 tvg-name="LifeTime" tvg-logo="https://dookeela.live/uploads/1720781589.png" group-title="Gojek - Entertainment", LifeTime
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.99
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
+#EXTINF:-1 tvg-name="WARNER TV" tvg-logo="https://dookeela.live/uploads/1703832225.png" group-title="Gojek - Entertainment", WARNER TV
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.100
+https://dookeela.live/live-tv/warnertv
+#EXTINF:-1 tvg-name="WARNER TV" tvg-logo="https://dookeela.live/uploads/1703832225.png" group-title="Gojek - Entertainment", WARNER TV
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.101
+https://goal-th.com/ช่องรายการทีวี/?id=282&tv=WarnerTV
+#EXTINF:-1 tvg-name="WARNER TV" tvg-logo="https://dookeela.live/uploads/1703832225.png" group-title="Gojek - Entertainment", WARNER TV
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.103
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truewb.m3u8
+#EXTINF:-1 tvg-name="ROCK Action" tvg-logo="https://dookeela.live/uploads/1718690264.png" group-title="Gojek - Entertainment", ROCK Action
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.104
+https://dookeela.live/live-tv/rock-action
+#EXTINF:-1 tvg-name="ROCK Action" tvg-logo="https://dookeela.live/uploads/1718690264.png" group-title="Gojek - Entertainment", ROCK Action
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.105
+https://goal-th.com/ช่องรายการทีวี/?id=402&tv=ROCKAction
+#EXTINF:-1 tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://dookeela.live/uploads/1718690283.png" group-title="Gojek - Entertainment", ROCK ENTERTAINMENT
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.106
+https://dookeela.live/live-tv/rock-entertainment
+#EXTINF:-1 tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://dookeela.live/uploads/1718690283.png" group-title="Gojek - Entertainment", ROCK ENTERTAINMENT
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.107
+https://goal-th.com/ช่องรายการทีวี/?id=403&tv=ROCKENTERTAINMENT
+#EXTINF:-1 tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://dookeela.live/uploads/1718690283.png" group-title="Gojek - Entertainment", ROCK ENTERTAINMENT
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.108
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/rockentertainmentred.m3u8
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://dookeela.live/uploads/1717696038.png" group-title="Gojek - Entertainment", TLC
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.109
+https://dookeela.live/live-tv/tlc
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://dookeela.live/uploads/1717696038.png" group-title="Gojek - Entertainment", TLC
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.110
+https://goal-th.com/ช่องรายการทีวี/?id=396&tv=TLC
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://dookeela.live/uploads/1717696038.png" group-title="Gojek - Entertainment", TLC
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.111
+https://dookeela.live/live-tv/tlc
+#EXTINF:-1 tvg-name="MV Mall Best" tvg-logo="https://p.lnwfile.com/_/p/_resize/250/250/p0/3x/de.png" group-title="Gojek - Entertainment", MV Mall Best
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.115
+https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/chunks.m3u8
+#EXTINF:-1 tvg-name="GAGS" tvg-logo="https://img5.pic.in.th/file/secure-sv1/images-removebg-preview-1.png" group-title="Gojek - Entertainment", GAGS
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.117
+https://www.inwiptv.com/player_demo.php?channel=89781
+#EXTINF:-1 tvg-name="GAGS" tvg-logo="https://img5.pic.in.th/file/secure-sv1/images-removebg-preview-1.png" group-title="Gojek - Entertainment", GAGS
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.118
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
+#EXTINF:-1 tvg-name="Paramount" tvg-logo="https://i.imgur.com/NlkgEqK.png" group-title="Gojek - Entertainment", Paramount
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.119
+https://dookeela.live/live-tv/paramount-network
+#EXTINF:-1 tvg-name="Paramount" tvg-logo="https://i.imgur.com/NlkgEqK.png" group-title="Gojek - Entertainment", Paramount
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.120
+https://goal-th.com/ช่องรายการทีวี/?id=303&tv=ParamountNetwork
+#EXTINF:-1 tvg-name="Kix" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ljChKbAkTksdH96-onPyibiW39iH9wp6veuIMoAo_owRw=s900-c-k-c0x00ffffff-no-rj" group-title="Gojek - Entertainment", Kix
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.123
+http://210.210.155.66/h/h220/02.m3u8
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="Gojek - Entertainment", tvN
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.124
+https://goal-th.com/ช่องรายการทีวี/?id=283&tv=tvN|Indonesia
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="Gojek - Entertainment", tvN
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.125
+https://dookeela.live/live-tv/tvn-indonesia
+#EXTINF:-1 tvg-name="outdoor" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_460.png" group-title="Gojek - Entertainment", outdoor
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.127
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/outdoor.m3u8
+#EXTINF:-1 tvg-name="outdoor" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_460.png" group-title="Gojek - Entertainment", outdoor
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.128
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-name="Rush" tvg-logo="https://dookeela.live/uploads/1741273735.png" group-title="Gojek - Entertainment", Rush
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.3
+https://dookeela.live/live-tv/rush-stories
+#EXTINF:-1 tvg-name="Alure Channel" tvg-logo="https://dookeela.live/uploads/1731057748.png" group-title="Gojek - Entertainment", Alure Channel
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.3
+https://dookeela.live/live-tv/alure-channel
+
