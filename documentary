@@ -1,0 +1,133 @@
+{ "name": "ช่องสด สาระความรู้","image": "https://img2.pic.in.th/pic/LiveDoc.png","stations": [
+
+
+{"name": "FWDoc","image": "https://pbs.twimg.com/profile_images/1093074786249371649/OZQusuGV_400x400.jpg","url": "https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+
+{"name": "AMAZING","image": "https://i.ibb.co/zv40P0s/logo-amazing.png","url": "http://49.0.64.96:8007/AMAZING", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Animal","image": "https://i.ibb.co/bMtB5NKS/logo-animal.png","url": "http://49.0.64.96:8007/Animal", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Science","image": "https://i.ibb.co/gQLyLmK/logo-seience.png","url": "http://49.0.64.96:8007/WSCI", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "TRUE EXPLORELIFE","image": "https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp","url": "https://goal-th.com/ช่องรายการทีวี/?id=492&tv=TrueExploreLife", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TRUE EXPLORELIFE","image": "https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp","url": "https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TRUE EXPLORELIFE","image": "https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp","url": "https://dookeela.live/live-tv/trueexplorelife", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+
+{"name": "TRUE EXPLORESCI","image": "https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp","url": "https://goal-th.com/ช่องรายการทีวี/?id=493&tv=TrueExploreSci", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TRUE EXPLORESCI","image": "https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp","url": "https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u8", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TRUE EXPLORESCI","image": "https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp","url": "https://dookeela.live/live-tv/trueexploresci", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+
+{"name": "TRUE EXPLOREWILD","image": "https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp","url": "https://goal-th.com/ช่องรายการทีวี/?id=491&tv=TrueExploreWild", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TRUE EXPLOREWILD","image": "https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp","url": "https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorewild.m3u8", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TRUE EXPLOREWILD","image": "https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp","url": "https://dookeela.live/live-tv/trueexplorewild", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+
+{"name": "Animal Planet","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png","url": "https://goal-th.com/ช่องรายการทีวี/?id=300&tv=AnimalPlanet", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Animal Planet","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png","url": "https://wahyu1ptv.pages.dev/AnimalPlanet-HD.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Animal Planet","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png","url": "https://dookeela.live/live-tv/animal-planet", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+
+{"name": "Animal Show","image": "https://i.ytimg.com/vi/-NmdsxeiHeM/maxresdefault.jpg","url": "https://goal-th.com/ช่องรายการทีวี/?id=294&tv=AnimalShow", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Animal Show","image": "https://i.ytimg.com/vi/-NmdsxeiHeM/maxresdefault.jpg","url": "https://dookeela.live/live-tv/animalshow", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+
+{"name": "BBC EARTH","image": "https://bbcearth.ca/wp-content/uploads/2018/09/BBC_EARTH_RGB_GRAD_L.jpg","url": "https://goal-th.com/ช่องรายการทีวี/?id=572&tv=BBCEarth", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "BBC EARTH","image": "https://bbcearth.ca/wp-content/uploads/2018/09/BBC_EARTH_RGB_GRAD_L.jpg","url": "https://dookeela.live/live-tv/bbc-earth", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "BBC EARTH","image": "https://bbcearth.ca/wp-content/uploads/2018/09/BBC_EARTH_RGB_GRAD_L.jpg","url": "https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+
+{"name": "BBC LifeStyle","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzaFOElf_YgzI9e6l07F5_FD7YsVuf0FT2aQ&s","url": "https://goal-th.com/ช่องรายการทีวี/?id=527&tv=BBCLifestyle", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "BBC LifeStyle","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzaFOElf_YgzI9e6l07F5_FD7YsVuf0FT2aQ&s","url": "https://dookeela.live/live-tv/bbc-lifestyle", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+
+{"name": "Discovery","image": "https://yt3.googleusercontent.com/_qFi0xj0g69nlohTy4QezRrNjPjiaeTDcBUxlWt1viLNbN2eIaIwaKE9GVKF0AYmXB1jK7bhUQ=s900-c-k-c0x00ffffff-no-rj","url": "https://goal-th.com/ช่องรายการทีวี/?id=301&tv=Discovery", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Discovery","image": "https://yt3.googleusercontent.com/_qFi0xj0g69nlohTy4QezRrNjPjiaeTDcBUxlWt1viLNbN2eIaIwaKE9GVKF0AYmXB1jK7bhUQ=s900-c-k-c0x00ffffff-no-rj","url": "https://github.com/bestcommt2/m3u8/raw/refs/heads/master/aisDiscover.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Discovery","image": "https://yt3.googleusercontent.com/_qFi0xj0g69nlohTy4QezRrNjPjiaeTDcBUxlWt1viLNbN2eIaIwaKE9GVKF0AYmXB1jK7bhUQ=s900-c-k-c0x00ffffff-no-rj","url": "https://dookeela.live/live-tv/discovery", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+
+
+{"name": "Discovery Asia","image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305","url": "https://goal-th.com/ช่องรายการทีวี/?id=302&tv=DiscoveryAsia", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Discovery Asia","image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305","url": "https://wahyu1ptv.pages.dev/Disco-HD.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Discovery Asia","image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305","url": "https://dookeela.live/live-tv/discovery-asia", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "MySci","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPCBbVdRhceG-9DS9H82LjSQJPmW7rICBxqA&s","url": "https://goal-th.com/ช่องรายการทีวี/?id=293&tv=MySci", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "MySci","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPCBbVdRhceG-9DS9H82LjSQJPmW7rICBxqA&s","url": "https://dookeela.live/live-tv/mysci", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+
+{"name": "สำรวจโลก","image": "https://yt3.googleusercontent.com/vPLsh4_VILTf54yGrITr4YT2-d3ShJcI-Ut8pczebxwNPuUs7scdDC3y3HkpgJrb7zUkyI7vjQ=s900-c-k-c0x00ffffff-no-rj","url": "https://goal-th.com/ช่องรายการทีวี/?id=292&tv=สำรวจโลก", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "สำรวจโลก","image": "https://yt3.googleusercontent.com/vPLsh4_VILTf54yGrITr4YT2-d3ShJcI-Ut8pczebxwNPuUs7scdDC3y3HkpgJrb7zUkyI7vjQ=s900-c-k-c0x00ffffff-no-rj","url": "https://dookeela.live/live-tv/samrujlok", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+
+
+
+{"name": "DMAX","image": "https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg","url": "http://boski.streamtv.to:8080/Sveto_kcerka/zg2aFC6Y1B/1876", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+
+{"name": "Crime","image": "https://astromedia.com.my/wp-content/uploads/2023/12/crime-investigation.jpg.webp","url": "https://github.com/bestcommt2/m3u8/raw/refs/heads/master/ci.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+
+{"name": "Inside Crime","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-xds1pwYPKmqBv2_cklhVeVPvhWfz7Bfuw&s","url": "https://jmp2.uk/sam-GBBD500002R4.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+
+
+{"name": "History","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSga_gSk1RlZxPDcMteQxruSQH5n-hbIm_QA&s","url": "https://wahyu1ptv.pages.dev/History-HD.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "History","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSga_gSk1RlZxPDcMteQxruSQH5n-hbIm_QA&s","url": "https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueH2.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "Historia","image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Historia_2022_logo.webp","url": "https://jmp2.uk/sam-US2600019IC.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "History 365","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7qPB8xfRZhGcamCaOgz_C6YMa07R2HOsAA&s","url": "https://jmp2.uk/sam-USBD35000428O.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "HistoryHit","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyyB3g5CZiCMCuCuSIOi8i_LwA_wfx2g1wQ&s","url": "https://bit.ly/3NIbLte", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "History & Warfare","image": "https://yt3.googleusercontent.com/bdQiPaZGnA-YCa7wT4r1s_4TnmzXgU_aklNvCkLxG_Jcpk4abqI-jTu0OYlY5ogQw48gX0NxM3s=s900-c-k-c0x00ffffff-no-rj","url": "https://jmp2.uk/sam-USBD1200009JI.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "Love Nature ","image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2016/02/14120312/LoveNature_logo.jpg","url": "https://goal-th.com/ช่องรายการทีวี/?id=533&tv=LoveNature4K", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "Love Nature 4K","image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2016/02/14120312/LoveNature_logo.jpg","url": "https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "Love Nature EU","image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2016/02/14120312/LoveNature_logo.jpg","url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+
+
+
+{"name": "Nat Geo WILD","image": "https://cms-media.clink.services/NatGeoWild-Default-Color_2x_bbrxqg.png","url": "http://boski.streamtv.to:8080/Sveto_kcerka/zg2aFC6Y1B/1889", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Nat Geo WILD","image": "https://cms-media.clink.services/NatGeoWild-Default-Color_2x_bbrxqg.png","url": "https://dookeela.live/live-tv/nat-geo-wild", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "National Geographic","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/300px-National_Geographic_Channel.svg.png","url": "http://boski.streamtv.to:8080/Sveto_kcerka/zg2aFC6Y1B/517", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "National Geographic","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/300px-National_Geographic_Channel.svg.png","url": "https://dookeela.live/live-tv/national-geographic", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+
+{"name": "NATURE TIME","image": "https://framerusercontent.com/images/CVIY2hHRmFpulUpKkIuIziHhvPs.png","url": "https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8", "referer": "https://ustvgo.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "REAL WILD","image": "https://img2.pic.in.th/pic/Real-Wild_1070.png","url": "https://lds-realwild-rakuten.amagi.tv/playlist.m3u8", "referer": "https://lds-realwild-rakuten.amagi.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "ปลูกปัญญา","image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F1d7dc8be-49df-46c7-ac16-4847229c6ab9.png&w=320&h=240","url": "http://www.trueplookpanya.com/new/tv_live?var_link=720p", "referer": "http://www.trueplookpanya.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "HGTV","image": "https://image.roku.com/developer_channels/prod/1fc97ecef696c76eca057b583a5f82e49515fc1c871018e4440176d2e6b98b8c.png","url": "http://190.60.42.86:8000/play/a01g/index.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "BBC America","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr5Jicw5gz4pMZbNuSmCbY6meWyz-Jxz8bvF5CyGhJkN06DctyfNwFu5y0&s=10","url": "https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "World WarTV","image": "https://i.imgur.com/qozEsNF.png","url": "https://bit.ly/3YJvO0R", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Universe Mysteries Solved","image": "https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2023/01/The_Universe_Ancient_Mysteries_Solved_3840x2160-scaled.jpg","url": "https://jmp2.uk/sam-US900001CX.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Military Heroes","image": "https://yt3.googleusercontent.com/S3AT3d7i4knNTcoYlX2u11iWOIMdJOjp03Jb05HO89unU75W8TQ0lZrbtKwLxtXJ6We1EZ3_jA=s900-c-k-c0x00ffffff-no-rj","url": "https://jmp2.uk/sam-USBC39000204J.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "OutDoor","image": "https://www.multichannelsasia.com/wp-content/uploads/2015/11/OC_Logo2017_Primary-e1492590279375.png","url": "https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "OutDoor","image": "https://www.multichannelsasia.com/wp-content/uploads/2015/11/OC_Logo2017_Primary-e1492590279375.png","url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Xtreme Outdoor","image": "https://i.imgur.com/0zjyh0Z.png","url": "https://jmp2.uk/sam-USAK3508706A.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Modern Marvels","image": "https://i.imgur.com/S0ncb00.png","url": "https://jmp2.uk/sam-USBB5200025DO.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Animals","image": "https://i.ytimg.com/vi/JnaseAj1kME/maxresdefault.jpg","url": "http://stitcher.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=1234567890&deviceId=1234567890&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Animaux","image": "https://yt3.googleusercontent.com/ytc/AIdro_meZ-LR_gUtwNEVqYq3BBBlFuH-iBT0Dk0uaNH886h6SQc=s900-c-k-c0x00ffffff-no-rj","url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Tierwelt","image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/06/25102328/TWL_Banner_6.jpg","url": "https://jmp2.uk/sam-CHAJ0500427A.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Evolution Earth","image": "https://i.imgur.com/bOWThNq.png","url": "https://jmp2.uk/sam-CA900003IF.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Living Planet🇷🇺","image": "https://i.imgur.com/q6cNmGF.png","url": "https://stream2.cinerama.uz/1250/tracks-v1a1/mono.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Pet Club TV","image": "https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live110_mobile.png","url": "https://petclub-samsungaus.amagi.tv/playlist.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Love Pets","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBdEpCXEk9-CQYiDjJmPsrrfwNU-p6pWD4ow&s","url": "https://jmp2.uk/sam-GBBD1100003I0.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "The Pet Collective","image": "https://v.fastcdn.co/u/ce0680fc/57609977-0-TPC-OTT-SQUARE.jpg","url": "https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Lucky Dog","image": "https://i.imgur.com/rw4EuGy.png","url": "https://pb-m-azxe62mlh4rpt.s.llnwi.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-azxe62mlh4rpt/f000fcf4-0ee0-44c7-89b8-62f44e89467c/2.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Rovr Pets","image": "https://i.imgur.com/Pj3t3mx.png","url": "https://jmp2.uk/sam-USBC2400024FN.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Destination Nature","image": "https://i.imgur.com/EYvZDw3.png","url": "https://d2cl8wi5f8zf1j.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ay35jkybhd8m/c7a10bdf-6790-4116-bd4e-c5f43779e1c4/3.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Wilder Planet","image": "https://img.netzwelt.de/dw1600_dh900_sw0_sh0_sx0_sy0_sr16x9_nu2/picture/original/2023/08/wilder-planet-379437.png","url": "https://jmp2.uk/sam-CHBA3300028G3.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Wilder Planet","image": "https://img.netzwelt.de/dw1600_dh900_sw0_sh0_sx0_sy0_sr16x9_nu2/picture/original/2023/08/wilder-planet-379437.png","url": "https://d3c7duantorcb1.cloudfront.net/amgwildplanetuk/playlist.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "INWILD","image": "https://axiommedia.co/wp-content/uploads/2020/12/inwild-use.png","url": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "INFAST","image": "https://cdn.uc.assets.prezly.com/1b9c9500-cb43-449b-9eb6-9579640ec904/InFast_portrait-red.png","url": "https://insighttv-samsung-us.amagi.tv/playlist.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Love The Planet","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzTlHF3n4MCt1oqEyJQp2e3aIGKkwAuLTwfE30gDAlT-c6CjzDNJYvxXyn09V0e7OT6PQ&usqp=CAU","url": "https://jmp2.uk/sam-DEBC4700004VZ.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Love The Planet","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzTlHF3n4MCt1oqEyJQp2e3aIGKkwAuLTwfE30gDAlT-c6CjzDNJYvxXyn09V0e7OT6PQ&usqp=CAU","url": "https://jmp2.uk/sam-ITBC4700003GR.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "4K-TRAVEL","image": "https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712612339bhKq2lZNGi-original-I5f7f5UE.png","url": "https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate2.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+]},
