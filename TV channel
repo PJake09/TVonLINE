@@ -1,0 +1,182 @@
+  {
+   "name": "ช่องทีวีออนไลน์",
+   "info": "HD th IMDb n/a",
+   "image": "https://img2.pic.in.th/pic/images563ae4e8f84f959a.jpeg",
+   "stations": [
+    {
+     "name": "NBT",
+     "image": "https://media-mvtv.imgix.net/channel/115_y_fFG0J46IoYNzUjVKatsbL7vZByxiMqTm.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/",
+   "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "TPBS",
+     "image": "https://media-mvtv.imgix.net/channel/116_y_cze67bhJwH8CIOaqnULfg0kKPAs2TQW1.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "ALTV",
+     "image": "https://media-mvtv.imgix.net/channel/117_y_8JTfbUnwW9t2kuVh6ZpONEqv7MeBIsQR.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "5HD",
+     "image": "https://media-mvtv.imgix.net/channel/118_y_0kEyP9Yrw5jTWflXevIZ1Dqhoa2mi4QO.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "T Sport",
+     "image": "https://media-mvtv.imgix.net/channel/119_y_OhjxHr9fqS2i0NJvPUlcL85mn6e4FoIu.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "MV Mall Plus",
+     "image": "https://media-mvtv.imgix.net/channel/32_y_B1QfWmDNsgnKI7xCzkrYeTt4LR8EGqy6.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/fded/mvmallplus/mvmallplus.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "TPTV",
+     "image": "https://media-mvtv.imgix.net/channel/120_y_VSgE7P9GiDCxrhFWUALYpvzfM12cdqmH.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffec/tptv/tptv.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "TNN",
+     "image": "https://media-mvtv.imgix.net/channel/121_y_uQNBde5zrpo4TKm9kOZPx6iRbGaACfFE.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "JKN18",
+     "image": "https://media-mvtv.imgix.net/channel/122_y_bzfht4O5uRNHylcq1D6nV9TvxmdXWaQP.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "Nation",
+     "image": "https://media-mvtv.imgix.net/channel/123_y_3vyW276UFjIStew9DHJNs8AGKfdmZXpu.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcc/nation/nation.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "Workpoint",
+     "image": "https://media-mvtv.imgix.net/channel/124_y_1PI2djLbMJpXO0n5oywKiNDzsWfTuFg4.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "True24",
+     "image": "https://media-mvtv.imgix.net/channel/125_y_vQwogyPUC1FsRhK9TmzSWqb8YI6aktcM.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "GMM25",
+     "image": "https://media-mvtv.imgix.net/channel/126_y_6PH49bDqlg1aSxGoNUdT83R5Jkeyf2mB.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "ช่อง 8",
+     "image": "https://media-mvtv.imgix.net/channel/127_y_uhsXzFBxYD6Wq2mpZeIUb4M7RK1ECkn8.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "MONO 29",
+     "image": "https://media-mvtv.imgix.net/channel/128_y_KUvdGmb2hpV41ni5rCk9OlFoXePMA80Q.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "MCOT",
+     "image": "https://media-mvtv.imgix.net/channel/129_y_hG7Nj2qWnldBu0fkMDyvT8CwYXLI649F.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbb/mcot/mcot.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "ONE",
+     "image": "https://media-mvtv.imgix.net/channel/130_y_3Lx4j6ZzpIidKPqChaF2QRYeWorw79Jv.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "Thairath",
+     "image": "https://media-mvtv.imgix.net/channel/131_y_iJmHlFadZ0G8EhIYMw2A3OfbN1Qpzgou.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "3HD",
+     "image": "https://media-mvtv.imgix.net/channel/132_y_TFYiXWvrUf4s8tbIwJ29S3zMNeqghGmB.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "Amarin",
+     "image": "https://media-mvtv.imgix.net/channel/133_y_kLIyaJt3VoGD8sqrHnhKPjZUQ0RE6mu4.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "7HD",
+     "image": "https://media-mvtv.imgix.net/channel/134_y_YTkIZJDsbmX26owPRpAFSfW0eyz95vn4.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "PPTV",
+     "image": "https://media-mvtv.imgix.net/channel/135_y_7hl4KHdwBqS0VGNCskrDLyci538zY2Qx.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "Boomerang",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/640px-Boomerang_tv_logo.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "Boom Animation",
+     "image": "https://img5.pic.in.th/file/secure-sv1/IMG_20250718_183505.jpg",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "TTD7",
+     "image": "https://media-mvtv.imgix.net/channel/102_y_H9WxnVREmrDL72MFQ86Ycwkzhg3yGTBU.png",
+     "url": "https://psiiptv-b.sky-cdn.com/ttd07-playlist/tracks-v1a1/mono.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "TTD8",
+     "image": "https://media-mvtv.imgix.net/channel/103_y_jm5ykb0fX7vZCTGAtcHdSz8LarVKiFJE.png",
+     "url": "https://psiiptv-b.sky-cdn.com/ttd08-playlist/tracks-v1a1/mono.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "TTD9",
+     "image": "https://media-mvtv.imgix.net/channel/104_y_Jf2RiAdxLZINXazDvEMGr5Hg3YFCuQ7k.png",
+     "url": "https://psiiptv-b.sky-cdn.com/ttd09-playlist/tracks-v1a1/mono.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "channel 8th",
+     "image": "https://www.tvjaa.com/storage/tv-channels/channel8thailand.png",
+     "url": "https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1808236465.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "MONO MAX",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxRlw08TgtxtmLbbRb96hVIicFeCkgYSZBS2DLdK-Im_bN-jZF5_NT3Bx3&s=10",
+     "url": "https://219.livedoomovies.com:4431/Monomax_Live_1HD/chunklist.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    }
+   ]
+  },
