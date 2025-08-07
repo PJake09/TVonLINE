@@ -143,8 +143,6 @@
      "referer": "https://green-edeline-59.tiiny.site/"
     },
     {
-    },
-    {
      "name": "MV Mall Plus",
      "image": "https://media-mvtv.imgix.net/channel/32_y_B1QfWmDNsgnKI7xCzkrYeTt4LR8EGqy6.png",
      "url": "https://lb1-live-mv.v2h-cdn.com/hls/fded/mvmallplus/mvmallplus.m3u8",
@@ -306,8 +304,7 @@
     "image": "https://dl.dropboxusercontent.com/scl/fi/mckmgor8n1ku3tje1jhlp/TTD-3.png?rlkey=az5qx33f346aved1sz4hgnxil&dl=0",
     "url": "https://psiiptv-b.sky-cdn.com/ttd03-playlist/index.m3u8",
     "referer": "https://mvtv.co.th/",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
-    "playInNatPlayer": "true"
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
     },
     {
     "name": "TTD 4",
@@ -346,8 +343,6 @@
      "referer": "https://green-edeline-59.tiiny.site/"
     },
     {
-    },
-    {
     "name": "TTD 10",
     "image": "https://dl.dropboxusercontent.com/scl/fi/7kxf8pixw6u76jcoz5cph/TTD-10.png?rlkey=nqkcgyckxf548mw1qhcla73kk&dl=0",
     "url": "https://psiiptv-b.sky-cdn.com/ttd10-playlist/index.m3u8",
@@ -364,6 +359,8 @@
     "image": "https://dl.dropboxusercontent.com/scl/fi/14m9bl63we5hk9k8n9yqs/TTD-11.png?rlkey=bjpl20uri8it6zt3g5ixknk77&dl=0",
     "url": "https://psiiptv-b.sky-cdn.com/ttd12-playlist/index.m3u8",
     "referer": "https://mvtv.co.th/"
+    },
+    {
      "name": "channel 8th",
      "image": "https://www.tvjaa.com/storage/tv-channels/channel8thailand.png",
      "url": "https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1808236465.m3u8",
