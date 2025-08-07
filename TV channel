@@ -35,12 +35,6 @@
      "referer": "https://green-edeline-59.tiiny.site/"
     },
     {
-     "name": "MV Mall Plus",
-     "image": "https://media-mvtv.imgix.net/channel/32_y_B1QfWmDNsgnKI7xCzkrYeTt4LR8EGqy6.png",
-     "url": "https://lb1-live-mv.v2h-cdn.com/hls/fded/mvmallplus/mvmallplus.m3u8",
-     "referer": "https://green-edeline-59.tiiny.site/"
-    },
-    {
      "name": "TPTV",
      "image": "https://media-mvtv.imgix.net/channel/120_y_VSgE7P9GiDCxrhFWUALYpvzfM12cdqmH.png",
      "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffec/tptv/tptv.m3u8",
@@ -149,6 +143,191 @@
      "referer": "https://green-edeline-59.tiiny.site/"
     },
     {
+    },
+    {
+     "name": "MV Mall Plus",
+     "image": "https://media-mvtv.imgix.net/channel/32_y_B1QfWmDNsgnKI7xCzkrYeTt4LR8EGqy6.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/fded/mvmallplus/mvmallplus.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "MVTV",
+     "image": "https://media-mvtv.imgix.net/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "MVMall Best",
+     "image": "https://media-mvtv.imgix.net/channel/89_y_VANZnYQrbU09LjOkcRhqyP2su7T84Six.jpg",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffee/mvmall_best/mvmall_best.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "MVMall Healthy",
+     "image": "https://media-mvtv.imgix.net/channel/36_y_LzOCkoTG95mZhJ6IrADcMafyPQ1qVBE4.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/fdff/mvmallhelth/mvmallhelth.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "MVMall DD",
+     "image": "https://media-mvtv.imgix.net/channel/40_y_R3MIzeVEgNlZovn5byXDchKdr9P12QfF.jpg",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "MVMall Home",
+     "image": "https://media-mvtv.imgix.net/channel/112_y_2uKgIhyzBtmJCVlqGTaX16b9A3HenR0D.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffdf/mvmallhome/mvmallhome.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "MVMall Trend",
+     "image": "https://media-mvtv.imgix.net/channel/42_y_asRhutXew0MHlc71OyvfSd3VzI2Zg9oB.jpg",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/fdfe/mvmalltrend/mvmalltrend.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "MVMall Living",
+     "image": "https://media-mvtv.imgix.net/channel/171_y_XOJ6qMirnDGuk01TLQjlWho5PtKSa9Ud.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/fddc/mvmallliving/mvmallliving.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "MVMall Family",
+     "image": "https://media-mvtv.imgix.net/channel/107_y_aNzHOm07eZL1nc5MkpIUTBfPGit2qE4y.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffdb/mvmallfamily/mvmallfamily.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "MVMall Happy",
+     "image": "https://media-mvtv.imgix.net/channel/69_y_FD5yRW1S6BqcGHEbZmKsepTMldijN0wv.jpg",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffce/happytv/happytv.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "MVMALL OK",
+     "image": "https://media-mvtv.imgix.net/channel/189_y_v73TKVufSQ9o1FerI6hBdAxnwGXtmDCJ.jpg",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/fdcc/mvmallok/mvmallok.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "MVMall Pro D",
+     "image": "https://media-mvtv9.imgix.net/channel/191_y_E5JXw4pWzkNuCytSFBbAhRVnqjdKQYUD.jpg",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/fdc9/prod/prod.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "MVLAO",
+     "image": "https://media-mvtv.imgix.net/channel/33_y_H4Rw5iJ7py10NvGAPEhWbYD6SgfarXOc.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "MVM",
+     "image": "https://media-mvtv.imgix.net/channel/34_y_PNWygduIqYU4DxtCrMoRzp60JFbkAGHO.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/feff/mvm/mvm.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "ไทบ้านทีวี",
+     "image": "https://media-mvtv.imgix.net/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "France 24",
+     "image": "https://media-mvtv.imgix.net/channel/151_y_YrFS8xk32BmplLV4NcHgdXRsuU7TvWZ5.png",
+     "url": "https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "CNA",
+     "image": "https://media-mvtv.imgix.net/channel/152_y_zynZw6RpjUoxHbGMh28eCKk9BlqIXJAa.png",
+     "url": "https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "NHK WORLD",
+     "image": "https://media-mvtv.imgix.net/channel/155_y_ERge294wz1fsLvyCjX3DStPGcMmYFIKo.jpg",
+     "url": "https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "CCTV4",
+     "image": "https://media-mvtv.imgix.net/channel/154_y_lIpB1wRXh7vQUYcAkzxLd8EVbg9Gsa0u.png",
+     "url": "http://edge2a.v2h-cdn.com/cctv4/cctv4.stream/playlist.m3u8",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },            
+    {
+    "name": "FW Movie",
+    "image": "https://img5.pic.in.th/file/secure-sv1/MOV.png",
+    "url": "https://www.inwiptv.com/player_demo.php?channel=95262",
+     "referer": "https://green-edeline-59.tiiny.site/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+    },       
+    {
+    "name": "FW Series",
+    "image": "https://img5.pic.in.th/file/secure-sv1/SIR.png",
+    "url": "https://www.inwiptv.com/player_demo.php?channel=94898",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },       
+    {
+    "name": "FW cartoon",
+    "image": "https://img2.pic.in.th/pic/CAR.png",
+    "url": "https://www.inwiptv.com/player_demo.php?channel=92941",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },       
+    {
+    "name": "FW Comedy",
+    "image": "https://img5.pic.in.th/file/secure-sv1/COM.png",
+    "url": "https://www.inwiptv.com/player_demo.php?channel=89781",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },       
+    {
+    "name": "FW Sports",
+    "image": "https://img5.pic.in.th/file/secure-sv1/SPb8cb76e015c2361b.png",
+    "url": "https://www.inwiptv.com/player_demo.php?channel=89782",
+     "referer": "https://green-edeline-59.tiiny.site/"
+    },
+    {
+     "name": "TTD1",
+     "image": "https://dl.dropboxusercontent.com/scl/fi/15ks996jytasor58igl5e/TTD-1.png?rlkey=5hfxhwatz4v3fqwhc47kofmng&dl=0",
+     "url": "https://psiiptv-b.sky-cdn.com/ttd01-playlist/index.m3u8",
+     "referer": "https://mvtv.co.th/"
+    },
+    {
+     "name": "TTD 2",
+     "image": "https://dl.dropboxusercontent.com/scl/fi/yqjxa7wiys0p4d6reimiv/TTD-2.png?rlkey=7b2okspjvwwmj9xv2qyqmcj2e&dl=0",
+     "url": "https://psiiptv-b.sky-cdn.com/ttd02-playlist/index.m3u8",
+     "referer": "https://mvtv.co.th/"
+    },
+    {
+    "name": "TTD 3",
+    "image": "https://dl.dropboxusercontent.com/scl/fi/mckmgor8n1ku3tje1jhlp/TTD-3.png?rlkey=az5qx33f346aved1sz4hgnxil&dl=0",
+    "url": "https://psiiptv-b.sky-cdn.com/ttd03-playlist/index.m3u8",
+    "referer": "https://mvtv.co.th/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+    "playInNatPlayer": "true"
+    },
+    {
+    "name": "TTD 4",
+    "image": "https://dl.dropboxusercontent.com/scl/fi/9y4ivvwyn0b4jldqlp8jz/TTD-4.png?rlkey=kl1ydluq3mvrizkp6ktjzipvv&dl=0",
+    "url": "https://psiiptv-b.sky-cdn.com/ttd04-Playlist/index.m3u8",
+    "referer": "https://mvtv.co.th/"
+    },
+    {
+    "name": "TTD 5",
+    "image": "https://dl.dropboxusercontent.com/scl/fi/enhobbf8ii3yy3mzd6elh/TTD-5.png?rlkey=1r9vte3zr69lc7t6yqicd3xmi&dl=0",
+    "url": "https://psiiptv-b.sky-cdn.com/ttd05-playlist/index.m3u8",
+    "referer": "https://mvtv.co.th/"
+    },
+    {
+    "name": "TTD 6",
+    "image": "https://dl.dropboxusercontent.com/scl/fi/fb92i0r1n5ru50gx4wxm5/TTD-6.png?rlkey=7lc80r43s5u7gxmpszjcuw2uy&dl=0",
+    "url": "https://psiiptv-b.sky-cdn.com/ttd06-playlist/index.m3u8",
+    "referer": "https://mvtv.co.th/"
+    },
+    {
      "name": "TTD7",
      "image": "https://media-mvtv.imgix.net/channel/102_y_H9WxnVREmrDL72MFQ86Ycwkzhg3yGTBU.png",
      "url": "https://psiiptv-b.sky-cdn.com/ttd07-playlist/tracks-v1a1/mono.m3u8",
@@ -167,6 +346,24 @@
      "referer": "https://green-edeline-59.tiiny.site/"
     },
     {
+    },
+    {
+    "name": "TTD 10",
+    "image": "https://dl.dropboxusercontent.com/scl/fi/7kxf8pixw6u76jcoz5cph/TTD-10.png?rlkey=nqkcgyckxf548mw1qhcla73kk&dl=0",
+    "url": "https://psiiptv-b.sky-cdn.com/ttd10-playlist/index.m3u8",
+    "referer": "https://mvtv.co.th/"
+    },
+    {
+    "name": "TTD 11",
+    "image": "https://dl.dropboxusercontent.com/scl/fi/14m9bl63we5hk9k8n9yqs/TTD-11.png?rlkey=bjpl20uri8it6zt3g5ixknk77&dl=0",
+    "url": "https://psiiptv-b.sky-cdn.com/ttd11-playlist/index.m3u8",
+    "referer": "https://mvtv.co.th/"
+    },
+    {
+    "name": "TTD 12",
+    "image": "https://dl.dropboxusercontent.com/scl/fi/14m9bl63we5hk9k8n9yqs/TTD-11.png?rlkey=bjpl20uri8it6zt3g5ixknk77&dl=0",
+    "url": "https://psiiptv-b.sky-cdn.com/ttd12-playlist/index.m3u8",
+    "referer": "https://mvtv.co.th/"
      "name": "channel 8th",
      "image": "https://www.tvjaa.com/storage/tv-channels/channel8thailand.png",
      "url": "https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1808236465.m3u8",
