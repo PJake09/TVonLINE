@@ -249,43 +249,36 @@
      "image": "https://media-mvtv.imgix.net/channel/155_y_ERge294wz1fsLvyCjX3DStPGcMmYFIKo.jpg",
      "url": "https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8",
      "referer": "https://green-edeline-59.tiiny.site/"
-    },
-    {
-     "name": "CCTV4",
-     "image": "https://media-mvtv.imgix.net/channel/154_y_lIpB1wRXh7vQUYcAkzxLd8EVbg9Gsa0u.png",
-     "url": "http://edge2a.v2h-cdn.com/cctv4/cctv4.stream/playlist.m3u8",
-     "referer": "https://green-edeline-59.tiiny.site/"
-    },            
-    {
-    "name": "FW Movie",
-    "image": "https://img5.pic.in.th/file/secure-sv1/MOV.png",
-    "url": "https://www.inwiptv.com/player_demo.php?channel=95262",
-     "referer": "https://green-edeline-59.tiiny.site/",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
     },       
     {
-    "name": "FW Series",
-    "image": "https://img5.pic.in.th/file/secure-sv1/SIR.png",
-    "url": "https://www.inwiptv.com/player_demo.php?channel=94898",
-     "referer": "https://green-edeline-59.tiiny.site/"
+"name"		: "FwMov",  
+"image"		: "https://www.fileinw.com/postor/20240429213309FWMOV.jpg",  
+"url"  : "https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=",
+"playInNatPlayer"	:	"true"
     },       
     {
-    "name": "FW cartoon",
-    "image": "https://img2.pic.in.th/pic/CAR.png",
-    "url": "https://www.inwiptv.com/player_demo.php?channel=92941",
-     "referer": "https://green-edeline-59.tiiny.site/"
+"name"		: "FwSon",
+"image"		: "https://www.fileinw.com/postor/20240429213326FWSOV.jpg",  
+"url"  : "https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=",
+"playInNatPlayer"	:	"true"
     },       
     {
-    "name": "FW Comedy",
-    "image": "https://img5.pic.in.th/file/secure-sv1/COM.png",
-    "url": "https://www.inwiptv.com/player_demo.php?channel=89781",
-     "referer": "https://green-edeline-59.tiiny.site/"
+"name"		: "FWTOON",  
+"image"		: "https://www.fileinw.com/postor/20240429213651FWTOON.jpg",  
+"url"  : "https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=",
+"playInNatPlayer"	:	"true"
     },       
     {
-    "name": "FW Sports",
-    "image": "https://img5.pic.in.th/file/secure-sv1/SPb8cb76e015c2361b.png",
-    "url": "https://www.inwiptv.com/player_demo.php?channel=89782",
-     "referer": "https://green-edeline-59.tiiny.site/"
+"name"		: "FWDOC",  
+"image"		: "https://www.fileinw.com/postor/20240617204638FWDoc.jpg",  
+"url"  : "https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=",
+"playInNatPlayer"	:	"true"
+    },       
+    {
+"name"		: "FWSPORT",  
+"image"		: "https://www.fileinw.com/postor/20240429213640FWsport.jpg",  
+"url"  : "https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=",
+"playInNatPlayer"	:	"true"
     },
     {
      "name": "TTD1",
