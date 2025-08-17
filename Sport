@@ -209,11 +209,19 @@
 },
 
 {
+"name": "MonomaxX",
+"image": "https://i.postimg.cc/gcNsWPbN/444.jpg",
+"url": "https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/monomax1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI1IDU6NTI6MjEgQU0maGFzaF92YWx1ZT15cGFwaXJvY0tBUXZ4Y2NJYWk5Q093PT0mdmFsaWRtaW51dGVzPTIw",
+"referer": "https://goal-th.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/10.0.0.0 Safari/537.36"
+},
+
+{
 "name": "truesports 1",
 "image": "https://dookeela.live/uploads/1664802455.png",
 "url": "https://dookeela.live/live-tv/tsp1",
 "referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
 },
 
 {
