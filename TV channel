@@ -599,9 +599,9 @@ url:"https://live.cool-channel.com/cool/live-720P.m3u8",
 "url": "https://cdn1.googlecdnforstreaming.live/live/sporttv2/chunks.m3u8",
 "referer": "https://warpdooball.net/",
 "playInNatPlayer": "true"
-},
-]                                                    
 }
+]
+},
 
 {
 "name": "ทีวีดิจิตอล",
