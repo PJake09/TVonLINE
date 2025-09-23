@@ -20,16 +20,16 @@
 {
 "name": "TRUE THAIFILM",
 "image": "https://img2.pic.in.th/pic/CHI-cropd772890a7e272794.png",
-"url": "https://streamamg-fa.akamaiz.com/dookeela/truethaifilm/chunks.m3u8?nimblesessionid=67893337&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI1LCA3OjQ5OjUxIEFNJmhhc2hfdmFsdWU9eXY4QzN4VXFSUGprS21WelBhaWk5dz09JnZhbGlkbWludXRlcz0xJmlkPTQyZWNiMDcyMDk2ZWY1YTVhYzhmMzQyOWQ2Yjg3YWQxJmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0yMQ==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
+"url": "https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/truethaifilm/chunks.m3u8?nimblesessionid=61894333&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI1IDM6NDY6MTEgUE0maGFzaF92YWx1ZT1HVUc5UUp3R1VtaCtzZDgrTFhVUkl3PT0mdmFsaWRtaW51dGVzPTIw",
+"referer": "https://goal-th.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
+"playInNatPlayer": "true"
 },
 {
 "name": "Asian More",
-"image": "https://api.letitgooooo.org/images/png/hd-asianmore.png",
-"url": "
-https://e107.hellotherepadawan.org/v5/arpFCEsdzAH8Ino9_Lrw1g/1758610205/764d5ca9621757aeeb755223bdff7b33/l8hTUTHOJRLK-ZofJD8Udw/1758620885/live/vx-origin/hd-asianmore_720/chunks.m3u8",
-"referer": "https://embed.letitgooooo.org/",
+"image": "https://dookeela.live/uploads/1719205850.png",
+"url": "https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/trueasianmore/chunks.m3u8?nimblesessionid=61894820&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI1IDQ6MDc6MzMgUE0maGFzaF92YWx1ZT1oRFNBaXY0M0dZejRLd1VNRGkxSHNBPT0mdmFsaWRtaW51dGVzPTIw",
+"referer": "https://goal-th.com/",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
 "playInNatPlayer": "true"
 },
@@ -43,10 +43,9 @@ https://e107.hellotherepadawan.org/v5/arpFCEsdzAH8Ino9_Lrw1g/1758610205/764d5ca9
 },
 {
 "name": "True Film Asia",
-"image": "https://api.letitgooooo.org/images/png/sd-filmasia.png",
-"url": "
-https://e111.hellotherepadawan.org/v5/3jYJDAUl8NjzPq2Cmj2otA/1758610556/764d5ca9621757aeeb755223bdff7b33/emcb7MvnpgOdR8mAzAXCag/1758621236/live/vx-origin/sd-filmasia_720/chunks.m3u8",
-"referer": "https://embed.letitgooooo.org/",
+"image": "https://dookeela.live/uploads/1719205705.png",
+"url": "https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/truefilmasia/chunks.m3u8?nimblesessionid=61895016&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI1IDQ6MTI6MDQgUE0maGFzaF92YWx1ZT13MUxnK0NmbTZDQmNTcER3WVlzNHRRPT0mdmFsaWRtaW51dGVzPTIw",
+"referer": "https://goal-th.com/",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
 "playInNatPlayer": "true"
 },
