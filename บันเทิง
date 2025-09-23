@@ -1,1523 +1,339 @@
-{
-"name": " Wiseplay Online 😂😂😂","author": "","image":"https://img5.pic.in.th/file/secure-sv1/4458.jpg","groups":
-[
-{"name": "Digital TV","image":"https://img5.pic.in.th/file/secure-sv1/a767f2459f3e67ab6792f048b04446cb.png","stations": [
-
- {
-"name": "3HD",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "https://dookeela.live/live-tv/ch3hd",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "5HD",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "https://dookeela.live/live-tv/ch5hd",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "7HD",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "https://dookeela.live/live-tv/ch7hd",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "MCOT HD",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "https://dookeela.live/live-tv/mcothd",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "NBT HD",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "TPBS HD",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "THAIRAHT",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "https://dookeela.live/live-tv/thairathtv",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "ONE HD",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "https://dookeela.live/live-tv/one31",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "AMARIN TV",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "https://dookeela.live/live-tv/amarintv",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "PPTV HD",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "https://dookeela.live/live-tv/pptv",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": MONO29",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/chunklist_b6628000.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "WORKPOINT TV",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "https://edge6a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "GMM TV",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/playlist.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "TRUE4U",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "TNN24",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": " https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "NATION22",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "JKN18",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "CH8",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "VOICE TV",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "https://edge6a.v2h-cdn.com/v2h2/v2h2.stream/chunklist.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "NEWS1",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "http://news1.live14.com/stream/news1_hi.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "ALTV4",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "TPTV",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "POLICE",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "https://cdn-th-vip.login.in.th/policetv/policetv/chunklist_w1654756275.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "T SPORTS7",
-"image": "https://img5.pic.in.th/file/secure-sv1/c8c6347e52a9753f429c2b023dac33c8.png",
-"url": "https://dookeela.live/live-tv/tsports7",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-}
-]
-},
-{"name": "Sports","image":"https://img5.pic.in.th/file/secure-sv1/images-crop.png","stations": [
- {
-"name": "PREMIERHD1",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/epl1_sd",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
- {
-"name": "PREMIERHD2",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/epl2",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
- {
-"name": "PREMIERHD3",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/epl3",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
- {
-"name": "PREMIERHD4",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/epl4",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
- {
-"name": "PREMIERHD5",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/epl5",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
- {
-"name": "TSPHD1",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/tsp1",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "TSPHD2",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/tsp2",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "TSPHD3",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/tsp3",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "TSPHD4",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/tsp4",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "TSP5",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/tsp5",
-"referer": "https://freetvdd.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "TSP7",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/tsp7",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
-
- {
-"name": "BEIN1",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/bein1",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "BEIN2",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/bein2",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "BEIN3",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/bein3",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "TRUE TENNIS",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/truetennis",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
-{
-"name": "T Sports7",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
- {
-"name": "GOLF",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/golf",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "SPOTV1",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/spotv",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "SPOTV2",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/spotv2",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "NBA",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/nba",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "NFL",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/nfl",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
-
-{
-"name": "WWE",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/wwe",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "ARENA SPORT1",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/arenasport1",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "ARENA SPORT2",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/arenasport2",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "ARENA SPORT3",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/arenasport3#",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "ARENA SPORT4",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/arenasport4",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
-{
-"name": "FIGHT SPORTS",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/fight-sports",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
-{
-"name": "MUTV",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/mutv",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
-{
-"name": "ASTRO1",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/astro1",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "ASTRO2",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/astro2",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "ASTRO3",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/astro3",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "ASTRO4",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/astro4",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "ASTRO5",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=my-asp5&api_key=hmcb4rf66f",
-"referer": "https://dooball66x.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-  "embed":"true"
-},
-{
-"name": "SUPER SPORT 01 (LALIGA)",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=af-supersport1&api_key=hmcb4rf66f",
-"referer": "https://dooball66x.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "SUPER SPORT 02 (CRICKET)",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=af-supersport2&api_key=hmcb4rf66f",
-"referer": "https://dooball66x.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-  "embed":"true"
-},
-{
-"name": "SUPER SPORT 03 (BLITZ)",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=af-supersport3&api_key=hmcb4rf66f",
-"referer": "https://dooball66x.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-  "embed":"true"
-},
-{
-"name": "SUPER SPORT 04 (GRANDSTAND)",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=af-supersport4&api_key=hmcb4rf66f",
-"referer": "https://dooball66x.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-  "embed":"true"
-},
-{
-"name": "SUPER SPORT 05 (VARIETY 2)",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=af-supersport5&api_key=hmcb4rf66f",
-"referer": "https://dooball66x.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-  "embed":"true"
-},
-{
-"name": "SUPER SPORT 06 (VARIETY 1)",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=af-supersport6&api_key=hmcb4rf66f",
-"referer": "https://dooball66x.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-  "embed":"true"
-},
-{
-"name": "SUPER SPORT 07 (MOTORSPORT)",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=af-supersport7&api_key=hmcb4rf66f",
-"referer": "https://dooball66x.com/https://dooball66x.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-  "embed":"true"
-},
-{
-"name": "SUPER SPORT 08 (PREMIER LEAGUE)",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=af-supersport8&api_key=hmcb4rf66f",
-"referer": "https://dooball66x.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-  "embed":"true"
-},
-{
-"name": "SUPER SPORT 09 (VARIETY 4)",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=af-supersport9&api_key=hmcb4rf66f",
-"referer": "https://dooball66x.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-  "embed":"true"
-},
-{
-"name": "SUPER SPORT 10 (VARIETY 3)",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=af-supersport10&api_key=hmcb4rf66f",
-"referer": "https://dooball66x.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "SUPER SPORT 11 (RUGBY)",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=af-supersport11&api_key=hmcb4rf66f",
-"referer": "https://dooball66x.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-  "embed":"true"
-},
-{
-"name": "SUPER SPORT 12 (ACTION)",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=af-supersport12&api_key=hmcb4rf66f",
-"referer": "https://dooball66x.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-  "embed":"true"
-},
-{
-"name": "SUPER SPORT 13 (FOOTBALL)",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=af-supersport13&api_key=hmcb4rf66f",
-"referer": "https://dooball66x.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-  "embed":"true"
-},
-{
-"name": "SUPER SPORT 14 (PSL)",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=af-supersport14&api_key=hmcb4rf66f",
-"referer": "https://dooball66x.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-  "embed":"true"
-},
-{
-"name": "SUPER SPORT 15 (TENNIS)",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=af-supersport15&api_key=hmcb4rf66f",
-"referer": "https://dooball66x.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-  "embed":"true"
-},
-{
-"name": "SUPER SPORT 16 (GOLF)",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=af-supersport16&api_key=hmcb4rf66f",
-"referer": "https://dooball66x.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-  "embed":"true"
-},
-{
-"name": "SUPER SPORT 17 (MAXIMO)",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=af-supersport17&api_key=hmcb4rf66f",
-"referer": "https://dooball66x.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-  "embed":"true"
-},
-{
-"name": "SKYNET SPORTS HD",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"imageScale": "fitStart",
-"url": "https://www.inwiptv.com/player_demo.php?channel=89782",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},       
-]
-},
-{"name": "Movies","image":"https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png","stations": [
-{
-"name": "HBO HD ",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"url": "https://dookeela.live/live-tv/hbo",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "HBO HITS",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"url": "https://dookeela.live/live-tv/hbo-hits",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "HBO FAMILY",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"url": "https://dookeela.live/live-tv/hbo-family",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name":"HBOSIGNATURE",
-"image":"https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"url":"https://dookeela.live/live-tv/hbo-signature",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-                
-{
-"name":"CINEMAX HD",
-"image":"https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"url":"https://dookeela.live/live-tv/cinemax",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-}, 
-
-{
-"name":"WANER TV",
-"image":"https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
- "url": "https://dookeela.live/live-tv/warnertv",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "AXN HD",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"url": "https://dookeela.live/live-tv/axn",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},       
-
-{
-"name": "PARAMOUNT NETWORK",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"url": "https://dookeela.live/live-tv/paramount-network",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},       
-{
-"name": "iQIYI",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"url": "https://dookeela.live/live-tv/iqiyi",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},       
-
-{
-"name": "TRUE FILMHD1",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"url": "https://dookeela.live/live-tv/truefilm1",
-"referer": "https://freetvdd.com",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},       
-
-{
-"name": "TRUE FILMHD2",
-"image":"https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"url": "https://dookeela.live/live-tv/truefilm2",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},        
-
-{
-"name": "TRUE ASIANMORE",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png", 
-"url" : "https://dookeela.live/live-tv/trueasianmore",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-
-},        
-
-{
-"name": " TRUE THAIFILM",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"url": "https://dookeela.live/live-tv/truethaifilm",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},       
-
-{
-"name": "ROCK ENTERTAINMENT",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png", 
-"url": "https://dookeela.live/live-tv/rock-entertainment", 
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": ""
-},       
-
-{
-"name": "ROCK ACTION",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png", 
-"url": "https://dookeela.live/live-tv/rock-action", 
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"epgId": ""
-},       
-
-{
-"name":"TRUE MOVIEHITE",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"url": "https://dookeela.live/live-tv/truemoviehits",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},       
-
-{
-"name": "TRUE SERIES",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"url": "https://dookeela.live/live-tv/trueseries#",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},       
-
- {
-"name": "TRUE FILMASIA",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png", 
-"url": "https://dookeela.live/live-tv/truefilmasia",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-}, 
-
- {
-"name": "HITS MOVIES",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png", 
-"url": "https://dookeela.live/live-tv/hits-movies",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-}, 
-
- {
-"name": "HITS",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png", 
-"url": "https://dookeela.live/live-tv/hits",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-}, 
-    
-{
-"name":"3BB ASIAN",
-"image":"https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"url":"https://dookeela.live/live-tv/3bbasian",
-  "referer": "https://dookeela.live/live-tv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},         
-
-{
-"name":"MONO PLUS",
-"image":"https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"url": "https://dookeela.live/live-tv/mono29plus",
-"referer": "https://dookeela.live/live-tv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},  
-
-{
-"name":"TVN",
-"image":"https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"url": "https://dookeela.live/live-tv/tvn-indonesia",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},  
-
-{
-"name": "CCM",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"imageScale": "fitStart",
-"url": "https://dookeela.live/live-tv/ccm",
-"referer": "https://dookeela.live/",
- "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},          
-
-{
-"name": "มังกร",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"url": "https://dookeela.live/live-tv/mangorn",
- "referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},            
-
-{
-"name": "FW Movie",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"imageScale": "fitStart",
-"url": "https://www.inwiptv.com/player_demo.php?channel=95262",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},       
-
-{
-"name": "FW Series",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"imageScale": "fitStart",
-"url": "https://www.inwiptv.com/player_demo.php?channel=94898",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},       
-
-{
-"name": "FW cartoon",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"imageScale": "fitStart",
-"url": "https://www.inwiptv.com/player_demo.php?channel=92941",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},       
-
-{
-"name": "FW Comedy",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"imageScale": "fitStart",
-"url": "https://www.inwiptv.com/player_demo.php?channel=89781",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},       
-
-{
-"name": "BOX FILM",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"imageScale": "fitStart",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},       
-
-{
-"name": "7FLIX",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"imageScale": "fitStart",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},       
-
-{
-"name": "MOVIE WORLD1th",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"imageScale": "fitStart",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},     
-
-{
-"name": "MOVIE WORLD1eng",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"imageScale": "fitStart",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},     
-
-{
-"name": "MOVIE WORLD2",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"imageScale": "fitStart",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},     
-
-{
-"name": "MOVIE WORLD3",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"imageScale": "fitStart",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},     
-
-{
-"name": "CHANNEL8",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"url": "http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "HLN",
-"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC12/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-]
-},
-{"name": "Docomentary","image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png","stations": [
-{
-"name": "CRIME INVESTI GATION",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url" : "https://dookeela.live/live-tv/crime-investigation",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
- },
-
-{
-"name": "HISTORY",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/history",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "GLOBAL TREKKER CHANNEL",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/global-trekker-channel",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "NATIONAL-GEOGRAPHIC",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/national-geographic",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "NAT-GEO-WILD",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/nat-geo-wild",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "FOOD NETWORK",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/foodnetwork",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "TRUE  X-ZYTE",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/truex-zyte#",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "สำรวจโลก",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/samrujlok",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "MYSCI",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/mysci",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name":"DISCOVERY CHANNEL",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url":"https://dookeela.live/live-tv/discovery",
-"referer":"https://dookeela.live/", 
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name":"DISCOVERY ASIA",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/discovery-asia",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"playInNatPlayer": "true"
-},
-
-{
-"name":"BBC EARTH",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/", 
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"playInNatPlayer": "true"
-},
-
-{
-"name":"LOVE NATURE",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png", 
-"url":"https://dookeela.live/live-tv/love-nature-4k",
-"referer":"https://dookeela.live/",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
-"playInNatPlayer": "true"
-},
-
-{
-"name": "ANIMAL PLANET",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/animal-planet",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},  
- 
-{
-"name": "ANIMAL SHOW",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/animalshow",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "ของดี",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC31/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "SWEET",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC58/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-]
-},
-{"name": "Cartoon","image":"https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png","stations": [
-{
-"name": "ZOOMOO",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC38/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "ANIMAX",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/animax",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "BOOMERANG",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/boomerang",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "CARTOON CLUB",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/cartoonclub",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "CN",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/cartoon-network",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "CARTOONITO",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/cartoonito",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "CBEEBIES",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/cbeebies",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "DISNEY CHANNEL",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/disney-channel",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "DISNEY JR",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/disney-junior",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "DISNEY XD",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/disneyxd",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "NICKJR",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/nickjr",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "NICKLODEON",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/nickelodeon",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "NICKTOONS",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/nicktoons",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-]
-},
-{"name": "ออนไลน์","image":"https://img5.pic.in.th/file/secure-sv1/-crop-crop-crop.png","stations": [
-{
-"name": "ออนไลน์ กิฬา1",
-"image":"https://img5.pic.in.th/file/secure-sv1/-crop-crop-crop.png",
-"url" : "https://dookeela.live/live-tv",
-"referer": "https://dookeela.live/",
-"imageScale": "fitStart",
-"online":"",
-          "info":"",
-"userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13", "embed": "true",
-"epgId": ""
- },
-
-{
-"name": "ออนไลน์ กิฬา2",
-"image":"https://img5.pic.in.th/file/secure-sv1/-crop-crop-crop.png",
-"url" : "https://dooballfree.com/tv-online/",
-"referer": "https://dooballfree.com/",
-"imageScale": "fitStart",
-"online":"",
-          "info":"",
-"userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13", "embed": "true",
-"epgId": ""
- },
-
-{
-"name": "ออนไลน์ กิฬา3",
-"image":"https://img5.pic.in.th/file/secure-sv1/-crop-crop-crop.png",
-"url" : "https://doofootballs.com/",
-"referer": "https://doofootballs.com/",
-"imageScale": "fitStart",
-"online":"",
-          "info":"",
-"userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13", "embed": "true",
-"epgId": ""
- },
-
-{
-"name": "ออนไลน์ กิฬา4",
-"image":"https://img5.pic.in.th/file/secure-sv1/-crop-crop-crop.png",
-"url" : "https://dooball66x.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/",
-"referer": "https://dooball66x.com/",
-"imageScale": "fitStart",
-"online":"",
-          "info":"",
-"userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13", "embed": "true",
-"epgId": ""
- },
-
-{
-"name": "ออนไลน์ กิฬา5",
-"image":"https://img5.pic.in.th/file/secure-sv1/-crop-crop-crop.png",
-"url" : "https://doolive4k.tv/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94",
-"referer": "https://doolive4k.tv/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94",
-"imageScale": "fitStart",
-"online":"",
-          "info":"",
-"userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13", "embed": "true",
-"epgId": ""
- },
-
-{
-"name": "ออนไลน์ กิฬา6",
-"image":"https://img5.pic.in.th/file/secure-sv1/-crop-crop-crop.png",
-"url" : "https://doolive4k.tv/ดูบอลสด",
-"referer": "https://doolive4k.tv/",
-"imageScale": "fitStart",
-"online":"",
-          "info":"",
-"userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13", "embed": "true",
-"epgId": ""
- },
-
-{
-"name": "ออนไลน์ ทั่วไป7",
-"image":"https://img5.pic.in.th/file/secure-sv1/-crop-crop-crop.png",
-"url" : "https://livesod365.com/channel/",
-"referer": "https://livesod365.com/",
-"imageScale": "fitStart",
-"online":"",
-          "info":"",
-"userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13", "embed": "true",
-"epgId": ""
- },
-
-{
-"name": "ออนไลน์ หนัง8",
-"image":"https://img5.pic.in.th/file/secure-sv1/-crop-crop-crop.png",
-"url" : "https://movie2ufree.tv/",
-"referer": "https://movie2ufree.tv/",
-"imageScale": "fitStart",
-"online":"",
-          "info":"",
-"userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13", "embed": "true",
-"epgId": ""
- },
-
-{
-"name": "ออนไลน์ หนัง9",
-"image":"https://img5.pic.in.th/file/secure-sv1/-crop-crop-crop.png",
-"url" : "https://www.037hdmovie.com/",
-"referer": "",
-"imageScale": "fitStart",
-"online":"",
-          "info":"",
-"userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13", "embed": "true",
-"epgId": ""
- },
-
-{
-"name": "ออนไลน์ หนัง10",
-"image":"https://img5.pic.in.th/file/secure-sv1/-crop-crop-crop.png",
-"url" : "https://www.123-hd.com/cafe-minamdang",
-"referer": "https://www.123-hd.com/",
-"imageScale": "fitStart",
-"online":"",
-          "info":"",
-"userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13", "embed": "true",
-"epgId": ""
- },
-
-{
-"name": "ออนไลน์ หนัง12",
-"image":"https://img5.pic.in.th/file/secure-sv1/-crop-crop-crop.png",
-"url" : "https://037moviefree.com/",
-"referer": "",
-"imageScale": "fitStart",
-"online":"",
-          "info":"",
-"userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13", "embed": "true",
-"epgId": ""
- },
-
-{
-"name": "ออนไลน์13",
-"image":"https://img5.pic.in.th/file/secure-sv1/-crop-crop-crop.png",
-"url" : "https://nungde.com/",
-"referer": "",
-"imageScale": "fitStart",
-"online":"",
-          "info":"",
-"userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13", "embed": "true",
-"epgId": ""
- },
-
-{
-"name": "ออนไลน์ ทั่วไป14",
-"image":"https://img5.pic.in.th/file/secure-sv1/-crop-crop-crop.png",
-"url" : "https://www.inwiptv.com/demo.php",
-"referer": "https://www.inwiptv.com/",
-"imageScale": "fitStart",
-"online":"",
-          "info":"",
-"userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13", "embed": "true",
-"epgId": ""
- },
-
-{
-"name": "ออนไลน์ มวย one15",
-"image":"https://img5.pic.in.th/file/secure-sv1/-crop-crop-crop.png",
-"url" : "https://www.youtube.com/watch?v=ENNA-fsT67c",
-"referer": "https://www.youtube.com/",
-"imageScale": "fitStart",
-"online":"",
-          "info":"",
-"userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13", "embed": "true",
-"epgId": ""
- },
-]
-},
-{"name": "18+","image":"https://img2.pic.in.th/pic/-crop-crop-crop.png","stations": [
-{
-"name": "18+/1",
-"image":"https://img2.pic.in.th/pic/-crop-crop-crop.png",
-"url" : "https://upornia.com/videos/4556535/kururigi-aoi-excellent-***-movie-hairy-wild-youve-seen/",
-"referer": "https://upornia.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
- "embed":"true"
- },
-
-{
-"name": "18+/2",
-"image":"https://img2.pic.in.th/pic/-crop-crop-crop.png",
-"url" : "https://www.***********/video.hdpiieh3e2c/teenfidelity_18_year_old_hannah_hays_creampied",
-"referer": "https://www.***********/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
- "embed":"true"
- },
-
-{
-"name": "18+/3",
-"image":"https://img2.pic.in.th/pic/-crop-crop-crop.png",
-"url" : "https://www.***********/video.uppufmb63d8/hot_asian_chicks_vol_24",
-"referer": "https://www.***********/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
- "embed":"true"
- },
-
-{
-"name": "18+/4",
-"image":"https://img2.pic.in.th/pic/-crop-crop-crop.png",
-"url" : "https://www.***********/video.kpbfkck2c1a/japanese_babe_nozomi_koizumi_had_a_hot_mmf_uncensored",
-"referer": "https://www.***********/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
- "embed":"true"
- },
-
-{
-"name": "18+/5",
-"image":"https://img2.pic.in.th/pic/-crop-crop-crop.png",
-"url" : "https://www.***********/video.udkltad100a/fitness_girl_deepthroats_hard_fucks",
-"referer": "https://www.***********/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
- "embed":"true"
- },
-]
-}
-]
-}
-
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Universal" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png" group-title=" ",Universal 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+http://49.0.64.96:8007/H-Channel
+#EXTINF:-1 tvg-name="Pluse Channel " tvg-logo="https://i.ibb.co/7xf3sR9Z/logo-pluse.png" group-title=" ",Pluse Channel  
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+http://49.0.64.96:8007/PLUSE
+#EXTINF:-1 tvg-name="FuckIDSeries" tvg-logo="https://i.ibb.co/wFSYqgpG/logo-fuckseries.png" group-title=" ",FuckIDSeries 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+http://49.0.64.96:8007/SERIES
+#EXTINF:-1 tvg-name="FuckIDTOON" tvg-logo="https://i.ibb.co/qYGcDkdc/logo-fuck-toon.png" group-title=" ",FuckIDTOON 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+http://49.0.64.96:8007/Cartoonumi
+#EXTINF:-1 tvg-name="FuckIDMovie" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png" group-title=" ",FuckIDMovie 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+http://49.0.64.96:8007/PING
+#EXTINF:-1 tvg-name="AMAZING" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png" group-title=" ",AMAZING 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+http://49.0.64.96:8007/AMAZING
+#EXTINF:-1 tvg-name="Animal" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png" group-title=" ",Animal 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+http://49.0.64.96:8007/Animal
+#EXTINF:-1 tvg-name="Science" tvg-logo="https://i.ibb.co/gQLyLmK/logo-seience.png" group-title=" ",Science 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+http://49.0.64.96:8007/WSCI
+#EXTINF:-1 tvg-name="Superrix" tvg-logo="https://i.ibb.co/pBHghpSx/237x0-icon.png" group-title=" ",Superrix 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+http://49.0.64.96:8007/Cinemachi
+#EXTINF:-1 tvg-name="HBO - 1" tvg-logo="https://dookeela.live/uploads/1703686191.png" group-title=" ",HBO - 1 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/hbo
+#EXTINF:-1 tvg-name="HBO - 2" tvg-logo="https://dookeela.live/uploads/1703686191.png" group-title=" ",HBO - 2 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://goal-th.com/ช่องรายการทีวี/?id=274&tv=HBO
+#EXTINF:-1 tvg-name="HBO - 3" tvg-logo="https://dookeela.live/uploads/1703686191.png" group-title=" ",HBO - 3 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueasiamove.m3u8
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://dookeela.live/uploads/1703786776.png" group-title=" ",HBO Family 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/hbo-family
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://dookeela.live/uploads/1703786776.png" group-title=" ",HBO Family 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://goal-th.com/ช่องรายการทีวี/?id=277&tv=HBOFamily
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://dookeela.live/uploads/1703786599.png" group-title=" ",HBO Hits 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/hbo-hits
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://dookeela.live/uploads/1703786599.png" group-title=" ",HBO Hits 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://goal-th.com/ช่องรายการทีวี/?id=276&tv=HBOHits
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://dookeela.live/uploads/1703786305.png" group-title=" ",HBO Signature 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/hbo-signature
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://dookeela.live/uploads/1703786305.png" group-title=" ",HBO Signature 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://goal-th.com/ช่องรายการทีวี/?id=275&tv=HBOSignature
+#EXTINF:-1 tvg-name="True Asian More" tvg-logo="https://dookeela.live/uploads/1719205850.png" group-title=" ",True Asian More 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/trueasianmore
+#EXTINF:-1 tvg-name="True Asian More" tvg-logo="https://dookeela.live/uploads/1719205850.png" group-title=" ",True Asian More 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://goal-th.com/ช่องรายการทีวี/?id=405&tv=TrueAsianMore
+#EXTINF:-1 tvg-name="True Film 1" tvg-logo="https://dookeela.live/uploads/1720380229.png" group-title=" ",True Film 1 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/truefilm1
+#EXTINF:-1 tvg-name="True Film 1" tvg-logo="https://dookeela.live/uploads/1720380229.png" group-title=" ",True Film 1 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm1.m3u8
+#EXTINF:-1 tvg-name="True Film 2" tvg-logo="https://dookeela.live/uploads/1720723122.png" group-title=" ",True Film 2 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm2.m3u8
+#EXTINF:-1 tvg-name="True Film 2" tvg-logo="https://dookeela.live/uploads/1720723122.png" group-title=" ",True Film 2 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truethaifilm.m3u8
+#EXTINF:-1 tvg-name="True Film Asia" tvg-logo="https://dookeela.live/uploads/1719205705.png" group-title=" ",True Film Asia 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/truefilmasia
+#EXTINF:-1 tvg-name="True Film Asia" tvg-logo="https://dookeela.live/uploads/1719205705.png" group-title=" ",True Film Asia 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://goal-th.com/ช่องรายการทีวี/?id=404&tv=TrueFilmAsia
+#EXTINF:-1 tvg-name="True Film Asia" tvg-logo="https://dookeela.live/uploads/1719205705.png" group-title=" ",True Film Asia 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilmasia.m3u8
+#EXTINF:-1 tvg-name="True Movie Hits " tvg-logo="https://dookeela.live/uploads/1719803882.png" group-title=" ",True Movie Hits  
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://goal-th.com/ช่องรายการทีวี/?id=412&tv=TrueMovieHits
+#EXTINF:-1 tvg-name="True Movie Hits " tvg-logo="https://dookeela.live/uploads/1719803882.png" group-title=" ",True Movie Hits  
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/truemoviehits
+#EXTINF:-1 tvg-name="True Thai Film " tvg-logo="https://dookeela.live/uploads/1706539896.png" group-title=" ",True Thai Film  
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/truethaifilm
+#EXTINF:-1 tvg-name="True Thai Film " tvg-logo="https://dookeela.live/uploads/1706539896.png" group-title=" ",True Thai Film  
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://goal-th.com/ช่องรายการทีวี/?id=307&tv=TrueThaiFilm
+#EXTINF:-1 tvg-name="True X-Zyte" tvg-logo="https://dookeela.live/uploads/1719206155.png" group-title=" ",True X-Zyte 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/truex-zyte
+#EXTINF:-1 tvg-name="KhongDee" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuqopcRSIQJ_OIefz8Dj-a-Z2rPuEkXS1F7Q&s" group-title=" ",KhongDee 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
+#EXTINF:-1 tvg-name="True X-zyte" tvg-logo="https://dookeela.live/uploads/1719206155.png" group-title=" ",True X-zyte 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/truex-zyte
+#EXTINF:-1 tvg-name="True X-zyte" tvg-logo="https://dookeela.live/uploads/1719206155.png" group-title=" ",True X-zyte 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://goal-th.com/ช่องรายการทีวี/?id=407&tv=TrueX-Zyte
+#EXTINF:-1 tvg-name="True Series " tvg-logo="https://dookeela.live/uploads/1719205991.png" group-title=" ",True Series  
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
+
+#EXTINF:-1 tvg-name="FWMOV" tvg-logo="https://img.inwiptv.net/postor/20200512164154fwmov.jpg" group-title=" ",FWMOV 
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://www.inwiptv.com/player_demo.php?channel=95262
+
+
+#EXTINF:-1 tvg-name="FWSOV" tvg-logo="https://img.inwiptv.net/postor/20200512165346fwsov.jpg" group-title=" ",FWSOV 
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://www.inwiptv.com/player_demo.php?channel=94898
+
+
+#EXTINF:-1 tvg-name="3BB Asian" tvg-logo="https://dookeela.live/uploads/1703829940.png" group-title=" ",3BB Asian 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/3bbasian
+#EXTINF:-1 tvg-name="3BB Asian" tvg-logo="https://dookeela.live/uploads/1703829940.png" group-title=" ",3BB Asian 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://goal-th.com/ช่องรายการทีวี/?id=281&tv=3BBAsian
+#EXTINF:-1 tvg-name="MONO Plus" tvg-logo="https://dookeela.live/uploads/1703787733.png" group-title=" ",MONO Plus 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/mono29plus
+#EXTINF:-1 tvg-name="MONO Plus" tvg-logo="https://dookeela.live/uploads/1703787733.png" group-title=" ",MONO Plus 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://goal-th.com/ช่องรายการทีวี/?id=280&tv=MONO29Plus
+#EXTINF:-1 tvg-name="Asian Food Network" tvg-logo="https://dookeela.live/uploads/1717696078.png" group-title=" ",Asian Food Network 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/afn
+#EXTINF:-1 tvg-name="Asian Food Network" tvg-logo="https://dookeela.live/uploads/1717696078.png" group-title=" ",Asian Food Network 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://goal-th.com/ช่องรายการทีวี/?id=398&tv=AsianFoodNetwork
+#EXTINF:-1 tvg-name="Asian Food Network" tvg-logo="https://dookeela.live/uploads/1717696078.png" group-title=" ",Asian Food Network 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/ASIANFOODCHANNE.m3u8
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://dookeela.live/uploads/1717696062.png" group-title=" ",Food Network 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/foodnetwork
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://dookeela.live/uploads/1717696062.png" group-title=" ",Food Network 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://goal-th.com/ช่องรายการทีวี/?id=397&tv=FoodNetwork
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://dookeela.live/uploads/1717696062.png" group-title=" ",Food Network 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/foodnetwork.m3u8
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://dookeela.live/uploads/1717696062.png" group-title=" ",Food Network 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/foodnetwork
+#EXTINF:-1 tvg-name="AXN HD" tvg-logo="https://dookeela.live/uploads/1719897010.png" group-title=" ",AXN HD 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueAXN.m3u8
+#EXTINF:-1 tvg-name="CCM" tvg-logo="https://dookeela.live/uploads/1719803240.png" group-title=" ",CCM 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/ccm
+#EXTINF:-1 tvg-name="CCM" tvg-logo="https://dookeela.live/uploads/1719803240.png" group-title=" ",CCM 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://goal-th.com/ช่องรายการทีวี/?id=411&tv=CCM
+#EXTINF:-1 tvg-name="CCM" tvg-logo="https://dookeela.live/uploads/1719803240.png" group-title=" ",CCM 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueccm.m3u8
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://dookeela.live/uploads/1703786799.png" group-title=" ",CINEMAX 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/cinemax
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://dookeela.live/uploads/1703786799.png" group-title=" ",CINEMAX 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://goal-th.com/ช่องรายการทีวี/?id=278&tv=CINEMAX
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://dookeela.live/uploads/1703786799.png" group-title=" ",CINEMAX 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://streamer1.nexgen.bz/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-name="HITS" tvg-logo="https://dookeela.live/uploads/1706112791.png" group-title=" ",HITS 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/hits
+#EXTINF:-1 tvg-name="HITS MOVIES" tvg-logo="https://dookeela.live/uploads/1714100677.png" group-title=" ",HITS MOVIES 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/hits-movies
+#EXTINF:-1 tvg-name="KBS Korea" tvg-logo="https://dookeela.live/uploads/1719897483.png" group-title=" ",KBS Korea 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/kbskorea
+#EXTINF:-1 tvg-name="LifeTime" tvg-logo="https://dookeela.live/uploads/1720781589.png" group-title=" ",LifeTime 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
+#EXTINF:-1 tvg-name="WARNER TV" tvg-logo="https://dookeela.live/uploads/1703832225.png" group-title=" ",WARNER TV 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/warnertv
+#EXTINF:-1 tvg-name="WARNER TV" tvg-logo="https://dookeela.live/uploads/1703832225.png" group-title=" ",WARNER TV 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://goal-th.com/ช่องรายการทีวี/?id=282&tv=WarnerTV
+#EXTINF:-1 tvg-name="WARNER TV" tvg-logo="https://dookeela.live/uploads/1703832225.png" group-title=" ",WARNER TV 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truewb.m3u8
+#EXTINF:-1 tvg-name="ROCK Action" tvg-logo="https://dookeela.live/uploads/1718690264.png" group-title=" ",ROCK Action 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/rock-action
+#EXTINF:-1 tvg-name="ROCK Action" tvg-logo="https://dookeela.live/uploads/1718690264.png" group-title=" ",ROCK Action 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://goal-th.com/ช่องรายการทีวี/?id=402&tv=ROCKAction
+#EXTINF:-1 tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://dookeela.live/uploads/1718690283.png" group-title=" ",ROCK ENTERTAINMENT 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/rock-entertainment
+#EXTINF:-1 tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://dookeela.live/uploads/1718690283.png" group-title=" ",ROCK ENTERTAINMENT 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://goal-th.com/ช่องรายการทีวี/?id=403&tv=ROCKENTERTAINMENT
+#EXTINF:-1 tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://dookeela.live/uploads/1718690283.png" group-title=" ",ROCK ENTERTAINMENT 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/rockentertainmentred.m3u8
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://dookeela.live/uploads/1717696038.png" group-title=" ",TLC 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/tlc
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://dookeela.live/uploads/1717696038.png" group-title=" ",TLC 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://goal-th.com/ช่องรายการทีวี/?id=396&tv=TLC
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://dookeela.live/uploads/1717696038.png" group-title=" ",TLC 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/tlc
+#EXTINF:-1 tvg-name="MV Mall Best" tvg-logo="https://p.lnwfile.com/_/p/_resize/250/250/p0/3x/de.png" group-title=" ",MV Mall Best 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/chunks.m3u8
+#EXTINF:-1 tvg-name="GAGS" tvg-logo="https://img5.pic.in.th/file/secure-sv1/images-removebg-preview-1.png" group-title=" ",GAGS 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://www.inwiptv.com/player_demo.php?channel=89781
+#EXTINF:-1 tvg-name="GAGS" tvg-logo="https://img5.pic.in.th/file/secure-sv1/images-removebg-preview-1.png" group-title=" ",GAGS 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
+#EXTINF:-1 tvg-name="Paramount" tvg-logo="https://i.imgur.com/NlkgEqK.png" group-title=" ",Paramount 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/paramount-network
+#EXTINF:-1 tvg-name="Paramount" tvg-logo="https://i.imgur.com/NlkgEqK.png" group-title=" ",Paramount 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://goal-th.com/ช่องรายการทีวี/?id=303&tv=ParamountNetwork
+#EXTINF:-1 tvg-name="Kix" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ljChKbAkTksdH96-onPyibiW39iH9wp6veuIMoAo_owRw=s900-c-k-c0x00ffffff-no-rj" group-title=" ",Kix 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+http://210.210.155.66/h/h220/02.m3u8
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title=" ",tvN 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://goal-th.com/ช่องรายการทีวี/?id=283&tv=tvN|Indonesia
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title=" ",tvN 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/tvn-indonesia
+#EXTINF:-1 tvg-name="outdoor" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_460.png" group-title=" ",outdoor 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/outdoor.m3u8
+#EXTINF:-1 tvg-name="outdoor" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_460.png" group-title=" ",outdoor 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-name="Rush" tvg-logo="https://dookeela.live/uploads/1741273735.png" group-title=" ",Rush 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/rush-stories
+#EXTINF:-1 tvg-name="Alure Channel" tvg-logo="https://dookeela.live/uploads/1731057748.png" group-title=" ",Alure Channel 
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67
+https://dookeela.live/live-tv/alure-channel
