@@ -10,431 +10,466 @@
          "stations":[
 
 {
-"name": "TRUE THAIFILM",
-"image": "https://dookeela2.live/uploads/1706539896.png",
-"url": "https://la4.hellotherepadawan.org:9302/v5/Ml2gsho7Xe2057pwphPThg/1758609694/764d5ca9621757aeeb755223bdff7b33/5yUsC3fkIc5FQ_6dh0eeQg/1758620374/live/dx-origin/sd-thaifilm_720/chunks.m3u8",
-"referer": "https://embed.letitgooooo.org/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "TRUE THAIFILM",
-"image": "https://img2.pic.in.th/pic/CHI-cropd772890a7e272794.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/truethaifilm/chunks.m3u8?nimblesessionid=61894333&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI1IDM6NDY6MTEgUE0maGFzaF92YWx1ZT1HVUc5UUp3R1VtaCtzZDgrTFhVUkl3PT0mdmFsaWRtaW51dGVzPTIw",
-"referer": "https://goal-th.com/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "Asian More",
-"image": "https://dookeela.live/uploads/1719205850.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/trueasianmore/chunks.m3u8?nimblesessionid=61894820&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI1IDQ6MDc6MzMgUE0maGFzaF92YWx1ZT1oRFNBaXY0M0dZejRLd1VNRGkxSHNBPT0mdmFsaWRtaW51dGVzPTIw",
-"referer": "https://goal-th.com/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Asian More",
-"image": "https://dookeela2.live/uploads/1719205850.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/trueasianmore/chunks.m3u8?nimblesessionid=61828106&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCAzOjQwOjEyIFBNJmhhc2hfdmFsdWU9amFJNHdQS25tUU5jTFJsbzZDWHVjUT09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0yMg==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Film Asia",
-"image": "https://dookeela.live/uploads/1719205705.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/truefilmasia/chunks.m3u8?nimblesessionid=61895016&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI1IDQ6MTI6MDQgUE0maGFzaF92YWx1ZT13MUxnK0NmbTZDQmNTcER3WVlzNHRRPT0mdmFsaWRtaW51dGVzPTIw",
-"referer": "https://goal-th.com/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Film Asia",
-"image": "https://dookeela2.live/uploads/1719205705.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/truefilmasia/chunks.m3u8?nimblesessionid=61827614&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCAzOjIyOjA1IFBNJmhhc2hfdmFsdWU9M3Q1MFdPSmdEeGJhamo1ZHU2ZXN4QT09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0yMQ==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "Movies Hits",
-"image": "https://api.letitgooooo.org/images/png/sd-moviehits.png",
-"url": "https://e112.hellotherepadawan.org/v5/gJZcMCzf-Zabw6aG7D0Zew/1758610867/764d5ca9621757aeeb755223bdff7b33/OiY7392BDzaviAeR9hBF1A/1758621547/live/vx-origin/sd-moviehits_720/chunks.m3u8",
-"referer": "https://embed.letitgooooo.org/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Movie Hits",
-"image": "https://dookeela2.live/uploads/1719803882.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/truemoviehits/chunks.m3u8?nimblesessionid=61828400&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCAzOjQ3OjQ0IFBNJmhhc2hfdmFsdWU9L3R2TG5PaXIwWFhZNUZTUTVQTXMwQT09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0yMg==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Film HD1",
-"image": "https://api.letitgooooo.org/images/png/hd-tfilm.png",
-"url": "
-https://la4.hellotherepadawan.org:9301/v5/vFIKe8KMG30OWua6GRmz-g/1758611085/1f3325e730a294e70026f8ef924bf9cf/a9Y88Mt2OUpTBKiYvoHEPw/1758621765/live/dx-origin/hd-tfilm_720/chunks.m3u8",
-"referer": "https://embed.letitgooooo.org/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Film 1",
-"image": "https://dookeela2.live/uploads/1720380229.png",
-"url": "https://streamamg-fa.akamaiz.com/dookeela/truefilm1/chunks.m3u8?nimblesessionid=67858332&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCAzOjQ0OjQyIFBNJmhhc2hfdmFsdWU9ZnkvUDhibVhodHdFYlhNYWxZOWc2dz09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xOA==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
-},
-{
-"name": "True Film HD2",
-"image": "https://api.letitgooooo.org/images/png/hd-tfilm2.png",
-"url": "https://e112.hellotherepadawan.org/v5/3cj5HmCmI_lJgHy-OUKTUQ/1758611274/764d5ca9621757aeeb755223bdff7b33/UmbooB0eVy5Tm_KUwDrrZA/1758621954/live/dx-origin/hd-tfilm2_720/chunks.m3u8",
-"referer": "https://embed.letitgooooo.org/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Film 2",
-"image": "https://dookeela2.live/uploads/1720723122.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/truefilm2/chunks.m3u8?nimblesessionid=61828278&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCAzOjQ2OjA3IFBNJmhhc2hfdmFsdWU9SGNxMVVKSFRBTUtCYjJWaUw5K0gvQT09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xOA==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "AXN",
-"image": "https://api.letitgooooo.org/images/png/hd-axn.png",
-"url": "https://la2.hellotherepadawan.org:9312/v5/JqosthH9UIZ16BRvKqUoDw/1758611487/764d5ca9621757aeeb755223bdff7b33/QqD7qSTK7sODStVrZe3EHA/1758622167/live/vx-origin/hd-axn_720/chunks.m3u8",
-"referer": "https://embed.letitgooooo.org/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "AXN hd",
+"name":"AXN",
 "image": "https://dookeela2.live/uploads/1719897010.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/axn/chunks.m3u8?nimblesessionid=61828530&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCAzOjUwOjE0IFBNJmhhc2hfdmFsdWU9cDlsV2Joc0oxOVJJNXlUZmZZWXRxQT09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xMg==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
+"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueAXN.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
 "playInNatPlayer": "true"
 },
+
 {
-"name": "Warner TV",
-"image": "https://api.letitgooooo.org/images/png/hd-warnertv.png",
-"url": "https://e102.hellotherepadawan.org/v5/IUdQ9CNGpothlD-uf2jR0Q/1758611693/1f3325e730a294e70026f8ef924bf9cf/MZ6YVG5dhs9L3miXXoc88w/1758622373/live/vx-origin/hd-warnertv_720/chunks.m3u8",
-"referer": "https://embed.letitgooooo.org/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
+"name":"hbo-signature",
+"image": "https://dookeela2.live/uploads/1703786305.png",
+"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truemoviehit.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
 "playInNatPlayer": "true"
 },
+  
 {
-"name": "Warner TV",
-"image": "https://dookeela2.live/uploads/1703832225.png",
-"url": "https://streamamg-fa.akamaiz.com/dookeela/warnertv/chunks.m3u8?nimblesessionid=67858620&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCAzOjUxOjMyIFBNJmhhc2hfdmFsdWU9dDhMcElINjlJNXRNQTVGZGRWMkxvZz09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xNw==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
+"name": "HBO HIT ",  
+"image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_425_305",  
+"url": "https://dookeela2.live/live-tv/hbo-hits",
+"referer": "https://dookeela.live/live-tv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
 "playInNatPlayer": "true"
 },
+
 {
-"name": "มังกร",
-"image": "https://api.letitgooooo.org/images/png/sd-mangkorn.png",
-"url": "https://e112.hellotherepadawan.org/v5/AV5P4Q9t8HbT003mrJhztg/1758611973/764d5ca9621757aeeb755223bdff7b33/sfEyB7OlsZH4taysBDff2A/1758622653/live/vx-origin/sd-mangkorn_720/chunks.m3u8",
-"referer": "https://embed.letitgooooo.org/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
+"name":"ROCKENTERTAINMENT",
+"image":"https://img2.pic.in.th/pic/64f01f9708db7bbce637b37e_ENT_LOGO_GOLD_NoShadow.png",
+"url": "https://dookeela2.live/live-tv/rock-entertainment",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
 "playInNatPlayer": "true"
 },
+
 {
-"name": "มังกร",
-"image": "https://dookeela2.live/uploads/1705503765.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/mangorn/chunks.m3u8?nimblesessionid=61830952&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjQ5OjM3IFBNJmhhc2hfdmFsdWU9cy9yakRaRnpsQ0NoekJ3SDR3ckZFQT09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xNg==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
-},
-{
-"name": "Major MIX",
-"image": "https://api.letitgooooo.org/images/png/sd-mixmajor.png",
-"url": "
-https://e105.hellotherepadawan.org/v5/STB6SnO23EhFawUr69GRlQ/1758612153/1f3325e730a294e70026f8ef924bf9cf/1DlnPGqTqRJg9AkjHNUyhA/1758622833/live/vx-origin/sd-mixmajor_720/chunks.m3u8",
-"referer": "https://embed.letitgooooo.org/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
+"name": "Paramount",
+"image": "https://dookeela2.live/uploads/1706112779.png",
+"url":"https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truewb.m3u8",
+"info"		: "",
+"referer": "https://wacth.tv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
 "playInNatPlayer": "true"
 },
+
 {
-"name": "Asian Food Network",
-"image": "https://api.letitgooooo.org/images/png/sd-asianfood.png",
-"url": "https://la2.hellotherepadawan.org:9314/v5/YzK1ffKuIFgKzJHzutqozg/1758612417/764d5ca9621757aeeb755223bdff7b33/3JKoB_vBOSNNY-cYwY_Zcg/1758623097/live/vx-origin/sd-asianfood_720/chunks.m3u8",
-"referer": "https://embed.letitgooooo.org/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
+"name":"3BB ASIAN",
+"image":"https://dookeela2.live/uploads/1703829940.png",
+"url":"https://dookeela2.live/live-tv/3bbasian",
+"referer": "https://dookeela.live/live-tv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
 "playInNatPlayer": "true"
 },
-{
-"name": "Asian Food Network",
-"image": "https://dookeela2.live/uploads/1717696078.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/afn/chunks.m3u8?nimblesessionid=61829667&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjE4OjExIFBNJmhhc2hfdmFsdWU9RG9TdnhUenpkNHI2TEduSzFPNXNrZz09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xMg==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
-},
-{
-"name": "Food Network",
-"image": "https://api.letitgooooo.org/images/png/hd-food.png",
-"url": "https://la2.hellotherepadawan.org:9309/v5/Lj8OuDGg2kw2Q2i1j8zGkA/1758612473/1f3325e730a294e70026f8ef924bf9cf/n0ZYgTqixoYoo1RCkv5Xtg/1758623153/live/vx-origin/hd-food_720/chunks.m3u8",
-"referer": "https://embed.letitgooooo.org/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "Food Network",
-"image": "https://dookeela2.live/uploads/1717696062.png",
-"url": "https://streamamg-fa.akamaiz.com/dookeela/foodnetwork/chunks.m3u8?nimblesessionid=67860009&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjM4OjM3IFBNJmhhc2hfdmFsdWU9a1pNSExqZVd6RHV3bUVDZU9FUmRlUT09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0yMA==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
-},
-{
-"name": "Discovery",
-"image": "https://api.letitgooooo.org/images/png/sd-discovery.png",
-"url": "https://ul1.hellotherepadawan.org:9303/v5/axb145uH5tls_INRlmsbIw/1758612668/1f3325e730a294e70026f8ef924bf9cf/eOX3cy_s_OZoJFVXkYKYwQ/1758623348/live/vx-origin/sd-discovery_720/chunks.m3u8",
-"referer": "https://embed.letitgooooo.org/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "Explore Wild",
-"image": "https://api.letitgooooo.org/images/png/sd-expwild.png",
-"url": "https://e105.hellotherepadawan.org/v5/PWmklw74oRqKt-rP8hpRxg/1758612726/764d5ca9621757aeeb755223bdff7b33/Z5FazQ8u82Sc2SOGR8luTw/1758623406/live/vx-origin/sd-expwild_720/chunks.m3u8",
-"referer": "https://embed.letitgooooo.org/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Series",
-"image": "https://dookeela2.live/uploads/1719205991.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/trueseries/chunks.m3u8?nimblesessionid=61828197&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCAzOjQzOjE5IFBNJmhhc2hfdmFsdWU9dWMvbnpLS3h1MEYxeDBiS2F1V09yZz09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xOQ==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
+
 {
 "name": "CINEMAX",
-"image": "https://dookeela2.live/uploads/1703786799.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/cinemax/chunks.m3u8?nimblesessionid=61828653&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCAzOjUyOjU3IFBNJmhhc2hfdmFsdWU9dzNtQmF0M2dtMmRFeThpcG0wcnpqdz09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xNg==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
+"image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",
+"url": "https://dookeela2.live/live-tv/cinemax",
+playInNatPlayer: "true"
 },
+
 {
-"name": "HBO",
-"image": "https://dookeela2.live/uploads/1703686191.png",
-"url": "https://streamamg-fa.akamaiz.com/dookeela/hbo/chunks.m3u8?nimblesessionid=67858689&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCAzOjU0OjMyIFBNJmhhc2hfdmFsdWU9WXFnc2NIKzh4ZWRPbGVOdkcySExmUT09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xMg==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
-},
-{
-"name": "HBO Family",
-"image": "https://dookeela2.live/uploads/1703786776.png",
-"url": "https://streamamg-fa.akamaiz.com/dookeela/hbo-family/chunks.m3u8?nimblesessionid=67858706&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCAzOjU1OjM3IFBNJmhhc2hfdmFsdWU9OHJxTk5rSS9sRisrcXd3TWFhanZadz09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xOQ==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
+"name": "True CCM",
+"image":"https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",
+"url":"https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueccm.m3u8", 
+"info"		: "",
+"referer": "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
 "playInNatPlayer": "true"
 },
+
 {
-"name": "HBO Hits",
-"image": "https://dookeela2.live/uploads/1703786599.png",
-"url": "https://streamamg-fa.akamaiz.com/dookeela/hbo-hits/chunks.m3u8?nimblesessionid=67858741&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCAzOjU2OjM5IFBNJmhhc2hfdmFsdWU9am0wOXp5UzVtVkFUS2xrS1lrM1hVdz09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xNw==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
+"name": "ROCK ACTION",
+"image":"https://img.pic.in.th/Rock_Action.png",
+"url":"https://dookeela2.live/live-tv/rock-action", 
+"referer": "", 
+"info": "", 
+"desktop": "true"},
+
+{
+"name": " TRUE FILMHD2 ",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url": "https://dookeela2.live/live-tv/truefilm2",
+"referer":"https://wacth.tv",
+ "info": "",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"},
+
+{"name": "HBO",
+"image":"https://dookeela2.live/uploads/1703686191.png",
+"url":"https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueasiamove.m3u8",
+"referer":"https://wacth.tv",
+ "info": "",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"},
+
+{
+"name": "True Film Asian HD",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"		: "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truefilmasia.m3u8",
+"info"		: "",
+"referer"	: "https://freetvdd.com/"}, 
+
+{
+"name": "True Movie Hits",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_original.png", 
+"url":"https://dookeela2.live/live-tv/truemoviehits", 
+"referer": "https://freetvdd.com", 
+"info": "", 
+"playInNatPlayer": "true"},
+
+
+
+{
+"name": "True Asian More",
+"image":"https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",
+   "url":"https://dookeela2.live/live-tv/trueasianmore",
+        "referer": "",
+"referer": "https://freetvdd.com", 
+"info": "", 
+"playInNatPlayer": "true"},
+
+
+{
+"name": "True Film 1",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truethaifilm.m3u8", 
+"referer": "https://freetvdd.com/", 
+"info": "", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",  
+"playInNatPlayer": "true" },
+
+
+{
+"name": "True Thai Film",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png", 
+"url":"https://dookeela2.live/live-tv/truethaifilm", 
+"referer": "https://freetvdd.com", 
+"info": "", 
+"playInNatPlayer": "true"},
+
+
+
+{
+ "name": "TrueSeries" ,
+"image": "https://dookeela2.live/uploads/1719205991.png" ,
+"url":"https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueseries.m3u8",
+ "referer": "https://dookeela.live/","playInNatPlayer": "true" 
 },
+
 {
-"name": "HITS",
-"image": "https://dookeela2.live/uploads/1706112791.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/hits/chunks.m3u8?nimblesessionid=61828824&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjAwOjEyIFBNJmhhc2hfdmFsdWU9VVFydVEyVmJnNCtKQnhUdHNzUmdEQT09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xMw==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
+ "name": "movie 1" ,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLF9Ryybq2svASoKIC4L5_KkIxs_gVDtvCWGtBDkwL0XtdmFnKf4hx4O8&s=10" ,
+"url":"http://49.0.64.96:8007/Cartoonumi",
+ "referer": "https://livesod365.com/","playInNatPlayer": "true" 
+}, 
+
+{
+ "name": "movie 2" ,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLF9Ryybq2svASoKIC4L5_KkIxs_gVDtvCWGtBDkwL0XtdmFnKf4hx4O8&s=10" ,
+"url":"http://49.0.64.96:8007/IZAA",
+ "referer": "https://livesod365.com/","playInNatPlayer": "true" 
+}, 
+
+{
+ "name": "movie 3" ,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLF9Ryybq2svASoKIC4L5_KkIxs_gVDtvCWGtBDkwL0XtdmFnKf4hx4O8&s=10" ,
+"url":"http://49.0.64.96:8007/PING",
+ "referer": "https://livesod365.com/","playInNatPlayer": "true" 
+}, 
+
+{
+ "name": "ASIA SERIES" ,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19ub-DTS73CFIjvSjIwRTIKYdhqwAWlk1XoEClNpRLe-moPNNl1zgVLKi&s=10" ,
+"url":"http://49.0.64.96:8007/SERIES",
+ "referer": "https://livesod365.com/","playInNatPlayer": "true" 
+}, 
+
+{
+ "name": "universal" ,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuMYAveaoyGctdvwldsn_dMtBsoiYvgced8E1vaEWqpDxxo5bLBa5FgY&s=10" ,
+"url":"http://49.0.64.96:8007/H-Channel",
+ "referer": "https://livesod365.com/","playInNatPlayer": "true" 
+},
+
+{
+ "name": "Movie" ,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaGB2pA7hcsQ6BaWYgQKeist-p0-lqGid26g&usqp=CAU" ,
+"url":"https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8",
+ "referer": "https://livesod365.com/",
+"playInNatPlayer": "true" },
+
+{
+"name":"TRUE X-ZYTE",
+"image":"https://img2.pic.in.th/pic/46fb6.png",
+"url"		: "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truexzyte.m3u8",
+"info"		: "",
+"referer": "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
 "playInNatPlayer": "true"
 },
+
 {
-"name": "HITS MOVIES",
-"image": "https://dookeela2.live/uploads/1714100677.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/hits-movies/chunks.m3u8?nimblesessionid=61810259&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA5OjI0OjQxIEFNJmhhc2hfdmFsdWU9Q2NYMXlBalJicCtkTnB3RHRFRFdEQT09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0yMA==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
+ "name": "AMAZING" ,
+"image": "https://i.ibb.co/zv40P0s/logo-amazing.png" ,
+"url":"http://49.0.64.96:8007/AMAZING",
+ "referer": "https://dookeela.live/","playInNatPlayer": "true" 
+},
+
+{
+"name": "CH8",
+"image": "http://channel8thailand.com/ch8-ci415-web/public/templates/ch8/img/18378709_1492777084098686_554998105_o.png",
+"url": "https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w2045689098.m3u8",
+"referer": "",
+"playInNatPlayer": "true"},
+
+
+{
+"name":"MONO29 PLUS",
+"image":"https://dookeela2.live/uploads/1703787733.png",
+"url":"https://dookeela2.live/live-tv/mono29plus",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"referer": "",
+"playInNatPlayer": "true"},
+
+{
+"name": "chiangrai",
+"image": "https://thaitvstream.com/streaming/chiangrai/chiangrai.png",
+"url":"https://www.inwiptv.me/player_demo.php?channel=89781",
+"userAgent": "exoplayer_video"
+},
+ 
+{
+"name": "Discovery Channel 🇹🇭",  
+"image": "https://www.all-channels.com/images/clients/KUWQY2PC6N1T.png",  
+"url": "https://dookeela2.live/live-tv/discovery",
+"referer": "",
+"info":"",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+"playInNatPlayer": "true"},
+ 
+ 
+{
+"name": "Discovery Asia ",  
+"image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305",  
+"url":"https://dookeela2.live/live-tv/discovery-asia", 
+"referer": "https://streaming.livescorethai.net",
+        "info":"",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "online": "true"},
+ 
+{
+"name":"Nat Geographic ",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nat_Geo_HD_Logo.svg/1280px-Nat_Geo_HD_Logo.svg.png",
+"url": "https://www.parsatv.com/name=National-Geographic-East#documentary", 
+"info": "",
+"desktop": "true"},
+ 
+ 
+{
+"name": "wonder",
+"image": "https://provider-static.plex.tv/epg/images/ott_channels/logos/wonder-logo.png",
+"url": "http://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
+"referer": "https://wacth.tv/",
+"userAgent": "exoplayer_video"},
+ 
+{
+"name":"Peer TV Alto Adige",
+"image":"https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png",
+"url":"https://iptv.peer.biz/live/peertv-it.m3u8",
+"referer":"https://freetvdd.com", 
+"info":"",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer": "true"},
+ 
+ 
+{"name": " This Old House",
+"image": "https://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png",
+"url":"https://stitcher.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=fab2753a-107f-11ec-af0b-0242ac110003",
+"referer": "https://stitcher.pluto.tv",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info": "pluto.tv",
+"desktop": "true"},
+ 
+{
+"name":"History",
+"image":"https://dookeela2.live/uploads/1713231372.png",
+"url":"https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueH2.m3u8",
+"referer":"", 
+"info":"",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"},
+ 
+{ 
+"name": "Drone TV",
+"image": "https://m.media-amazon.com/images/I/313L4DmcyrL.png", 
+"url": "https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8",
+"referer": "https://mcncdndigital.com",
+"playInNatPlayer": "true"},
+ 
+{
+"name":"True Explore Sci",
+"image":"https://drive.google.com/uc?id=1GAPNL39L-Ue3R_HO_2RpW_DfCLzN5tqx",
+"url":"https://dookeela2.live/live-tv/trueexploresci",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"referer": "https://freetvdd.com/",
+"playInNatPlayer": "true"},
+ 
+{
+"name": "TLC (TH)",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TLC-HD-Logo_2016.svg/1280px-TLC-HD-Logo_2016.svg.png",
+"url":"https://dookeela2.live/live-tv/tlc", 
+"referer": "https://freetvdd.com/",
+"info":"",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+"playInNatPlayer": "true"},
+ 
+{
+"name": "Asian Food Network",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/440px-Asian_Food_Network.svg.png",
+"url": "https://dookeela2.live/live-tv/afn",
+"referer": "https://freetvdd.com/",
+"info":"",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+"playInNatPlayer": "true"},
+ 
+{
+"name":"Animal Planet",
+"image":"https://dookeela2.live/uploads/1706112700.png",
+"url": "https://dookeela2.live/live-tv/animal-planet",
+"referer":"https://dookeela.live",
+ "info": "",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"},
+
+{
+"name": "true_explore_life",
+"image":"https://www.lyngsat.com/logo/tv/tt/true_explore_life.png",
+"url": "https://dookeela2.live/live-tv/trueexplorelife",
+"referer": "",
+"userAgent": "",
+"info": "",
+"desktop": "true"},
+ 
+{  
+name:"True Explore Wild",
+image:"https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp",
+url:"https://dookeela2.live/live-tv/trueexplorewild",
+"referer": "",
 "playInNatPlayer": "true"
 },
+ 
 {
-"name": "HITS NOW",
-"image": "https://dookeela2.live/uploads/1733772007.png",
-"url": "https://streamamg-fa.akamaiz.com/dookeela/hitsnow/chunks.m3u8?nimblesessionid=67858893&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjAyOjU4IFBNJmhhc2hfdmFsdWU9QldzN0xsdGsrNFpNWHd4MlF5bkRhZz09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xNg==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
-},
+"name":"CGTN Documentary",
+"image":"https://i.ibb.co/5nfhTLs/cgtn-documentary.jpg",
+"url": "https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8",
+"userAgent": "", 
+"playInNatPlayer": "true"},
+ 
 {
-"name": "DKL MOVIES",
-"image": "https://dookeela2.live/uploads/1707127821.png",
-"url": "https://streamamg-fa.akamaiz.com/dookeela/dkl-movies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA5OjE1OjAyIEFNJmhhc2hfdmFsdWU9MmxMUlllTkZhVEp3VWhjOEF2aWM2QT09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xOQ==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
-},
+"name":"RT Documentary",
+"image":"https://ia803100.us.archive.org/9/items/RtDocumentary/rt%20documentary.png",
+"url": "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8",
+"userAgent": "", 
+"playInNatPlayer": "true"},
+ 
 {
-"name": "Asian Hits",
-"image": "https://dookeela2.live/uploads/1703829940.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/3bbasian/chunks.m3u8?nimblesessionid=61829045&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjA1OjQ0IFBNJmhhc2hfdmFsdWU9STl6Uy9UTkFIRnZBWEI0UGF1dE96dz09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xNw==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
+"name":"Sumlojlok",
+"image":"https://dookeela2.live/uploads/1705536821.png",
+"url":"https://dookeela2.live/live-tv/samrujlok",
+"referer": "https://wacth.tv/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info": "",
+"desktop": "true"},
+ 
+{
+"name": "Pet Club TV",
+"image": "https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live110_mobile.png",
+"url": "https://petclub-samsungaus.amagi.tv/playlist.m3u8", 
+"referer": "",
+"info":"",
+"playInNatPlayer": "true"},
+   
+{
+"name":"World Fishing Network",
+"image":"https://docdog.top/Logotv/countries//worldfishingnetwork.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134201&extension=ts",
+"referer": "https://freetvdd.com/",
+"info": "",
+"playInNatPlayer": "true"},
+ 
+{
+"name": "bbc-earth",
+"image": "https://dookeela2.live/uploads/1736064117.png",
+"url": "https://dookeela2.live/live-tv/bbc-earth",
+"referer": "https://tv.ensonhaber.com",
+"info": "En sound",
+"playInNatPlayer": "true"},
+ 
+{  
+name:"FWDoc",
+image:"https://www.fileinw.com/postor/20240617204638FWDoc.jpg",
+url:"https://dookeela2.live/live-tv/thainess",
 "playInNatPlayer": "true"
 },
+ 
+{name:"Outdoor ",
+image:"https://www.lyngsat.com/logo/tv/oo/outdoor-channel-us.png",
+"url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
+"info": "Indo117tv"},
+ 
 {
-"name": "CCM",
-"image": "https://dookeela2.live/uploads/1719803240.png",
-"url": "https://streamamg-fa.akamaiz.com/dookeela/ccm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA5OjA3OjE5IEFNJmhhc2hfdmFsdWU9WUorek9yL1FIaUJPeEFyV2tTcytsdz09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xMg==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
+"name":"LOVE NATURE",
+"image":"https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png",
+"url":"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"},
+ 
+{
+"name":"Motorvision.TV",
+"image":"https://i.imgur.com/aeDaRl4.png",
+"url":"https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"},
+ 
+{
+"name": "4K-Travel-TV",
+"image": "https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712612339bhKq2lZNGi-original-I5f7f5UE.png",
+"url": "https://www.parsatv.com/name=4K-Travel-TV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info": "Astro Go", "desktop": "true"},
+ 
+{
+"name":"ANIMAL KINGDOM",
+"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ-w1qrYSt3NUpQarvB1DW6jaxSyNtDF7l0xiiIDHvMHiTqVZBvxmJWwhbWsF6VAGzv5MmyOwNiWanC9JEGjT_vd9OSoERF7gBbEmbzt4not3Q-P7BPy4YXxw2Vp1zg5yFsR3NYkDfDY7eiBjbfJyfks6lHsJRiBfwBG9l9v5IeaHJv-ZDXdSii6FQaw/s1600/TJDDTYJTYD.png",
+"url": "https://lds-realwild-rakuten.amagi.tv/playlist.m3u8",
+"referer": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
 "playInNatPlayer": "true"
 },
+ 
+{name:"Smithsonian",
+image:"https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png",
+"url": "https://www.parsatv.com/name=Go2Travel-TV#documentary",		
+"info": "Indo117tv"},
+ 
 {
-"name": "ROCK Action",
-"image": "https://dookeela2.live/uploads/1718690264.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/rock-action/chunks.m3u8?nimblesessionid=61829258&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjA5OjQzIFBNJmhhc2hfdmFsdWU9YXY0SCtoN09WVFpsaEVZa0NEZUtvUT09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0yMA==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
+"name":"WORLD OF SCIENCE",
+"image":"https://drive.google.com/uc?id=19XFBOj8mWhZgT4Jm3NTGrxEezvlyOfc2",
+"url": "https://travelxp-travelxp-1-au.samsung.wurl.tv/3000.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
 "playInNatPlayer": "true"
 },
-{
-"name": "ROCK Entertainment",
-"image": "https://dookeela2.live/uploads/1718690283.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/rock-entertainment/chunks.m3u8?nimblesessionid=61829291&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjEwOjM3IFBNJmhhc2hfdmFsdWU9bmsweENteHNJVU8xSDZkd3liYTFmdz09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0yNw==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
-},
-{
-"name": "TVB Classic HD",
-"image": "https://dookeela2.live/uploads/1719898154.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/tvbclassichd/chunks.m3u8?nimblesessionid=61829341&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjEyOjA0IFBNJmhhc2hfdmFsdWU9NlhsSzRsSWJXL0hsRmY0cXI1RkhBdz09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0yMQ==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
-},
-{
-"name": "Alure Channel",
-"image": "https://dookeela2.live/uploads/1731057748.png",
-"url": "https://streamamg-fa.akamaiz.com/dookeela/alure-channel/chunks.m3u8?nimblesessionid=67859263&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjEzOjQ5IFBNJmhhc2hfdmFsdWU9NkZVQjNXbEI1Qy9iYUF3SHpDVkFZdz09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0yMg==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "RUSH Story",
-"image": "https://dookeela2.live/uploads/1741273735.png",
-"url": "https://streamamg-fa.akamaiz.com/dookeela/rush-stories/chunks.m3u8?nimblesessionid=67859310&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjE0OjU4IFBNJmhhc2hfdmFsdWU9QUhxODZGNmR1WUZpK3ZmSmxzcUZhQT09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0yMQ==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
-},
-{
-"name": "TLC",
-"image": "https://dookeela2.live/uploads/1717696038.png",
-"url": "https://streamamg-fa.akamaiz.com/dookeela/tlc/chunks.m3u8?nimblesessionid=67859344&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjE2OjE4IFBNJmhhc2hfdmFsdWU9ZG1kMVpheC9rVnBUeFFkT242cTJaZz09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xMg==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "MONO29 Plus",
-"image": "https://dookeela2.live/uploads/1703787733.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/mono29plus/chunks.m3u8?nimblesessionid=61830492&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjM5OjQxIFBNJmhhc2hfdmFsdWU9ZERZM3Nsd2xYNVY5SVJManV0YStBZz09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xOQ==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
-},
-{
-"name": "MONO29 Music",
-"image": "https://dookeela2.live/uploads/1742428538.png",
-"url": "https://streamamg-fa.akamaiz.com/dookeela/mono-29-music-station/chunks.m3u8?nimblesessionid=67860069&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjQwOjQ1IFBNJmhhc2hfdmFsdWU9MmwweDZPdnZJK0wycitkbXhCWWk4QT09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0zMA==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
-},
-{
-"name": "Thainess",
-"image": "https://dookeela2.live/uploads/1742428803.png",
-"url": "https://streamamg-fa.akamaiz.com/dookeela/thainess/chunks.m3u8?nimblesessionid=67860101&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjQxOjU2IFBNJmhhc2hfdmFsdWU9MWJEV3NHbjJnM0dwUDFRM1RYY0crdz09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xNw==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
-},
-{
-"name": "True 4 U",
-"image": "https://dookeela2.live/uploads/1725896844.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/true4u/chunks.m3u8?nimblesessionid=61830650&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjQzOjAwIFBNJmhhc2hfdmFsdWU9TlNRWm9oRGNxc01XUlhTQ2lZVGdZdz09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xNQ==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
-},
-{
-"name": "True X-Zyte",
-"image": "https://dookeela2.live/uploads/1719206155.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/truex-zyte/chunks.m3u8?nimblesessionid=61830687&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjQ0OjI3IFBNJmhhc2hfdmFsdWU9aElHcEQyMHFkRXRmaDRVZHRKUDcvZz09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xOQ==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "iQIYI",
-"image": "https://dookeela2.live/uploads/1706405008.png",
-"url": "https://streamamg-fa.akamaiz.com/dookeela/iqiyi/chunks.m3u8?nimblesessionid=67860195&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjQ1OjMzIFBNJmhhc2hfdmFsdWU9YlQya0ZCN3NLbHVFdmk2TitYV1JyQT09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xNA==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
-},
-{
-"name": "tvN MOVIES",
-"image": "https://dookeela2.live/uploads/1714100840.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/tvn-indonesia/chunks.m3u8?nimblesessionid=61830797&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjQ2OjM4IFBNJmhhc2hfdmFsdWU9RUJMTjE3akw0bmk4UFBnWHUveHI3Zz09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0yMg==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
-},
-{
-"name": "tvN Indonesia",
-"image": "https://dookeela2.live/uploads/1703833429.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/tvn-indonesia/chunks.m3u8?nimblesessionid=61830797&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjQ2OjM4IFBNJmhhc2hfdmFsdWU9RUJMTjE3akw0bmk4UFBnWHUveHI3Zz09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0yMg==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
-},
-{
-"name": "ALTV4",
-"image": "https://dookeela2.live/uploads/1725896083.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/altv4/chunks.m3u8?nimblesessionid=61830989&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjUwOjI4IFBNJmhhc2hfdmFsdWU9bkpXenhtRXA2dC92SjN2ZWtqQWV1QT09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xNA==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
-},
-{
-"name": "KBS Korea",
-"image": "https://dookeela2.live/uploads/1725961079.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/kbskorea/chunks.m3u8?nimblesessionid=61831036&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjUxOjM0IFBNJmhhc2hfdmFsdWU9K2g0TXVIWndULzhDT2p4VWhLWm00Zz09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xNw==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
-},
-{
-"name": "KBS World HD",
-"image": "https://dookeela2.live/uploads/1719897483.png",
-"url": "https://streamamg-fa.akamaiz.com/dookeela/kbsworld/chunks.m3u8?nimblesessionid=67860498&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjUyOjQ0IFBNJmhhc2hfdmFsdWU9eVJyenZqaEUwRXp4dHg1MEp5eXNlUT09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xNw==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
-},
-{
-"name": "BBC Lifestyle",
-"image": "https://dookeela2.live/uploads/1727766790.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/bbc-lifestyle/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA5OjA1OjA0IEFNJmhhc2hfdmFsdWU9TkVFVUdyZHBVRk9lUWxJcFNveXJJUT09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0yMg==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "Hunan TV HD",
-"image": "https://dookeela2.live/uploads/1741273908.png",
-"url": "https://streamamg-fa.akamaiz.com/dookeela/hunan-tv-hd/chunks.m3u8?nimblesessionid=67860617&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjU0OjUyIFBNJmhhc2hfdmFsdWU9VnFBa0NrRU0vcFJIVnZhQlo1QlFIUT09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0yMA==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
-},
-{
-"name": "Yunnan TV",
-"image": "https://dookeela2.live/uploads/1741274034.png",
-"url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/yunnan-international/chunks.m3u8?nimblesessionid=61831243&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1LCA0OjU1OjUzIFBNJmhhc2hfdmFsdWU9N3FhZTlueXZBOWJFeXNnN2MzeHBSdz09JnZhbGlkbWludXRlcz0xJmlkPWEwOTM2OTM4N2U1M2EzMmRmNTEzNDY2ZDZiN2RiMGM5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0yOQ==",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36"
-},
+ 
+{ 
+"name": "Nat Geo WILD  ",
+"image": "https://dookeela2.live/uploads/1716363369.png", 
+"url":"https://www.parsatv.com/name=National-Geographic-Wild#google_vignette",
+"referer" :"http://main.light-ott.net",
+"info": "light-ott"},
+ 
+ {
+"name":"Travel XP ",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Txphd_logo_2015.png/220px-Txphd_logo_2015.png",
+"url":"https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8",
+"playInNatPlayer": "true"},
+
 {
 "name": "IDSeries",
 "image": "https://i.ibb.co/wFSYqgpG/logo-fuckseries.png", 
