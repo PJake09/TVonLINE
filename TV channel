@@ -122,7 +122,6 @@ playInNatPlayer: "true"
 "name": "True Asian More",
 "image":"https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",
    "url":"https://dookeela2.live/live-tv/trueasianmore",
-        "referer": "",
 "referer": "https://freetvdd.com", 
 "info": "", 
 "playInNatPlayer": "true"},
@@ -146,7 +145,23 @@ playInNatPlayer: "true"
 "info": "", 
 "playInNatPlayer": "true"},
 
+{
+"name": "True Thai Film",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png", 
+"url":"https://dookeela2.live/live-tv/truethaifilm", 
+"referer": "https://dookeela2.live/", 
+"info": "", 
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",  
+"playInNatPlayer": "true"},
 
+{
+"name": "True Thai Film",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png", 
+"url":"https://dkl-o53d.cdn.akamaiz.com/dookeela/truethaifilm", 
+"referer": "https://dookeela2.live/", 
+"info": "", 
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",  
+"playInNatPlayer": "true"},
 
 {
  "name": "TrueSeries" ,
