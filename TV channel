@@ -4,27 +4,136 @@
    "image": "https://img2.pic.in.th/pic/images563ae4e8f84f959a.jpeg",
    "groups": [
 
-{
-         "name": "True Movies",
-         "image": "https://img5.pic.in.th/file/secure-sv1/Jake2.png",
-         "stations":[
 
-{
-"name":"AXN",
-"image": "https://dookeela2.live/uploads/1719897010.png",
-"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueAXN.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
-"playInNatPlayer": "true"
-},
+{"name": "🔁กดอัปเดตก่อนซิ😁",
+"image": "https://cdn.imgchest.com/files/7ogcb6z62jy.png",
+"url":"https://dl.dropboxusercontent.com/scl/fi/osdhnlstn5nq0y0vz1xqb/Doo-Free.txt?rlkey=l5vbthacstlhkvpch8h4y0unc&st=3v6a0m6o&dl=0"},
 
-{
-"name":"hbo-signature",
-"image": "https://dookeela2.live/uploads/1703786305.png",
-"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truemoviehit.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
-"playInNatPlayer": "true"
-},
-  
+{"name":"▶️บันเทิง",                         
+"image":"https://cdn.imgchest.com/files/7pjcq2ekmd7.png",
+"stations": [ 
+
+{"name":"Movie1",
+"image": "https://cdn.imgchest.com/files/yq9c3lrna84.png",
+"url":"http://49.0.64.96:8007/IZAA",
+"playInNatPlayer": "true"},
+
+{"name":"Movie2",
+"image": "https://cdn.imgchest.com/files/yq9c3lrna84.png",
+"url":"https://inwiptv.org/player_demo.php?channel=95262",
+"referer": "https://inwiptv.org/demo.php",
+"playInNatPlayer": "true"},
+
+{"name":"Movie3",
+"image": "https://cdn.imgchest.com/files/yq9c3lrna84.png",
+"url":"http://49.0.64.96:8007/H-Channel",
+"playInNatPlayer": "true"},
+
+{"name":"Film1",
+"image": "https://cdn.imgchest.com/files/y8xcn5r8ap4.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=418",
+"playInNatPlayer": "true"},
+
+{"name": "Film2",
+"image": "https://cdn.imgchest.com/files/45xcv2owa97.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=420",
+"playInNatPlayer": "true"},
+
+{"name":"Movie Hits",
+"image": "https://cdn.imgchest.com/files/7kzcakr3pm7.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=412",
+"playInNatPlayer": "true"},
+
+{"name": "Film Asia",
+"image": "https://cdn.imgchest.com/files/4apc5pmo9v4.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=404",
+"playInNatPlayer": "true"},
+
+{"name":"Thai Film",
+"image": "https://cdn.imgchest.com/files/yq9c3lrn3z4.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=307",
+"playInNatPlayer": "true"},
+
+{"name":"Series",
+"image": "https://cdn.imgchest.com/files/4jdcved9vk4.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=406",
+"playInNatPlayer": "true"},
+
+{"name":"Asian More",
+"image": "https://cdn.imgchest.com/files/7w6c238o9py.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=405",
+"playInNatPlayer": "true"},
+
+{"name":"AXN",
+"image": "https://cdn.imgchest.com/files/ye3c2qk3va4.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=413",
+"playInNatPlayer": "true"},
+
+{"name": "Warner TV",
+"image": "https://cdn.imgchest.com/files/yd5ceavle34.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=282",
+"playInNatPlayer": "true"},
+
+{"name":"CCM",
+"image": "https://cdn.imgchest.com/files/4z9cvz2xqr7.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=411",
+"playInNatPlayer": "true"},
+
+{"name":"Rock Action",
+"image":"https://cdn.imgchest.com/files/y2pckewrkq7.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=402",
+"playInNatPlayer": "true"},
+
+{"name":"Rock Enter",
+"image":"https://cdn.imgchest.com/files/7lxcp5m2pp7.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=403",
+"playInNatPlayer": "true"},
+
+{"name": "MONO Plus",
+"image": "https://cdn.imgchest.com/files/7pjcq2eone7.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=280",
+"playInNatPlayer": "true"},
+
+{"name":"Mono29-A",
+"image":"https://cdn.imgchest.com/files/7ogcb69nazy.png",
+"url":"https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8",
+"playInNatPlayer": "true"},
+
+{"name": "Mono29-B",
+"image": "https://cdn.imgchest.com/files/7ogcb69nazy.png",
+"url":"https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8",
+"playInNatPlayer": "true"},
+
+{"name": "HBO",
+"image": "https://cdn.imgchest.com/files/46acqp6el37.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=274",
+"playInNatPlayer": "true"},
+
+{"name": "HBO Sig",
+"image": "https://cdn.imgchest.com/files/7bwckpro657.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=275",
+"playInNatPlayer": "true"},
+
+{"name": "HBO Hits",
+"image": "https://cdn.imgchest.com/files/4nec8q3vz94.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=276",
+"playInNatPlayer": "true"},
+
+{"name": "HBO Fam",
+"image": "https://cdn.imgchest.com/files/49zc235onry.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=277",
+"playInNatPlayer": "true"},
+
+{"name": "Cinemax",
+"image": "https://cdn.imgchest.com/files/yvdcwkloxky.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=278",
+"playInNatPlayer": "true"},
+
+{"name": "Asian Hits",
+"image": "https://cdn.imgchest.com/files/739cxjlmzo7.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=281",
+"playInNatPlayer": "true"},
+
 {
 "name": "HBO HIT ",  
 "image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_425_305",  
@@ -41,16 +150,13 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
 "playInNatPlayer": "true"
 },
-
 {
-"name": "Paramount",
-"image": "https://dookeela2.live/uploads/1706112779.png",
-"url":"https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truewb.m3u8",
-"info"		: "",
-"referer": "https://wacth.tv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
-},
+"name": "ROCK ACTION",
+"image":"https://img.pic.in.th/Rock_Action.png",
+"url":"https://dookeela2.live/live-tv/rock-action", 
+"referer": "", 
+"info": "", 
+"desktop": "true"},
 
 {
 "name":"3BB ASIAN",
@@ -69,44 +175,12 @@ playInNatPlayer: "true"
 },
 
 {
-"name": "True CCM",
-"image":"https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",
-"url":"https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueccm.m3u8", 
-"info"		: "",
-"referer": "https://freetvdd.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "ROCK ACTION",
-"image":"https://img.pic.in.th/Rock_Action.png",
-"url":"https://dookeela2.live/live-tv/rock-action", 
-"referer": "", 
-"info": "", 
-"desktop": "true"},
-
-{
 "name": " TRUE FILMHD2 ",
 "image": "https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png",
 "url": "https://dookeela2.live/live-tv/truefilm2",
 "referer":"https://wacth.tv",
  "info": "",
  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"},
-
-{"name": "HBO",
-"image":"https://dookeela2.live/uploads/1703686191.png",
-"url":"https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueasiamove.m3u8",
-"referer":"https://wacth.tv",
- "info": "",
- "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"},
-
-{
-"name": "True Film Asian HD",
-"image":"https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"url"		: "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truefilmasia.m3u8",
-"info"		: "",
-"referer"	: "https://freetvdd.com/"}, 
 
 {
 "name": "True Movie Hits",
@@ -116,8 +190,6 @@ playInNatPlayer: "true"
 "info": "", 
 "playInNatPlayer": "true"},
 
-
-
 {
 "name": "True Asian More",
 "image":"https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",
@@ -126,16 +198,6 @@ playInNatPlayer: "true"
 "info": "", 
 "playInNatPlayer": "true"},
 
-
-{
-"name": "True Film 1",
-"image": "https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",
-"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truethaifilm.m3u8", 
-"referer": "https://freetvdd.com/", 
-"info": "", 
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",  
-"playInNatPlayer": "true" },
-
 {
 "name": "True Thai Film",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png", 
@@ -143,22 +205,6 @@ playInNatPlayer: "true"
 "referer": "https://freetvdd.com", 
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",  
 "playInNatPlayer": "true"},
-
-{
-"name": "True Thai Film",
-"image":"https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png", 
-"url":"https://e107.hellotherepadawan.org/v5/ZhHHq525XYeKR67FqDIGpQ/1758953841/e2aafb9a8505322190299a64bc631a71/5kJlLisvegg1IfsBCG4fWQ/1758964521/live/dx-origin/sd-thaifilm_720/chunks.m3u8", 
-"referer": "https://dooball66.net/ดูทีวีออนไลน์/", 
-"info": "", 
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",  
-"playInNatPlayer": "true"},
-
-{
- "name": "TrueSeries" ,
-"image": "https://dookeela2.live/uploads/1719205991.png" ,
-"url":"https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueseries.m3u8",
- "referer": "https://dookeela.live/","playInNatPlayer": "true" 
-},
 
 {
  "name": "movie 1" ,
@@ -203,15 +249,166 @@ playInNatPlayer: "true"
 "playInNatPlayer": "true" },
 
 {
-"name":"TRUE X-ZYTE",
-"image":"https://img2.pic.in.th/pic/46fb6.png",
-"url"		: "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truexzyte.m3u8",
-"info"		: "",
-"referer": "https://freetvdd.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"name": "TTD 1",
+"image": "https://dl.dropboxusercontent.com/scl/fi/15ks996jytasor58igl5e/TTD-1.png?rlkey=5hfxhwatz4v3fqwhc47kofmng&dl=0",
+"url": "https://psiiptv-b.sky-cdn.com/ttd01-playlist/index.m3u8",
+"referer": "https://mvtv.co.th/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "TTD 2",
+"image": "https://dl.dropboxusercontent.com/scl/fi/yqjxa7wiys0p4d6reimiv/TTD-2.png?rlkey=7b2okspjvwwmj9xv2qyqmcj2e&dl=0",
+"url": "https://psiiptv-b.sky-cdn.com/ttd02-playlist/index.m3u8",
+"referer": "https://mvtv.co.th/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "TTD 3",
+"image": "https://dl.dropboxusercontent.com/scl/fi/mckmgor8n1ku3tje1jhlp/TTD-3.png?rlkey=az5qx33f346aved1sz4hgnxil&dl=0",
+"url": "https://psiiptv-b.sky-cdn.com/ttd03-playlist/index.m3u8",
+"referer": "https://mvtv.co.th/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "TTD 4",
+"image": "https://dl.dropboxusercontent.com/scl/fi/9y4ivvwyn0b4jldqlp8jz/TTD-4.png?rlkey=kl1ydluq3mvrizkp6ktjzipvv&dl=0",
+"url": "https://psiiptv-b.sky-cdn.com/ttd04-Playlist/index.m3u8",
+"referer": "https://mvtv.co.th/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "TTD 5",
+"image": "https://dl.dropboxusercontent.com/scl/fi/enhobbf8ii3yy3mzd6elh/TTD-5.png?rlkey=1r9vte3zr69lc7t6yqicd3xmi&dl=0",
+"url": "https://psiiptv-b.sky-cdn.com/ttd05-playlist/index.m3u8",
+"referer": "https://mvtv.co.th/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "TTD 6",
+"image": "https://dl.dropboxusercontent.com/scl/fi/fb92i0r1n5ru50gx4wxm5/TTD-6.png?rlkey=7lc80r43s5u7gxmpszjcuw2uy&dl=0",
+"url": "https://psiiptv-b.sky-cdn.com/ttd06-playlist/index.m3u8",
+"referer": "https://mvtv.co.th/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "TTD 7",
+"image": "https://dl.dropboxusercontent.com/scl/fi/p11w1orom50yrhk9ieigb/TTD-7.png?rlkey=9tp57s5ly40y1uawrgsi6t7xc&dl=0",
+"url": "https://psiiptv-b.sky-cdn.com/ttd07-playlist/index.m3u8",
+"referer": "https://mvtv.co.th/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "TTD 8",
+"image": "https://dl.dropboxusercontent.com/scl/fi/5vybp51hn1a2b0omwesv3/TTD-8.png?rlkey=2n40zy8gxqvrfluojt7eqelr7&dl=0",
+"url": "https://psiiptv-b.sky-cdn.com/ttd08-playlist/index.m3u8",
+"referer": "https://mvtv.co.th/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "TTD 9",
+"image": "https://dl.dropboxusercontent.com/scl/fi/y8gpqnxugfq920zlxzhgw/TTD-9.png?rlkey=304rv4ukvssny9ab41upf41j4&dl=0",
+"url": "https://psiiptv-b.sky-cdn.com/ttd09-playlist/index.m3u8",
+"referer": "https://mvtv.co.th/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "TTD 10",
+"image": "https://dl.dropboxusercontent.com/scl/fi/7kxf8pixw6u76jcoz5cph/TTD-10.png?rlkey=nqkcgyckxf548mw1qhcla73kk&dl=0",
+"url": "https://psiiptv-b.sky-cdn.com/ttd10-playlist/index.m3u8",
+"referer": "https://mvtv.co.th/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "TTD 11",
+"image": "https://dl.dropboxusercontent.com/scl/fi/14m9bl63we5hk9k8n9yqs/TTD-11.png?rlkey=bjpl20uri8it6zt3g5ixknk77&dl=0",
+"url": "https://psiiptv-b.sky-cdn.com/ttd11-playlist/index.m3u8",
+"referer": "https://mvtv.co.th/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "TTD 12",
+"image": "https://dl.dropboxusercontent.com/scl/fi/14m9bl63we5hk9k8n9yqs/TTD-11.png?rlkey=bjpl20uri8it6zt3g5ixknk77&dl=0",
+"url": "https://psiiptv-b.sky-cdn.com/ttd12-playlist/index.m3u8",
+"referer": "https://mvtv.co.th/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "TTD 15",
+"image": "https://dl.dropboxusercontent.com/scl/fi/j7ybmvvfgknjg76nxpc9x/TTD15.png?rlkey=1fn5q5xjpuonxn5ycibwf5rhr&dl=0",
+"url": "https://psiiptv-b.sky-cdn.com/ttd15-playlist/index.m3u8",
+"referer": "https://mvtv.co.th/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
 "playInNatPlayer": "true"
 },
 
+{
+"name": "V2H2",
+"image": "https://dl.dropboxusercontent.com/scl/fi/z6218rtkvy097tlf66g6t/V2H2.png?rlkey=ik4o4x61yn63ysr180a0oh7jw&dl=0",
+"url": "https://psiiptv-b.sky-cdn.com/v2h2-playlist/index.m3u8",
+"referer": "https://mvtv.co.th/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+{
+name:"Cool Channel",
+image:"https://cool-channel.com/wp-content/uploads/2022/11/Logo-Final-03-10-59.png",
+url:"https://live.cool-channel.com/cool/live-720P.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Universal",
+"image": "https://i.ibb.co/MxZHkhvV/logo-universal.png",
+"url": "http://49.0.64.96:8007/H-Channel",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.3",
+"playInNatPlayer": "true"
+},
+{
+"name": "Pluse Channel",
+"image": "https://i.ibb.co/7xf3sR9Z/logo-pluse.png",
+"url": "http://49.0.64.96:8007/PLUSE",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.4",
+"playInNatPlayer": "true"
+},
+{
+"name": "FuckIDSeries",
+"image": "https://i.ibb.co/wFSYqgpG/logo-fuckseries.png",
+"url": "http://49.0.64.96:8007/SERIES",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.5",
+"playInNatPlayer": "true"
+},
+{
+"name": "FuckIDTOON",
+"image": "https://i.ibb.co/qYGcDkdc/logo-fuck-toon.png",
+"url": "http://49.0.64.96:8007/Cartoonumi",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.7",
+"playInNatPlayer": "true"
+},
+{
+"name": "FuckIDMovie",
+"image": "https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png",
+"url": "http://49.0.64.96:8007/PING",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.3",
+"playInNatPlayer": "true"
+},
 {
  "name": "AMAZING" ,
 "image": "https://i.ibb.co/zv40P0s/logo-amazing.png" ,
@@ -226,7 +423,6 @@ playInNatPlayer: "true"
 "referer": "",
 "playInNatPlayer": "true"},
 
-
 {
 "name":"MONO29 PLUS",
 "image":"https://dookeela2.live/uploads/1703787733.png",
@@ -235,13 +431,129 @@ playInNatPlayer: "true"
 "referer": "",
 "playInNatPlayer": "true"},
 
-{
-"name": "chiangrai",
-"image": "https://thaitvstream.com/streaming/chiangrai/chiangrai.png",
-"url":"https://www.inwiptv.me/player_demo.php?channel=89781",
-"userAgent": "exoplayer_video"
+{"name":"Channel 8",
+"image":"https://cdn.imgchest.com/files/4gdcxjbr3r4.png",
+"url":"https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8",
+"playInNatPlayer": "true"},
+
+{"name": "TLC",
+"image": "https://cdn.imgchest.com/files/y8xcn5rqre4.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=396",
+"playInNatPlayer":"true"},
+
+{"name": "X-Zyte",
+"image": "https://cdn.imgchest.com/files/yq9c3lrnvx4.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=407",
+"playInNatPlayer": "true"},
+
+]
 },
- 
+
+{"name":"▶️สารคดี",
+                                 
+"image":"https://cdn.imgchest.com/files/7kzcakrx8j7.png",
+"stations": [ 
+
+{"name":"Discovery🇹🇭",
+"image":"https://cdn.imgchest.com/files/y8xcn5r8np4.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=301",
+"playInNatPlayer": "true"},
+
+{"name":"Discovery Asia🇹🇭",
+"image":"https://cdn.imgchest.com/files/45xcv2owv97.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=302",
+"playInNatPlayer": "true"},
+
+{"name":"History🇹🇭",
+"image":"https://cdn.imgchest.com/files/7bwckprok57.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=350",
+"playInNatPlayer":"true"},
+
+{"name":"Crime🇹🇭",
+"image":"https://cdn.imgchest.com/files/4gdcxjbrxr4.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=359",
+"playInNatPlayer": "true"},
+
+{"name":"Explore Wild🇹🇭",
+"image":"https://cdn.imgchest.com/files/4nec8q3v894.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=491",
+"playInNatPlayer": "true"},
+
+{"name": "Explore Life🇹🇭",
+"image": "https://cdn.imgchest.com/files/4apc5pmo5v4.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=492",
+"playInNatPlayer": "true"},
+
+{"name":"Explore Sci🇹🇭",
+"image":"https://cdn.imgchest.com/files/46acqp6eq37.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=493",
+"playInNatPlayer": "true"},
+
+{"name":"Animal Planet🇹🇭",
+"image":"https://cdn.imgchest.com/files/7w6c238o2py.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=300",
+"playInNatPlayer": "true"},
+
+{"name":"สำรวจโลก🇹🇭",
+"image":"https://cdn.imgchest.com/files/4jdcved9kk4.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=292",
+"playInNatPlayer":"true"},
+
+{"name":"Animal Show🇹🇭",
+"image":"https://cdn.imgchest.com/files/ye3c2qk32a4.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=294",
+"playInNatPlayer":"true"},
+
+{"name":"MYSCI🇹🇭",
+"image":"https://cdn.imgchest.com/files/7kzcakr3am7.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=293",
+"playInNatPlayer":"true"},
+
+{"name":"Nat Geo Graphic🇺🇸",
+"image":"https://cdn.imgchest.com/files/y2pckewr2q7.png",
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=374714&extension=ts",
+"playInNatPlayer":"true"},
+
+{"name":"Nat Geo Wild🇺🇸",
+"image":"https://cdn.imgchest.com/files/7lxcp5m2ep7.png",
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=330887&extension=ts",
+"playInNatPlayer": "true"},
+
+{"name":"Love Nature",
+"image":"https://cdn.imgchest.com/files/7ogcb69nbzy.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=533",
+"playInNatPlayer": "true"},
+
+{"name":"BBC Earth",
+"image":"https://cdn.imgchest.com/files/4z9cvz2xvr7.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=572",
+"playInNatPlayer": "true"},
+
+{"name": "BBC LifeStyle",
+"image": "https://cdn.imgchest.com/files/7mmc96knjj7.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=444208&extension=ts",
+"playInNatPlayer":"true"},
+
+{"name":"Thainess🇹🇭",
+"image":"https://cdn.imgchest.com/files/yq9c3lrndz4.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=594",
+"playInNatPlayer": "true"},
+
+{"name":"ของดีประเทศไทย🇹🇭",
+"image":"https://cdn.imgchest.com/files/7pjcq2eoqe7.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186648&extension=m3u8",
+"playInNatPlayer": "true"},
+
+{"name":"Asian Food Network🇹🇭",
+"image":"https://cdn.imgchest.com/files/yq9c3lrn2o4.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=398",
+"playInNatPlayer":"true"},
+
+{"name":"Food Network🇹🇭",
+"image":"https://cdn.imgchest.com/files/yd5ceavla54.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=397",
+"playInNatPlayer":"true"},
+
 {
 "name": "Discovery Channel 🇹🇭",  
 "image": "https://www.all-channels.com/images/clients/KUWQY2PC6N1T.png",  
@@ -250,7 +562,6 @@ playInNatPlayer: "true"
 "info":"",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
 "playInNatPlayer": "true"},
- 
  
 {
 "name": "Discovery Asia ",  
@@ -266,7 +577,6 @@ playInNatPlayer: "true"
 "url": "https://www.parsatv.com/name=National-Geographic-East#documentary", 
 "info": "",
 "desktop": "true"},
- 
  
 {
 "name": "wonder",
@@ -292,16 +602,7 @@ playInNatPlayer: "true"
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
 "info": "pluto.tv",
 "desktop": "true"},
- 
-{
-"name":"History",
-"image":"https://dookeela2.live/uploads/1713231372.png",
-"url":"https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueH2.m3u8",
-"referer":"", 
-"info":"",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
-"playInNatPlayer": "true"},
- 
+
 { 
 "name": "Drone TV",
 "image": "https://m.media-amazon.com/images/I/313L4DmcyrL.png", 
@@ -408,8 +709,8 @@ url:"https://dookeela2.live/live-tv/trueexplorewild",
 "playInNatPlayer": "true"},
  
 {  
-name:"FWDoc",
-image:"https://www.fileinw.com/postor/20240617204638FWDoc.jpg",
+name:"Thainess",
+image:"https://dookeela2.live/uploads/1742428803.png",
 url:"https://dookeela2.live/live-tv/thainess",
 "playInNatPlayer": "true"
 },
@@ -552,15 +853,6 @@ name:"THAINEWS",
 image:"https://dl.dropboxusercontent.com/scl/fi/ci453585kt19mor5is7nm/Thainew.png?rlkey=gsn9own8p6vbcqj6kzkq7er2g&st=i9lzyc64&dl=0",
 url:"https://live.thaitvstream.com/play/thainews/index.m3u8",
  "desktop":"true", "playInNatPlayer": "true"},
-     
-{
-"name":"MONO PLUS",
-"image":"https://img5.pic.in.th/file/secure-sv1/MONO.png",
-"url": "https://dookeela.live/live-tv/mono29plus",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.45",
-"playInNatPlayer": "true"
-},
 
 {"name"		:"CABLE 37 HD",
 "image"		:"https://dl.dropboxusercontent.com/scl/fi/15u0885e5x8apyqhizydt/CABLE-37-HD.png?rlkey=laks8g3lyifok5ecyfj545xpi&dl=0",
@@ -663,221 +955,6 @@ referer		:	"https://www.inwiptv.com/"},
 },
 
 {
-"name": "TTD 1",
-"image": "https://dl.dropboxusercontent.com/scl/fi/15ks996jytasor58igl5e/TTD-1.png?rlkey=5hfxhwatz4v3fqwhc47kofmng&dl=0",
-"url": "https://psiiptv-b.sky-cdn.com/ttd01-playlist/index.m3u8",
-"referer": "https://mvtv.co.th/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "TTD 2",
-"image": "https://dl.dropboxusercontent.com/scl/fi/yqjxa7wiys0p4d6reimiv/TTD-2.png?rlkey=7b2okspjvwwmj9xv2qyqmcj2e&dl=0",
-"url": "https://psiiptv-b.sky-cdn.com/ttd02-playlist/index.m3u8",
-"referer": "https://mvtv.co.th/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "TTD 3",
-"image": "https://dl.dropboxusercontent.com/scl/fi/mckmgor8n1ku3tje1jhlp/TTD-3.png?rlkey=az5qx33f346aved1sz4hgnxil&dl=0",
-"url": "https://psiiptv-b.sky-cdn.com/ttd03-playlist/index.m3u8",
-"referer": "https://mvtv.co.th/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "TTD 4",
-"image": "https://dl.dropboxusercontent.com/scl/fi/9y4ivvwyn0b4jldqlp8jz/TTD-4.png?rlkey=kl1ydluq3mvrizkp6ktjzipvv&dl=0",
-"url": "https://psiiptv-b.sky-cdn.com/ttd04-Playlist/index.m3u8",
-"referer": "https://mvtv.co.th/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "TTD 5",
-"image": "https://dl.dropboxusercontent.com/scl/fi/enhobbf8ii3yy3mzd6elh/TTD-5.png?rlkey=1r9vte3zr69lc7t6yqicd3xmi&dl=0",
-"url": "https://psiiptv-b.sky-cdn.com/ttd05-playlist/index.m3u8",
-"referer": "https://mvtv.co.th/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "TTD 6",
-"image": "https://dl.dropboxusercontent.com/scl/fi/fb92i0r1n5ru50gx4wxm5/TTD-6.png?rlkey=7lc80r43s5u7gxmpszjcuw2uy&dl=0",
-"url": "https://psiiptv-b.sky-cdn.com/ttd06-playlist/index.m3u8",
-"referer": "https://mvtv.co.th/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "TTD 7",
-"image": "https://dl.dropboxusercontent.com/scl/fi/p11w1orom50yrhk9ieigb/TTD-7.png?rlkey=9tp57s5ly40y1uawrgsi6t7xc&dl=0",
-"url": "https://psiiptv-b.sky-cdn.com/ttd07-playlist/index.m3u8",
-"referer": "https://mvtv.co.th/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "TTD 8",
-"image": "https://dl.dropboxusercontent.com/scl/fi/5vybp51hn1a2b0omwesv3/TTD-8.png?rlkey=2n40zy8gxqvrfluojt7eqelr7&dl=0",
-"url": "https://psiiptv-b.sky-cdn.com/ttd08-playlist/index.m3u8",
-"referer": "https://mvtv.co.th/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "TTD 9",
-"image": "https://dl.dropboxusercontent.com/scl/fi/y8gpqnxugfq920zlxzhgw/TTD-9.png?rlkey=304rv4ukvssny9ab41upf41j4&dl=0",
-"url": "https://psiiptv-b.sky-cdn.com/ttd09-playlist/index.m3u8",
-"referer": "https://mvtv.co.th/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "TTD 10",
-"image": "https://dl.dropboxusercontent.com/scl/fi/7kxf8pixw6u76jcoz5cph/TTD-10.png?rlkey=nqkcgyckxf548mw1qhcla73kk&dl=0",
-"url": "https://psiiptv-b.sky-cdn.com/ttd10-playlist/index.m3u8",
-"referer": "https://mvtv.co.th/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "TTD 11",
-"image": "https://dl.dropboxusercontent.com/scl/fi/14m9bl63we5hk9k8n9yqs/TTD-11.png?rlkey=bjpl20uri8it6zt3g5ixknk77&dl=0",
-"url": "https://psiiptv-b.sky-cdn.com/ttd11-playlist/index.m3u8",
-"referer": "https://mvtv.co.th/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "TTD 12",
-"image": "https://dl.dropboxusercontent.com/scl/fi/14m9bl63we5hk9k8n9yqs/TTD-11.png?rlkey=bjpl20uri8it6zt3g5ixknk77&dl=0",
-"url": "https://psiiptv-b.sky-cdn.com/ttd12-playlist/index.m3u8",
-"referer": "https://mvtv.co.th/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "TTD 15",
-"image": "https://dl.dropboxusercontent.com/scl/fi/j7ybmvvfgknjg76nxpc9x/TTD15.png?rlkey=1fn5q5xjpuonxn5ycibwf5rhr&dl=0",
-"url": "https://psiiptv-b.sky-cdn.com/ttd15-playlist/index.m3u8",
-"referer": "https://mvtv.co.th/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "V2H2",
-"image": "https://dl.dropboxusercontent.com/scl/fi/z6218rtkvy097tlf66g6t/V2H2.png?rlkey=ik4o4x61yn63ysr180a0oh7jw&dl=0",
-"url": "https://psiiptv-b.sky-cdn.com/v2h2-playlist/index.m3u8",
-"referer": "https://mvtv.co.th/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-name:"Cool Channel",
-image:"https://cool-channel.com/wp-content/uploads/2022/11/Logo-Final-03-10-59.png",
-url:"https://live.cool-channel.com/cool/live-720P.m3u8",
-"playInNatPlayer": "true"
-},
-
-{"name": "outdoor",
-"image": "https://www.mncvision.id/userfiles/image/channel/channel_460.png",
-"url": "https://github.com/bestcommt2/m3u8/raw/refs/heads/master/outdoor.m3u8",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.3"
-},
-
-{"name":"LFC TV-C🇬🇧",
-"image":"https://img2.pic.in.th/pic/lfctvdoo.png",
-"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175216&extension=ts",
-"playInNatPlayer": "true"},
-
-{"name":"MUTV-D🇬🇧",
-"image":"https://img2.pic.in.th/pic/mutvdoo.png",
-"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175208&extension=ts",
-"playInNatPlayer": "true"},
-
-{"name":"MUTV-F🇬🇧",
-"image":"https://img2.pic.in.th/pic/mutvdoo.png",
-"url":"http://cord-cutter.net:8080/FC86sA/631284/53717",
-"playInNatPlayer": "true"},
-
-{"name":"MUTV-G🇬🇧",
-"image":"https://img2.pic.in.th/pic/mutvdoo.png",
-"url":"http://1tv41.icu:8080/Corey1/EF5m9t7VRB/53717",
-"playInNatPlayer": "true"},
-
-{"name":"Astro Premier1-A🇲🇾",
-"image":"https://i.imgur.com/wDtECAe.png",
-"url": "https://goal-th.com/ช่องรายการทีวี/?id=537&tv=AstroPremierLeague",
-"playInNatPlayer": "true"},
-
-{"name":"Astro Premier1-D🇲🇾",
-"image":"https://i.imgur.com/wDtECAe.png",
-"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341538&extension=ts",
-"playInNatPlayer": "true"},
-
-{"name":"Astro Football-C🇲🇾",
-"image":"https://img5.pic.in.th/file/secure-sv1/astrofootball.png",
-"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341542&extension=ts",
-"playInNatPlayer": "true"},
-
-{"name": "SPORT TV1🇵🇹",
-"image": "https://images.seeklogo.com/logo-png/50/1/sport-tv1-logo-png_seeklogo-503375.png",
-"url": "https://cdn1.googlecdnforstreaming.live/live/sporttv1/chunks.m3u8",
-"referer": "https://warpdooball.net/",
-"playInNatPlayer": "true"},
-
-{"name": "SPORT TV2🇵🇹",
-"image": "https://img2.pic.in.th/pic/SPORTTV2.png",
-"url": "https://cdn1.googlecdnforstreaming.live/live/sporttv2/chunks.m3u8",
-"referer": "https://warpdooball.net/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Universal",
-"image": "https://i.ibb.co/MxZHkhvV/logo-universal.png",
-"url": "http://49.0.64.96:8007/H-Channel",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.3",
-"playInNatPlayer": "true"
-},
-{
-"name": "Pluse Channel",
-"image": "https://i.ibb.co/7xf3sR9Z/logo-pluse.png",
-"url": "http://49.0.64.96:8007/PLUSE",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.4",
-"playInNatPlayer": "true"
-},
-{
-"name": "FuckIDSeries",
-"image": "https://i.ibb.co/wFSYqgpG/logo-fuckseries.png",
-"url": "http://49.0.64.96:8007/SERIES",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.5",
-"playInNatPlayer": "true"
-},
-{
-"name": "FuckIDTOON",
-"image": "https://i.ibb.co/qYGcDkdc/logo-fuck-toon.png",
-"url": "http://49.0.64.96:8007/Cartoonumi",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.7",
-"playInNatPlayer": "true"
-},
-{
-"name": "FuckIDMovie",
-"image": "https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png",
-"url": "http://49.0.64.96:8007/PING",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.3",
-"playInNatPlayer": "true"
-},
-{
 "name": "AMAZING",
 "image": "https://i.ibb.co/zv40P0s/logo-amazing.png",
 "url": "http://49.0.64.96:8007/AMAZING",
@@ -901,2358 +978,842 @@ url:"https://live.cool-channel.com/cool/live-720P.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.2",
 "playInNatPlayer": "true"
 },
-{
-"name": "Superrix",
-"image": "https://i.ibb.co/pBHghpSx/237x0-icon.png",
-"url": "http://49.0.64.96:8007/Cinemachi",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.3",
-"playInNatPlayer": "true"
-},
 ]
 },
 
-{"name": "Docomentary","image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png","stations": [
-{
-"name": "CRIME INVESTI GATION",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url" : "https://dookeela.live/live-tv/crime-investigation",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
- },
+{"name":"▶️กีฬา",
+                                 
+"image":"https://cdn.imgchest.com/files/4nec8q3lom4.png",
+"stations": [ 
 
-{
-"name": "HISTORY",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/history",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
+{"name":"CH.1A",
+"image":"https://cdn.imgchest.com/files/4z9cvz82927.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer":"true"},
 
-{
-"name": "GLOBAL TREKKER CHANNEL",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/global-trekker-channel",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
+{"name":"CH.1B",
+"image":"https://cdn.imgchest.com/files/4z9cvz82927.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=606",
+"playInNatPlayer":"true"},
 
-{
-"name": "NATIONAL-GEOGRAPHIC",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/national-geographic",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
+{"name":"CH.1C",
+"image":"https://cdn.imgchest.com/files/4z9cvz82927.png",
+"url": "https://cdn1.googlecdn.live/4k/monomax1/chunks.m3u8",
+"referer": "https://footballsod.live/",
+"playInNatPlayer": "true"},
 
-{
-"name": "NAT-GEO-WILD",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/nat-geo-wild",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
+{"name":"CH.2A",
+"image":"https://cdn.imgchest.com/files/4z9cvz82927.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer":"true"},
 
-{
-"name": "FOOD NETWORK",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/foodnetwork",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
+{"name":"CH.2B",
+"image":"https://cdn.imgchest.com/files/4z9cvz82927.png",
+"url": "https://cdn1.googlecdn.live/4k/monomax-2/chunks.m3u8",
+"referer": "https://footballsod.live/",
+"playInNatPlayer": "true"},
 
-{
-"name": "TRUE  X-ZYTE",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/truex-zyte#",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
+{"name":"CH.3A",
+"image":"https://cdn.imgchest.com/files/4z9cvz82927.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/monomax-3/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer":"true"},
 
-{
-"name": "สำรวจโลก",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/samrujlok",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
+{"name":"CH.3B",
+"image":"https://cdn.imgchest.com/files/4z9cvz82927.png",
+"url": "https://cdn1.googlecdn.live/4k/monomax-3/chunks.m3u8",
+"referer": "https://footballsod.live/",
+"playInNatPlayer": "true"},
 
-{
-"name": "MYSCI",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/mysci",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
 
-{
-"name":"DISCOVERY CHANNEL",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url":"https://dookeela.live/live-tv/discovery",
-"referer":"https://dookeela.live/", 
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
+{"name":"CH.4A",
+"image":"https://cdn.imgchest.com/files/4z9cvz82927.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/monomax-4/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer":"true"},
 
-{
-"name":"DISCOVERY ASIA",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/discovery-asia",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"playInNatPlayer": "true"
-},
+{"name":"CH.4B",
+"image":"https://cdn.imgchest.com/files/4z9cvz82927.png",
+"url": "https://cdn1.googlecdn.live/4k/monomax-4/chunks.m3u8",
+"referer": "https://footballsod.live/",
+"playInNatPlayer": "true"},
 
-{
-"name":"BBC EARTH",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/", 
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"playInNatPlayer": "true"
-},
+{"name":"CH.5",
+"image":"https://cdn.imgchest.com/files/4z9cvz82927.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/monomax-5/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer":"true"},
 
-{
-"name":"LOVE NATURE",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png", 
-"url":"https://dookeela.live/live-tv/love-nature-4k",
-"referer":"https://dookeela.live/",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
-"playInNatPlayer": "true"
-},
+{"name":"CH.6",
+"image":"https://cdn.imgchest.com/files/4z9cvz82927.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/monomax-6/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer":"true"},
 
-{
-"name": "ANIMAL PLANET",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/animal-planet",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},  
- 
-{
-"name": "ANIMAL SHOW",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://dookeela.live/live-tv/animalshow",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
+{"name":"CH.7",
+"image":"https://cdn.imgchest.com/files/4z9cvz82927.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/monomax-7/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer":"true"},
 
-{
-"name": "ของดี",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC31/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
+{"name":"CH.8",
+"image":"https://cdn.imgchest.com/files/4z9cvz82927.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/monomax-8/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer":"true"},
 
-{
-"name": "SWEET",
-"image":"https://img2.pic.in.th/pic/1934115d87af9960d347bd70a001195b.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC58/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-]
-},
-{"name": "Cartoon","image":"https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png","stations": [
-{
-"name": "ZOOMOO",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC38/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
+{"name": "beIN Sports1-A🇹🇭",
+"image": "https://cdn.imgchest.com/files/ye3c2qk6mo4.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
 
-{
-"name": "ANIMAX",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/animax",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
+{"name": "beIN Sports1-B🇹🇭",
+"image": "https://cdn.imgchest.com/files/ye3c2qk6mo4.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=44",
+"playInNatPlayer":"true"},
 
-{
-"name": "BOOMERANG",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/boomerang",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
+{"name": "beIN Sports1-C🇹🇭",
+"image": "https://cdn.imgchest.com/files/ye3c2qk6mo4.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=526",
+"playInNatPlayer":"true"},
 
-{
-"name": "CARTOON CLUB",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/cartoonclub",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
+{"name": "beIN Sports2-A🇹🇭",
+"image": "https://cdn.imgchest.com/files/b376ff4c425e.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/bein2/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
 
-{
-"name": "CN",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/cartoon-network",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
+{"name": "beIN Sports2-B🇹🇭",
+"image": "https://cdn.imgchest.com/files/b376ff4c425e.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=188",
+"playInNatPlayer":"true"},
 
-{
-"name": "CARTOONITO",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/cartoonito",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
+{"name": "beIN Sports3-A🇹🇭",
+"image": "https://cdn.imgchest.com/files/4z9cvz2r587.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/bein3/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
 
-{
-"name": "CBEEBIES",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/cbeebies",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
+{"name": "beIN Sports3-B🇹🇭",
+"image": "https://cdn.imgchest.com/files/4z9cvz2r587.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=6",
+"playInNatPlayer":"true"},
 
-{
-"name": "DISNEY CHANNEL",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/disney-channel",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
+{"name": "beIN Sports4-A🇹🇭",
+"image": "https://cdn.imgchest.com/files/4gdcxjbeqw4.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/bein4/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
 
-{
-"name": "DISNEY JR",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/disney-junior",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
+{"name": "beIN Sports4-B🇹🇭",
+"image": "https://cdn.imgchest.com/files/4gdcxjbeqw4.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=201",
+"playInNatPlayer":"true"},
 
-{
-"name": "DISNEY XD",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/disneyxd",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
+{"name": "beIN Sports5-A🇹🇭",
+"image": "https://cdn.imgchest.com/files/y8xcn5rmow4.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/bein5/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
 
-{
-"name": "NICKJR",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/nickjr",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
+{"name": "beIN Sports5-B🇹🇭",
+"image": "https://cdn.imgchest.com/files/y8xcn5rmow4.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=202",
+"playInNatPlayer":"true"},
 
-{
-"name": "NICKLODEON",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/nickelodeon",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "NICKTOONS",
-"image": "https://img5.pic.in.th/file/secure-sv1/689982d04dc715a04822e3f9f3ce5484.png",
-"url": "https://dookeela.live/live-tv/nicktoons",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true"
-},
-]
-},
-
-{
-"name": "ทีวีดิจิตอล",
-"image": "https://i.postimg.cc/Kvqz47x0/1.png",
-"stations": [
-
-{
-"name": "ช่อง 3",
-"image": "https://dookeela2.live/uploads/1685812254.png",
-"url": "https://dookeela2.live/live-tv/ch3hd",
-"referer": ""
-},
-
-{
-"name": "ช่อง 5",
-"image": "https://dookeela2.live/uploads/1664574997.png",
-"url": "https://dookeela2.live/live-tv/ch5hd",
-"referer": ""
-},
-
-{
-"name": "ช่อง 7",
-"image": "https://dookeela2.live/uploads/1688059473.png",
-"url": "https://dookeela2.live/live-tv/ch7hd",
-"referer": ""
-},
-
-{
-"name": "MCOT HD",
-"image": "https://dookeela2.live/uploads/1671966260.png",
-"url": "https://dookeela2.live/live-tv/mcothd",
-"referer": ""
-},
-
-{
-"name": "NBT 2 HD",
-"image": "https://dookeela2.live/uploads/1725895790.png",
-"url": "https://dookeela2.live/live-tv/nbt2hd",
-"referer": ""
-},
-
-{
-"name": "Thai PBS",
-"image": "https://dookeela2.live/uploads/1725895931.png",
-"url": "https://dookeela2.live/live-tv/thaipbs",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "ไทยรัฐทีวี",
-"image": "https://dookeela2.live/uploads/1686800227.png",
-"url": "https://dookeela2.live/live-tv/thairathtv",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "one31",
-"image": "https://dookeela2.live/uploads/1683394005.png",
-"url": "https://dookeela2.live/live-tv/one31",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "AmarinTV HD",
-"image": "https://dookeela2.live/uploads/1704117706.png",
-"url": "https://dookeela2.live/live-tv/amarintv",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "PPTV",
-"image": "https://dookeela2.live/uploads/1664499074.png",
-"url": "https://dookeela2.live/live-tv/pptv",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "CH8",
-"image": "https://dookeela2.live/uploads/1704117313.png",
-"url": "https://dookeela2.live/live-tv/ch8",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "GMM25",
-"image": "https://dookeela2.live/uploads/1725896937.png",
-"url": "https://dookeela2.live/live-tv/gmm25",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "JKN 18",
-"image": "https://dookeela2.live/uploads/1725896425.png",
-"url": "https://dookeela2.live/live-tv/jkn18",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "MONO29 (โมโน 29)",
-"image": "https://dookeela2.live/uploads/1703787713.png",
-"url": "https://dookeela2.live/live-tv/mono29",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Nation TV",
-"image": "https://dookeela2.live/uploads/1725896561.png",
-"url": "https://dookeela2.live/live-tv/nationtv",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "TNN",
-"image": "https://dookeela2.live/uploads/1725896332.png",
-"url": "https://dookeela2.live/live-tv/tnn",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True 4 U",
-"image": "https://dookeela2.live/uploads/1725896844.png",
-"url": "https://dookeela2.live/live-tv/true4u",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Workpoint TV",
-"image": "https://dookeela2.live/uploads/1725896683.png",
-"url": "https://dookeela2.live/live-tv/workpointtv",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "ALTV4",
-"image": "https://dookeela2.live/uploads/1725896083.png",
-"url": "https://dookeela2.live/live-tv/altv4",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "T Sports 7",
-"image": "https://dookeela2.live/uploads/1673134276.png",
-"url": "https://dookeela2.live/live-tv/tsports7",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-}
-]
-},
-
-{
-"name": "กีฬา",
-"image": "https://i.postimg.cc/d0dtWzdf/2.png",
-"stations": [
-
-{
-"name": "Monomax1",
-"image": "https://i.postimg.cc/0ytfZTD8/75.png",
-"url": "http://bestcommt2.github.io/m3u8/monomax1.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Monomax2",
-"image": "https://i.postimg.cc/jSWw0mBq/752.png",
-"url": "http://bestcommt2.github.io/m3u8/monomax2.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Monomax3",
-"image": "https://i.postimg.cc/05cb69s2/753.png",
-"url": "http://bestcommt2.github.io/m3u8/monomax3.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Monomax4",
-"image": "https://i.postimg.cc/BvpGhQNj/754.png",
-"url": "http://bestcommt2.github.io/m3u8/monomax4.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-{
-"name": "Monomax5",
-"image": "https://i.postimg.cc/BvFG0Bq1/755.png",
-"url": "http://bestcommt2.github.io/m3u8/monomax5.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Monomax6",
-"image": "https://i.postimg.cc/Vk5Qp5hN/6.png",
-"url": "http://bestcommt2.github.io/m3u8/monomax6.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Monomax7",
-"image": "https://i.postimg.cc/Gpy03Vdw/7.png",
-"url": "http://bestcommt2.github.io/m3u8/monomax7.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Monomax8",
-"image": "https://i.postimg.cc/5ypTkMqv/8.png",
-"url": "http://bestcommt2.github.io/m3u8/monomax8.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-{
-"name": "Monomax9",
-"image": "https://i.postimg.cc/jqhpjz05/9.png",
-"url": "http://bestcommt2.github.io/m3u8/monomax9.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-{
-"name": "truesports 1",
-"image": "https://dookeela2.live/uploads/1664802455.png",
+{"name":"Sports1-A🇹🇭",
+"image":"https://cdn.imgchest.com/files/7pjcq2ere27.png",
 "url": "https://dookeela2.live/live-tv/tsp1",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "truesports 2",
-"image": "https://dookeela2.live/uploads/1664499966.png",
+"playInNatPlayer": "true"},
+
+{"name": "Sports1-B🇹🇭",
+"image":"https://cdn.imgchest.com/files/7pjcq2ere27.png",
+"url":"https://cdn1.googlecdnforstreaming.live/live/tsp1/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer":"true"},
+
+{"name": "Sports2-A🇹🇭",
+"image":"https://cdn.imgchest.com/files/7ogcb69d9my.png",
 "url": "https://dookeela2.live/live-tv/tsp2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "truesports 3",
-"image": "https://dookeela2.live/uploads/1664802480.png",
+"playInNatPlayer": "true"},
+
+{"name":"Sports2-B🇹🇭",
+"image":"https://cdn.imgchest.com/files/7ogcb69d9my.png",
+"url":"https://cdn1.googlecdnforstreaming.live/live/tps2/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer":"true"},
+
+{"name": "Sports3-A🇹🇭",
+"image":"https://cdn.imgchest.com/files/7kzcakr2rz7.png",
 "url": "https://dookeela2.live/live-tv/tsp3",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "truesports 4",
-"image": "https://dookeela2.live/uploads/1717396131.png",
+"playInNatPlayer": "true"},
+
+{"name": "Sports3-B🇹🇭",
+"image":"https://cdn.imgchest.com/files/7kzcakr2rz7.png",
+"url":"https://cdn1.googlecdnforstreaming.live/live/tps3/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer":"true"},
+
+{"name": "Sports4-A🇹🇭",
+"image":"https://cdn.imgchest.com/files/y2pckewlwm7.png",
+"url":"https://cdn1.googlecdnforstreaming.live/live/tps4/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer":"true"},
+
+{"name": "Sports4-B🇹🇭",
+"image":"https://cdn.imgchest.com/files/y2pckewlwm7.png",
 "url": "https://dookeela2.live/live-tv/tsp4",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "truesports 5",
-"image": "https://dookeela2.live/uploads/1664847910.png",
+"playInNatPlayer": "true"},
+
+{"name": "Sports5-A🇹🇭",
+"image":"https://cdn.imgchest.com/files/7lxcp5mlm87.png",
 "url": "https://dookeela2.live/live-tv/tsp5",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "truesports 7",
-"image": "https://dookeela2.live/uploads/1664847921.png",
-"url": "https://dookeela2.live/live-tv/tsp7",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "ASTRO CRICKET HD | Malaysia",
-"image": "https://dookeela2.live/uploads/1720166377.png",
-"url": "https://dookeela2.live/live-tv/astrocrickethd",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Arena Sport 1 Premium",
-"image": "https://dookeela2.live/uploads/1674194748.png",
-"url": "https://dookeela2.live/live-tv/arenasport1p",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Arena Sport 1 Serbia",
-"image": "https://dookeela2.live/uploads/1664041294.png",
-"url": "https://dookeela2.live/live-tv/arenasport1",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Arena Sport 2 Premium",
-"image": "https://dookeela2.live/uploads/1674194763.png",
-"url": "https://dookeela2.live/live-tv/arenasport2p",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Arena Sport 2 Serbia",
-"image": "https://dookeela2.live/uploads/1664041506.png",
-"url": "https://dookeela2.live/live-tv/arenasport2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Arena Sport 3 Premium",
-"image": "https://dookeela2.live/uploads/1674194777.png",
-"url": "https://dookeela2.live/live-tv/arenasport3p",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Arena Sport 3 Serbia",
-"image": "https://dookeela2.live/uploads/1664219377.png",
-"url": "https://dookeela2.live/live-tv/arenasport3",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Arena Sport 4 Serbia",
-"image": "https://dookeela2.live/uploads/1664132050.png",
-"url": "https://dookeela2.live/live-tv/arenasport4",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Arena Sport 5 Serbia",
-"image": "https://dookeela2.live/uploads/1664502377.png",
-"url": "https://dookeela2.live/live-tv/arenasport5",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Arena Sport 6 Serbia",
-"image": "https://dookeela2.live/uploads/1675467626.png",
-"url": "https://dookeela2.live/live-tv/arenasport6",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Astro Arena",
-"image": "https://dookeela2.live/uploads/1697812603.png",
-"url": "https://dookeela2.live/live-tv/astroarena",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Astro Arena 2",
-"image": "https://dookeela2.live/uploads/1719768111.png",
-"url": "https://dookeela2.live/live-tv/astroarena2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Astro Arena Bola",
-"image": "https://dookeela2.live/uploads/1700012376.png",
-"url": "https://dookeela2.live/live-tv/astroarenabola",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Astro Arena Bola 2",
-"image": "https://dookeela2.live/uploads/1698351468.png",
-"url": "https://dookeela2.live/live-tv/astroarenabola2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Astro Badminton",
-"image": "https://dookeela2.live/uploads/1729385788.png",
-"url": "https://dookeela2.live/live-tv/astrobadminton",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Astro Football",
-"image": "https://dookeela2.live/uploads/1729384406.png",
-"url": "https://dookeela2.live/live-tv/astrofootball",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Astro Grandstand",
-"image": "https://dookeela2.live/uploads/1729384448.png",
-"url": "https://dookeela2.live/live-tv/astrograndstand",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Astro Premier League",
-"image": "https://dookeela2.live/uploads/1729384542.png",
-"url": "https://dookeela2.live/live-tv/astropremierleague",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Astro Premier League 2",
-"image": "https://dookeela2.live/uploads/1729384502.png",
-"url": "https://dookeela2.live/live-tv/astropremierleague2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Astro Sports Plus",
-"image": "https://dookeela2.live/uploads/1729385809.png",
-"url": "https://dookeela2.live/live-tv/astrosportsplus",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "BT Sport 1 UK",
-"image": "https://dookeela2.live/uploads/1664577275.png",
-"url": "https://dookeela2.live/live-tv/btsport1",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "BT Sport 2 UK",
-"image": "https://dookeela2.live/uploads/1664577284.png",
-"url": "https://dookeela2.live/live-tv/btsport2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "BT Sport 3 UK",
-"image": "https://dookeela2.live/uploads/1664577293.png",
-"url": "https://dookeela2.live/live-tv/btsport3",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "BT Sport 4 UK",
-"image": "https://dookeela2.live/uploads/1667415893.png",
-"url": "https://dookeela2.live/live-tv/btsport4",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "CBS Sports Network [USA]",
-"image": "https://dookeela2.live/uploads/1697707418.png",
-"url": "https://dookeela2.live/live-tv/cbssports",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Canal 11 Protugal",
-"image": "https://dookeela2.live/uploads/1663979533.png",
-"url": "https://dookeela2.live/live-tv/canal11pt",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "DAZN 1 Germany",
-"image": "https://dookeela2.live/uploads/1679423986.png",
-"url": "https://dookeela2.live/live-tv/dazn1",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "DAZN 1 | Spain",
-"image": "https://dookeela2.live/uploads/1715571844.png",
-"url": "https://dookeela2.live/live-tv/dazn1es",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "DAZN 2 Germany",
-"image": "https://dookeela2.live/uploads/1694286704.png",
-"url": "https://dookeela2.live/live-tv/dazn2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "DAZN 2 | Spain",
-"image": "https://dookeela2.live/uploads/1715571857.png",
-"url": "https://dookeela2.live/live-tv/dazn2es",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "DAZN Laliga",
-"image": "https://dookeela2.live/uploads/1711566401.png",
-"url": "https://dookeela2.live/live-tv/dazn-laliga",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "DAZN F1 (Spain)",
-"image": "https://dookeela2.live/uploads/1696279327.png",
-"url": "https://dookeela2.live/live-tv/daznf1",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "DAZN Unbeaten",
-"image": "https://dookeela2.live/uploads/1704685964.png",
-"url": "https://dookeela2.live/live-tv/dazn-unbeaten",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Diema Sport",
-"image": "https://dookeela2.live/uploads/1664315169.png",
-"url": "https://dookeela2.live/live-tv/diemasport1",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Digi Sport 1 Romania",
-"image": "https://dookeela2.live/uploads/1664126175.png",
-"url": "https://dookeela2.live/live-tv/digisport1",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Digi Sport 2 Romania",
-"image": "https://dookeela2.live/uploads/1667654703.png",
-"url": "https://dookeela2.live/live-tv/digisport2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "ESPN 1 Netherlands",
-"image": "https://dookeela2.live/uploads/1664501652.png",
-"url": "https://dookeela2.live/live-tv/foxsports1nl",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "ESPN 2 Netherlands",
-"image": "https://dookeela2.live/uploads/1664501662.png",
-"url": "https://dookeela2.live/live-tv/foxsports2nl",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "ESPN 3 Netherlands",
-"image": "https://dookeela2.live/uploads/1664501676.png",
-"url": "https://dookeela2.live/live-tv/foxsports3nl",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "ESPN 4 Netherlands",
-"image": "https://dookeela2.live/uploads/1664501687.png",
-"url": "https://dookeela2.live/live-tv/foxsports4nl",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Eleven Pro League 1",
-"image": "https://dookeela2.live/uploads/1722089133.png",
-"url": "https://dookeela2.live/live-tv/daznproleague1",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Eleven Pro League 2",
-"image": "https://dookeela2.live/uploads/1722618844.png",
-"url": "https://dookeela2.live/live-tv/daznproleague2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Eleven Sports 1 Portugal",
-"image": "https://dookeela2.live/uploads/1664126262.png",
-"url": "https://dookeela2.live/live-tv/elevensports1pt",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Eleven Sports 2 Portugal",
-"image": "https://dookeela2.live/uploads/1664848123.png",
-"url": "https://dookeela2.live/live-tv/elevensports2pt",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Eleven Sports 3 Portugal",
-"image": "https://dookeela2.live/uploads/1664848193.png",
-"url": "https://dookeela2.live/live-tv/elevensports3pt",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Eleven Sports 4 Portugal",
-"image": "https://dookeela2.live/uploads/1679421134.png",
-"url": "https://dookeela2.live/live-tv/elevensports4pt",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Eleven Sports 5 Portugal",
-"image": "https://dookeela2.live/uploads/1679421151.png",
-"url": "https://dookeela2.live/live-tv/elevensports5pt",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Eleven Sports 6 Portugal",
-"image": "https://dookeela2.live/uploads/1679421165.png",
-"url": "https://dookeela2.live/live-tv/elevensports6pt",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Eurosport 1 | Spain",
-"image": "https://dookeela2.live/uploads/1711566124.png",
-"url": "https://dookeela2.live/live-tv/eurosport1es",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Eurosport 2 | Spain",
-"image": "https://dookeela2.live/uploads/1711566136.png",
-"url": "https://dookeela2.live/live-tv/eurosport2es",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "FOX Sports 1 USA",
-"image": "https://dookeela2.live/uploads/1664219664.png",
-"url": "https://dookeela2.live/live-tv/foxsports1usa",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "FOX Sports 2 USA",
-"image": "https://dookeela2.live/uploads/1673668104.png",
-"url": "https://dookeela2.live/live-tv/foxsports2usa",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Fight Sports",
-"image": "https://dookeela2.live/uploads/1708490904.png",
-"url": "https://dookeela2.live/live-tv/fight-sports",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Golf Channel Thailand HD",
-"image": "https://dookeela2.live/uploads/1664801941.png",
+"playInNatPlayer": "true"},
+
+{"name":"Sports5-B🇹🇭",
+"image":"https://cdn.imgchest.com/files/7lxcp5mlm87.png",
+"url":"https://cdn1.googlecdnforstreaming.live/live/tps5/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer":"true"},
+
+{"name": "Sports7-A🇹🇭",
+"image":"https://cdn.imgchest.com/files/4jdcved8dd4.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/tsp7/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
+
+{"name":"Sports7-B🇹🇭",
+"image":"https://cdn.imgchest.com/files/4jdcved8dd4.png",
+"url":"https://cdn1.googlecdnforstreaming.live/live/tps7/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer":"true"},
+
+{"name": "SPOTV-A🇹🇭",
+"image":"https://cdn.imgchest.com/files/yq9c3lrmrq4.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/spotv/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
+
+{"name": "SPOTV-B🇹🇭",
+"image":"https://cdn.imgchest.com/files/yq9c3lrmrq4.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=59",
+"playInNatPlayer":"true"},
+
+{"name": "SPOTV2-A🇹🇭",
+"image":"https://cdn.imgchest.com/files/yd5ceavpvd4.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/spotv2/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
+
+{"name": "SPOTV2-B🇹🇭",
+"image":"https://cdn.imgchest.com/files/yd5ceavpvd4.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=60",
+"playInNatPlayer":"true"},
+
+{"name":"TSports-A🇹🇭",
+"image":"https://cdn.imgchest.com/files/49zc23lq2wy.png",
+"url":"https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"TSports-B🇹🇭",
+"image":"https://cdn.imgchest.com/files/49zc23lq2wy.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=135",
+"playInNatPlayer":"true"},
+
+{"name":"Play Sports1🇹🇭",
+"image":"https://cdn.imgchest.com/files/f14ee3d3659e.png",
+"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8",
+"referer": "https://olympic-embed.ais-vidnt.com",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
+"playInNatPlayer": "true"},
+
+{"name":"Play Sports2🇹🇭",
+"image":"https://cdn.imgchest.com/files/d2d3b2207dd5.png",
+"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8",
+"referer": "https://olympic-embed.ais-vidnt.com",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
+"playInNatPlayer": "true"},
+
+{"name":"Play Sports3🇹🇭",
+"image":"https://cdn.imgchest.com/files/6a111c8dc21a.png",
+"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8",
+"referer": "https://olympic-embed.ais-vidnt.com",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
+"playInNatPlayer": "true"},
+
+{"name":"Play Sports4🇹🇭",
+"image":"https://cdn.imgchest.com/files/847f2707b06f.png",
+"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8",
+"referer": "https://olympic-embed.ais-vidnt.com",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
+"playInNatPlayer": "true"},
+
+{"name":"Play Sports5🇹🇭",
+"image":"https://cdn.imgchest.com/files/06fe7be6d9e0.png",
+"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8",
+"referer": "https://olympic-embed.ais-vidnt.com",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
+"playInNatPlayer": "true"},
+
+{"name":"Play Sports6🇹🇭",
+"image":"https://cdn.imgchest.com/files/20ad2d7bbf53.png",
+"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8",
+"referer": "https://olympic-embed.ais-vidnt.com",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
+"playInNatPlayer": "true"},
+
+{"name":"Play Sports7",
+"image":"https://cdn.imgchest.com/files/3c1926e3056b.png",
+"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8",
+"referer": "https://olympic-embed.ais-vidnt.com",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
+"playInNatPlayer": "true"},
+
+{"name":"Play Sports8",
+"image":"https://cdn.imgchest.com/files/a21f6cd2eddc.png",
+"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8",
+"referer": "https://olympic-embed.ais-vidnt.com",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
+"playInNatPlayer": "true"},
+
+{"name":"Play Sports48",
+"image":"https://cdn.imgchest.com/files/5c3e0fe54011.png",
+"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL103/HLS/TL103.m3u8",
+"referer": "https://olympic-embed.ais-vidnt.com",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
+"playInNatPlayer": "true"},
+
+{"name":"Play Sports49",
+"image":"https://cdn.imgchest.com/files/6ba56cbcb7f2.png",
+"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL104/HLS/TL104.m3u8",
+"referer": "https://olympic-embed.ais-vidnt.com",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
+"playInNatPlayer": "true"},
+
+{"name":"Play Sports50",
+"image":"https://cdn.imgchest.com/files/f4ab4458c89b.png",
+"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL105/HLS/TL105.m3u8",
+"referer": "https://olympic-embed.ais-vidnt.com",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
+"playInNatPlayer": "true"},
+
+{"name":"์NFL-51",
+"image":"https://cdn.imgchest.com/files/37684e937d05.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=639",
+"playInNatPlayer": "true"},
+
+{"name":"์NFL-51",
+"image":"https://cdn.imgchest.com/files/37684e937d05.png",
+"url": "https://dookeela2.live/live-tv/playsports51",
+"playInNatPlayer": "true"},
+
+{"name":"์NFL-51-",
+"image":"https://cdn.imgchest.com/files/37684e937d05.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/playsports51/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
+
+{"name":"์NFL-52",
+"image":"https://cdn.imgchest.com/files/24f9a0646e4e.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=647",
+"playInNatPlayer": "true"},
+
+{"name":"์NFL-52",
+"image":"https://cdn.imgchest.com/files/24f9a0646e4e.png",
+"url": "https://dookeela2.live/live-tv/playsports52",
+"playInNatPlayer": "true"},
+
+{"name":"์NFL-53",
+"image":"https://cdn.imgchest.com/files/64f7b149a90a.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=648",
+"playInNatPlayer": "true"},
+
+{"name":"์NFL-53",
+"image":"https://cdn.imgchest.com/files/64f7b149a90a.png",
+"url": "https://dookeela2.live/live-tv/playsports53",
+"playInNatPlayer": "true"},
+
+{"name":"NFL🇺🇸",
+"image":"https://cdn.imgchest.com/files/ef6e61d7d9fe.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=219",
+"playInNatPlayer": "true"},
+
+{"name":"Golf Channel🇹🇭",
+"image":"https://cdn.imgchest.com/files/4nec8q3ar94.png",
 "url": "https://dookeela2.live/live-tv/golfchannel",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "HUB Sports 2",
-"image": "https://dookeela2.live/uploads/1725050242.png",
-"url": "https://dookeela2.live/live-tv/hubsports2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "L1Max",
-"image": "https://dookeela2.live/uploads/1723923355.png",
-"url": "https://dookeela2.live/live-tv/l1max",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "LFCTV",
-"image": "https://dookeela2.live/uploads/1669940282.png",
-"url": "https://dookeela2.live/live-tv/lfctv",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "LaLiga Hypermotion TV",
-"image": "https://dookeela2.live/uploads/1718320056.png",
-"url": "https://dookeela2.live/live-tv/laliga-hypermotion-tv",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "LaLiga Hypermotion TV 2",
-"image": "https://dookeela2.live/uploads/1718320112.png",
-"url": "https://dookeela2.live/live-tv/laliga-hypermotion-tv-2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "LaLiga Hypermotion TV 3",
-"image": "https://dookeela2.live/uploads/1718320120.png",
-"url": "https://dookeela2.live/live-tv/laliga-hypermotion-tv-3",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "MAX Sport 1 | Croatia",
-"image": "https://dookeela2.live/uploads/1731005824.png",
-"url": "https://dookeela2.live/live-tv/maxsport1hr",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "MLB",
-"image": "https://dookeela2.live/uploads/1695548172.png",
-"url": "https://dookeela2.live/live-tv/mlb",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "MUTV",
-"image": "https://dookeela2.live/uploads/1665106261.png",
-"url": "https://dookeela2.live/live-tv/mutv",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "NBA TV",
-"image": "https://dookeela2.live/uploads/1664532126.png",
-"url": "https://dookeela2.live/live-tv/nba",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "NFL Network",
-"image": "https://dookeela2.live/uploads/1694909293.png",
-"url": "https://dookeela2.live/live-tv/nfl",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "O2 TV Fotbal",
-"image": "https://dookeela2.live/uploads/1699205062.png",
-"url": "https://dookeela2.live/live-tv/o2-fotbal",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "PREMIER SPORTS 1 | UK",
-"image": "https://dookeela2.live/uploads/1715565710.png",
-"url": "https://dookeela2.live/live-tv/premiersports1uk",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "PREMIER SPORTS 2 | UK",
-"image": "https://dookeela2.live/uploads/1715565724.png",
-"url": "https://dookeela2.live/live-tv/premiersports2uk",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Polsat Sport 1 | Poland",
-"image": "https://dookeela2.live/uploads/1721182604.png",
-"url": "https://dookeela2.live/live-tv/polsatsport1",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Polsat Sport 2 | Poland",
-"image": "https://dookeela2.live/uploads/1723569749.png",
-"url": "https://dookeela2.live/live-tv/polsatsport2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Polsat Sport 3 | Poland",
-"image": "https://dookeela2.live/uploads/1722964013.png",
-"url": "https://dookeela2.live/live-tv/polsatsport3",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Polsat Sport Premium 1 | Poland",
-"image": "https://dookeela2.live/uploads/1721584784.png",
-"url": "https://dookeela2.live/live-tv/polsatsportpremium1",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Polsat Sport Premium 2 | Poland",
-"image": "https://dookeela2.live/uploads/1724779203.png",
-"url": "https://dookeela2.live/live-tv/polsatsportpremium2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Premiere",
-"image": "https://dookeela2.live/uploads/1663980176.png",
-"url": "https://dookeela2.live/live-tv/pfc",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Premiere 2",
-"image": "https://dookeela2.live/uploads/1667412226.png",
-"url": "https://dookeela2.live/live-tv/pfc2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Premiere 5",
-"image": "https://dookeela2.live/uploads/1723400121.png",
-"url": "https://dookeela2.live/live-tv/pfc5",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Premiere 6",
-"image": "https://dookeela2.live/uploads/1723400340.png",
-"url": "https://dookeela2.live/live-tv/pfc6",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Premiere 7",
-"image": "https://dookeela2.live/uploads/1724434820.png",
-"url": "https://dookeela2.live/live-tv/pfc7",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Prima Sport 1",
-"image": "https://dookeela2.live/uploads/1694689157.png",
-"url": "https://dookeela2.live/live-tv/primasport1",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Prima Sport 2",
-"image": "https://dookeela2.live/uploads/1695249914.png",
-"url": "https://dookeela2.live/live-tv/primasport2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Prima Sport 3",
-"image": "https://dookeela2.live/uploads/1695604346.png",
-"url": "https://dookeela2.live/live-tv/primasport3",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Prima Sport 4",
-"image": "https://dookeela2.live/uploads/1695398839.png",
-"url": "https://dookeela2.live/live-tv/primasport4",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Prima Sport 5",
-"image": "https://dookeela2.live/uploads/1696610104.png",
-"url": "https://dookeela2.live/live-tv/primasport5",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Prima TV",
-"image": "https://dookeela2.live/uploads/1697334593.png",
-"url": "https://dookeela2.live/live-tv/primatv",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Red Bull TV",
-"image": "https://dookeela2.live/uploads/1711566263.png",
-"url": "https://dookeela2.live/live-tv/redbull-tv",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "SIAMSPORT 1",
-"image": "https://dookeela2.live/uploads/1709380646.png",
-"url": "https://dookeela2.live/live-tv/siamsport1",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "SIAMSPORT 2",
-"image": "https://dookeela2.live/uploads/1709380657.png",
-"url": "https://dookeela2.live/live-tv/siamsport2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "SIAMSPORT 3",
-"image": "https://dookeela2.live/uploads/1709380667.png",
-"url": "https://dookeela2.live/live-tv/siamsport3",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "SIAMSPORT 4",
-"image": "https://dookeela2.live/uploads/1709380678.png",
-"url": "https://dookeela2.live/live-tv/siamsport4",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "SPL01",
-"image": "https://dookeela2.live/uploads/1726225121.png",
-"url": "https://dookeela2.live/live-tv/spl01",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "SPL02",
-"image": "https://dookeela2.live/uploads/1726225130.png",
-"url": "https://dookeela2.live/live-tv/spl02",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "SPOTV",
-"image": "https://dookeela2.live/uploads/1664529562.png",
-"url": "https://dookeela2.live/live-tv/spotv",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "SPOTV 2",
-"image": "https://dookeela2.live/uploads/1664529575.png",
-"url": "https://dookeela2.live/live-tv/spotv2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "SSC 1 HD",
-"image": "https://dookeela2.live/uploads/1691933533.png",
-"url": "https://dookeela2.live/live-tv/ssc1",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "SSC EXTRA 1",
-"image": "https://dookeela2.live/uploads/1691948780.png",
-"url": "https://dookeela2.live/live-tv/sscextra1",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "SSC EXTRA 2",
-"image": "https://dookeela2.live/uploads/1692334268.png",
-"url": "https://dookeela2.live/live-tv/sscextra2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "SSC EXTRA 3",
-"image": "https://dookeela2.live/uploads/1716487143.png",
-"url": "https://dookeela2.live/live-tv/sscextra3",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "SSC NEWS",
-"image": "https://dookeela2.live/uploads/1693674503.png",
-"url": "https://dookeela2.live/live-tv/sscnews",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "SSC2 HD",
-"image": "https://dookeela2.live/uploads/1691934908.png",
-"url": "https://dookeela2.live/live-tv/ssc2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "SSC3 HD",
-"image": "https://dookeela2.live/uploads/1691934918.png",
-"url": "https://dookeela2.live/live-tv/ssc3",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "SSC4 HD",
-"image": "https://dookeela2.live/uploads/1691934931.png",
-"url": "https://dookeela2.live/live-tv/ssc4",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "SSC5 HD",
-"image": "https://dookeela2.live/uploads/1691934941.png",
-"url": "https://dookeela2.live/live-tv/ssc5",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Sky Sport MotoGP",
-"image": "https://dookeela2.live/uploads/1715569336.png",
-"url": "https://dookeela2.live/live-tv/skysportmotogp",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Sky Sports F1 | UK",
-"image": "https://dookeela2.live/uploads/1712888821.png",
-"url": "https://dookeela2.live/live-tv/skysportsf1",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Sky Sports Football UK",
-"image": "https://dookeela2.live/uploads/1664576894.png",
-"url": "https://dookeela2.live/live-tv/skysportfootball",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Sky Sports Golf | UK",
-"image": "https://dookeela2.live/uploads/1712888702.png",
-"url": "https://dookeela2.live/live-tv/skysportsgolf",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Sky Sports Main Event UK",
-"image": "https://dookeela2.live/uploads/1665106057.png",
-"url": "https://dookeela2.live/live-tv/skysportmainevent",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Sky Sports Mix | UK",
-"image": "https://dookeela2.live/uploads/1712889285.png",
-"url": "https://dookeela2.live/live-tv/skysportsmix",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Sky Sports Premier League UK",
-"image": "https://dookeela2.live/uploads/1696317833.png",
-"url": "https://dookeela2.live/live-tv/skysportepl",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Sky Sports Racing | UK",
-"image": "https://dookeela2.live/uploads/1712889189.png",
-"url": "https://dookeela2.live/live-tv/skysportsracing",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Sky Sports Tennis | UK",
-"image": "https://dookeela2.live/uploads/1712889076.png",
-"url": "https://dookeela2.live/live-tv/skysportstennis",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Sky Sports+",
-"image": "https://dookeela2.live/uploads/1725980915.png",
-"url": "https://dookeela2.live/live-tv/skysportsplus",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Sport TV 1",
-"image": "https://dookeela2.live/uploads/1663979709.png",
-"url": "https://dookeela2.live/live-tv/sporttv1",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Sport TV 2",
-"image": "https://dookeela2.live/uploads/1663979801.png",
-"url": "https://dookeela2.live/live-tv/sporttv2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Sport TV 3",
-"image": "https://dookeela2.live/uploads/1663980327.png",
-"url": "https://dookeela2.live/live-tv/sporttv3",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Sport TV 4",
-"image": "https://dookeela2.live/uploads/1664041351.png",
-"url": "https://dookeela2.live/live-tv/sporttv4",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Sport TV 5",
-"image": "https://dookeela2.live/uploads/1664125991.png",
-"url": "https://dookeela2.live/live-tv/sporttv5",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "TNT Sports 5 UK",
-"image": "https://dookeela2.live/uploads/1691521854.png",
-"url": "https://dookeela2.live/live-tv/btsport5",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "TNT USA",
-"image": "https://dookeela2.live/uploads/1694456079.png",
-"url": "https://dookeela2.live/live-tv/tntusa",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "TUDN USA",
-"image": "https://dookeela2.live/uploads/1689987703.png",
-"url": "https://dookeela2.live/live-tv/tudnusa",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "TV OKEY | Malaysia",
-"image": "https://dookeela2.live/uploads/1719438426.png",
-"url": "https://dookeela2.live/live-tv/tvokey",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Premier Football 1",
-"image": "https://dookeela2.live/uploads/1664499665.png",
-"url": "https://dookeela2.live/live-tv/epl1_sd",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Premier Football 2",
-"image": "https://dookeela2.live/uploads/1664499673.png",
-"url": "https://dookeela2.live/live-tv/epl2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Premier Football 3",
-"image": "https://dookeela2.live/uploads/1664499681.png",
-"url": "https://dookeela2.live/live-tv/epl3",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Premier Football 4",
-"image": "https://dookeela2.live/uploads/1664499692.png",
-"url": "https://dookeela2.live/live-tv/epl4",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Premier Football 5",
-"image": "https://dookeela2.live/uploads/1664499700.png",
-"url": "https://dookeela2.live/live-tv/epl5",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Tennis",
-"image": "https://dookeela2.live/uploads/1717257614.png",
+"playInNatPlayer": "true"},
+
+{"name":"Golf Channel🇹🇭",
+"image":"https://cdn.imgchest.com/files/4nec8q3ar94.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=71",
+"playInNatPlayer": "true"},
+
+{"name":"Tennis🇹🇭",
+"image":"https://cdn.imgchest.com/files/c67ec84136da.png",
 "url": "https://dookeela2.live/live-tv/truetennis",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "TV4 Fotboll (Sweden)",
-"image": "https://dookeela2.live/uploads/1695936059.png",
-"url": "https://dookeela2.live/live-tv/tv4fotboll",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "TyC Sports Internacional",
-"image": "https://dookeela2.live/uploads/1699121407.png",
-"url": "https://dookeela2.live/live-tv/tycsports",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "UFC Fight Pass",
-"image": "https://dookeela2.live/uploads/1731847474.png",
-"url": "https://dookeela2.live/live-tv/ufcfightpass",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "UNIVERSO [USA]",
-"image": "https://dookeela2.live/uploads/1698455515.png",
-"url": "https://dookeela2.live/live-tv/universo",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Volleyball 1",
-"image": "https://dookeela2.live/uploads/1728462430.png",
-"url": "https://dookeela2.live/live-tv/volleyball1",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Volleyball 2",
-"image": "https://dookeela2.live/uploads/1728462447.png",
-"url": "https://dookeela2.live/live-tv/volleyball2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Volleyball 3",
-"image": "https://dookeela2.live/uploads/1728462457.png",
-"url": "https://dookeela2.live/live-tv/volleyball3",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Volleyball 4",
-"image": "https://dookeela2.live/uploads/1728462466.png",
-"url": "https://dookeela2.live/live-tv/volleyball4",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Volleyball 5",
-"image": "https://dookeela2.live/uploads/1728462475.png",
-"url": "https://dookeela2.live/live-tv/volleyball5",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "WWE Network",
-"image": "https://dookeela2.live/uploads/1696317392.png",
-"url": "https://dookeela2.live/live-tv/wwe",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "beIN SPORTS Max 1 Turkey",
-"image": "https://dookeela2.live/uploads/1674393244.png",
-"url": "https://dookeela2.live/live-tv/beinmax1tr",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "beIN SPORTS Max 2 Turkey",
-"image": "https://dookeela2.live/uploads/1679591572.png",
-"url": "https://dookeela2.live/live-tv/beinmax2tr",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "beIN Sports 1 France",
-"image": "https://dookeela2.live/uploads/1664323955.png",
-"url": "https://dookeela2.live/live-tv/beinsport1fr",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "beIN Sports 1 Turkey",
-"image": "https://dookeela2.live/uploads/1664502528.png",
-"url": "https://dookeela2.live/live-tv/beinsports1tu",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "beIN Sports 2 France",
-"image": "https://dookeela2.live/uploads/1685036091.png",
-"url": "https://dookeela2.live/live-tv/beinsport2fr",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "beIN Sports 2 Turkey",
-"image": "https://dookeela2.live/uploads/1664502539.png",
-"url": "https://dookeela2.live/live-tv/beinsports2tu",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "beIN Sports 3 Turkey",
-"image": "https://dookeela2.live/uploads/1664581228.png",
-"url": "https://dookeela2.live/live-tv/bein3tu",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "beIN Sports 4 Turkey",
-"image": "https://dookeela2.live/uploads/1664581241.png",
-"url": "https://dookeela2.live/live-tv/bein4tu",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "sportdigital",
-"image": "https://dookeela2.live/uploads/1664202734.png",
-"url": "https://dookeela2.live/live-tv/sportdigital",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "บีอินสปอตส์ 1",
-"image": "https://dookeela2.live/uploads/1664500365.png",
-"url": "https://dookeela2.live/live-tv/bein1",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
+"playInNatPlayer": "true"},
 
-{
-"name": "บีอินสปอตส์ 2",
-"image": "https://dookeela2.live/uploads/1690843424.png",
-"url": "https://dookeela2.live/live-tv/bein2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "บีอินสปอตส์ 3",
-"image": "https://dookeela2.live/uploads/1663980670.png",
-"url": "https://dookeela2.live/live-tv/bein3",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "บีอินสปอตส์ 4",
-"image": "https://dookeela2.live/uploads/1692816640.png",
-"url": "https://dookeela2.live/live-tv/bein4",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "บีอินสปอตส์ 5",
-"image": "https://dookeela2.live/uploads/1693290376.png",
-"url": "https://dookeela2.live/live-tv/bein5",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "บีอินสปอตส์ 6",
-"image": "https://dookeela2.live/uploads/1694719513.png",
-"url": "https://dookeela2.live/live-tv/bein6",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "บีอินสปอตส์ 7",
-"image": "https://dookeela2.live/uploads/1694719622.png",
-"url": "https://dookeela2.live/live-tv/bein7",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "บีอินสปอตส์ 8",
-"image": "https://dookeela2.live/uploads/1724241278.png",
-"url": "https://dookeela2.live/live-tv/bein8",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "บีอินสปอตส์ 9",
-"image": "https://dookeela2.live/uploads/1724241287.png",
-"url": "https://dookeela2.live/live-tv/bein9",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "บีอินสปอตส์ 10",
-"image": "https://dookeela2.live/uploads/1724346113.png",
-"url": "https://dookeela2.live/live-tv/bein10",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
+{"name": "NBA TV🇺🇸",
+"image": "https://cdn.imgchest.com/files/yvdcwkq5wey.png",
+"url":"http://23.237.104.106:8080/USA_NBA/index.m3u8",
+"playInNatPlayer":"true"},
+
+{"name": "NBA",
+"image": "https://cdn.imgchest.com/files/yvdcwkq5wey.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=61",
+"playInNatPlayer":"true"},
+
+{"name":"WWE🇺🇸",
+"image":"https://cdn.imgchest.com/files/da1dcb15e097.png",
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=134030&extension=ts",
+"playInNatPlayer": "true"},
+
+{"name":"MUTV",
+"image":"https://cdn.imgchest.com/files/739cxjbgrw7.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=84",
+"playInNatPlayer": "true"},
+
+{"name":"LFC TV",
+"image":"https://cdn.imgchest.com/files/7mmc96q3xv7.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=130",
+"playInNatPlayer":"true"},
+
+{"name":"Real Madrid TV",
+"image":"https://cdn.imgchest.com/files/ye3c2qw8nb4.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=632",
+"playInNatPlayer": "true"},
+
+{"name":"Astro Football🇲🇾",
+"image":"https://cdn.imgchest.com/files/yvdcwkz5lay.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=534",
+"playInNatPlayer": "true"},
+
+{"name":"Astro Premier1🇲🇾",
+"image":"https://cdn.imgchest.com/files/yxkczwv6ln7.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=537",
+"playInNatPlayer": "true"},
+
+{"name":"Astro Premier2🇲🇾",
+"image":"https://cdn.imgchest.com/files/49zc23eq5ky.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=536",
+"playInNatPlayer": "true"},
+
+{"name":"Sky Sports Epl🇬🇧",
+"image":"https://cdn.imgchest.com/files/38ec4031f068.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175179&extension=ts",
+"playInNatPlayer": "true"},
+
+{"name":"Sky Sports Football🇬🇧",
+"image":"https://cdn.imgchest.com/files/6baa22c8f19b.png",
+"url": "http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:D2:99:35&stream=30498&extension=ts",
+"playInNatPlayer":"true"},
+
+{"name": "Sky Main Event🇬🇧",
+"image": "https://cdn.imgchest.com/files/baa86b30c626.png",
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175174&extension=ts",
+"playInNatPlayer":"true"},
+
+{"name": "Sky Sports F1🇬🇧",
+"image": "https://cdn.imgchest.com/files/c2bafe704582.png",
+"url":"https://dookeela2.live/live-tv/skysportsf1",
+"playInNatPlayer":"true"},
+
+{"name": "Sky Sports MotoGP🇮🇹",
+"image": "https://cdn.imgchest.com/files/432d786763fe.png",
+"url": "http://supkartt.xyz:80/Rogi007/95WXXSR/76641",
+"playInNatPlayer":"true"},
+
+{"name": "Sky Sports Golf🇬🇧",
+"image": "https://cdn.imgchest.com/files/7d07db1d5780.png",
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175173&extension=ts",
+"playInNatPlayer":"true"},
+
+{"name": "TNT Sports 1🇬🇧",
+"image": "https://cdn.imgchest.com/files/18e17b48f84d.png",
+"url":"https://dookeela2.live/live-tv/btsport1",
+"playInNatPlayer":"true"},
+
+{"name": "TNT Sports 2🇬🇧",
+"image": "https://cdn.imgchest.com/files/71fae6ed3f2b.png",
+"url":"https://dookeela2.live/live-tv/btsport2",
+"playInNatPlayer":"true"},
+
+{"name": "TNT Sports 3🇬🇧",
+"image": "https://cdn.imgchest.com/files/7e86f8b0a783.png",
+"url":"https://dookeela2.live/live-tv/btsport3",
+"playInNatPlayer":"true"},
+
+{"name": "TNT Sports 4🇬🇧",
+"image": "https://cdn.imgchest.com/files/407393f4efa4.png",
+"url":"https://dookeela2.live/live-tv/btsport4",
+"playInNatPlayer":"true"},
+
+{"name": "Fox Sports 1🇺🇸",
+"image": "https://cdn.imgchest.com/files/7bwckp3p2m7.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=133975&extension=ts",
+"playInNatPlayer": "true"},
+
+{"name": "Fox Sports 1🇺🇸",
+"image": "https://cdn.imgchest.com/files/7bwckp3p2m7.png",
+"url":"https://dookeela2.live/live-tv/foxsports1usa",
+"playInNatPlayer":"true"},
+
+{"name": "Fox Sports 2🇺🇸",
+"image": "https://cdn.imgchest.com/files/7pjcq2b2kg7.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=133977&extension=ts",
+"playInNatPlayer":"true"},
+
+{"name": "Fox Sports 2🇺🇸",
+"image": "https://cdn.imgchest.com/files/7pjcq2b2kg7.png",
+"url":"https://dookeela2.live/live-tv/foxsports2usa",
+"playInNatPlayer":"true"},
+
+{"name": "Eurosport",
+"image": "https://cdn.imgchest.com/files/7pjcq2b2nn7.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=604",
+"playInNatPlayer": "true"},
+
+{"name": "Eurosport1",
+"image": "https://cdn.imgchest.com/files/7kzcak9kpd7.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=332",
+"playInNatPlayer": "true"},
+
+{"name": "Eurosport2",
+"image": "https://cdn.imgchest.com/files/y2pcke3eqp7.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=333",
+"playInNatPlayer": "true"},
+
 ]
 },
 
-{
-"name": "หนัง",
-"image": "https://i.postimg.cc/hGqqGhzC/4.png",
-"stations": [
-{
-"name": "3BB Asian",
-"image": "https://dookeela2.live/uploads/1703829940.png",
-"url": "https://dookeela2.live/live-tv/3bbasian",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "AMC | USA",
-"image": "https://dookeela2.live/uploads/1716339097.png",
-"url": "https://dookeela2.live/live-tv/amc",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "AXN HD",
-"image": "https://dookeela2.live/uploads/1719897010.png",
-"url": "https://dookeela2.live/live-tv/axn",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Alure Channel",
-"image": "https://dookeela2.live/uploads/1731057748.png",
-"url": "https://dookeela2.live/live-tv/alure-channel",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Asian Food Network",
-"image": "https://dookeela2.live/uploads/1717696078.png",
-"url": "https://dookeela2.live/live-tv/afn",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "BBC Lifestyle",
-"image": "https://dookeela2.live/uploads/1727766790.png",
-"url": "https://dookeela2.live/live-tv/bbc-lifestyle",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "CCM",
-"image": "https://dookeela2.live/uploads/1719803240.png",
-"url": "https://dookeela2.live/live-tv/ccm",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "CINEMAX",
-"image": "https://dookeela2.live/uploads/1703786799.png",
-"url": "https://dookeela2.live/live-tv/cinemax",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Fashion TV",
-"image": "https://dookeela2.live/uploads/1731888593.png",
-"url": "https://dookeela2.live/live-tv/fashiontv",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Food Network",
-"image": "https://dookeela2.live/uploads/1717696062.png",
-"url": "https://dookeela2.live/live-tv/foodnetwork",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "HBO",
-"image": "https://dookeela2.live/uploads/1703686191.png",
-"url": "https://dookeela2.live/live-tv/hbo",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "HBO Family",
-"image": "https://dookeela2.live/uploads/1703786776.png",
-"url": "https://dookeela2.live/live-tv/hbo-family",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "HBO Hits",
-"image": "https://dookeela2.live/uploads/1703786599.png",
-"url": "https://dookeela2.live/live-tv/hbo-hits",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "HBO Signature",
-"image": "https://dookeela2.live/uploads/1703786305.png",
-"url": "https://dookeela2.live/live-tv/hbo-signature",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "HITS",
-"image": "https://dookeela2.live/uploads/1706112791.png",
-"url": "https://dookeela2.live/live-tv/hits",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "HITS MOVIES",
-"image": "https://dookeela2.live/uploads/1714100677.png",
-"url": "https://dookeela2.live/live-tv/hits-movies",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "KBS Korea",
-"image": "https://dookeela2.live/uploads/1725961079.png",
-"url": "https://dookeela2.live/live-tv/kbskorea",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "KBS World HD",
-"image": "https://dookeela2.live/uploads/1719897483.png",
-"url": "https://dookeela2.live/live-tv/kbsworld",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Lifetime",
-"image": "https://dookeela2.live/uploads/1720781589.png",
-"url": "https://dookeela2.live/live-tv/lifetime",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "MONO29 Plus",
-"image": "https://dookeela2.live/uploads/1703787733.png",
-"url": "https://dookeela2.live/live-tv/mono29plus",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "MTV",
-"image": "https://dookeela2.live/uploads/1721687257.png",
-"url": "https://dookeela2.live/live-tv/mtv",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Moodeng NOW",
-"image": "https://dookeela2.live/uploads/1731671306.png",
-"url": "https://dookeela2.live/live-tv/moodengnow",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Paramount Network",
-"image": "https://dookeela2.live/uploads/1706112779.png",
-"url": "https://dookeela2.live/live-tv/paramount-network",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "ROCK Action",
-"image": "https://dookeela2.live/uploads/1718690264.png",
-"url": "https://dookeela2.live/live-tv/rock-action",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "ROCK ENTERTAINMENT",
-"image": "https://dookeela2.live/uploads/1718690283.png",
-"url": "https://dookeela2.live/live-tv/rock-entertainment",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "STARZ ENCORE | USA",
-"image": "https://dookeela2.live/uploads/1705582013.png",
-"url": "https://dookeela2.live/live-tv/starz-encore",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Sony Movies",
-"image": "https://dookeela2.live/uploads/1730064952.png",
-"url": "https://dookeela2.live/live-tv/sonymovies",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "TLC",
-"image": "https://dookeela2.live/uploads/1717696038.png",
-"url": "https://dookeela2.live/live-tv/tlc",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "TVB CLASSIC HD",
-"image": "https://dookeela2.live/uploads/1719898154.png",
-"url": "https://dookeela2.live/live-tv/tvbclassichd",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Asian More",
-"image": "https://dookeela2.live/uploads/1719205850.png",
-"url": "https://dookeela2.live/live-tv/trueasianmore",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Film 1",
-"image": "https://dookeela2.live/uploads/1720380229.png",
-"url": "https://dookeela2.live/live-tv/truefilm1",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Film 2",
-"image": "https://dookeela2.live/uploads/1720723122.png",
-"url": "https://dookeela2.live/live-tv/truefilm2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Film Asia",
-"image": "https://dookeela2.live/uploads/1719205705.png",
-"url": "https://dookeela2.live/live-tv/truefilmasia",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Movie Hits",
-"image": "https://dookeela2.live/uploads/1719803882.png",
-"url": "https://dookeela2.live/live-tv/truemoviehits",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Series",
-"image": "https://dookeela2.live/uploads/1719205991.png",
-"url": "https://dookeela2.live/live-tv/trueseries",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Thai Film",
-"image": "https://dookeela2.live/uploads/1706539896.png",
-"url": "https://dookeela2.live/live-tv/truethaifilm",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True X-Zyte",
-"image": "https://dookeela2.live/uploads/1719206155.png",
-"url": "https://dookeela2.live/live-tv/truex-zyte",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Warner TV",
-"image": "https://dookeela2.live/uploads/1703832225.png",
-"url": "https://dookeela2.live/live-tv/warnertv",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "iQIYI",
-"image": "https://dookeela2.live/uploads/1706405008.png",
-"url": "https://dookeela2.live/live-tv/iqiyi",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "tvN MOVIES",
-"image": "https://dookeela2.live/uploads/1714100840.png",
-"url": "https://dookeela2.live/live-tv/tvn-movies",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "tvN | Indonesia",
-"image": "https://dookeela2.live/uploads/1703833429.png",
-"url": "https://dookeela2.live/live-tv/tvn-indonesia",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "มังกร",
-"image": "https://dookeela2.live/uploads/1705503765.png",
-"url": "https://dookeela2.live/live-tv/mangorn",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-    },
-    {
-     "name": "TTD1",
-     "image": "https://dl.dropboxusercontent.com/scl/fi/15ks996jytasor58igl5e/TTD-1.png?rlkey=5hfxhwatz4v3fqwhc47kofmng&dl=0",
-     "url": "https://psiiptv-b.sky-cdn.com/ttd01-playlist/index.m3u8",
-     "referer": "https://mvtv.co.th/"
-    },
-    {
-     "name": "TTD 2",
-     "image": "https://dl.dropboxusercontent.com/scl/fi/yqjxa7wiys0p4d6reimiv/TTD-2.png?rlkey=7b2okspjvwwmj9xv2qyqmcj2e&dl=0",
-     "url": "https://psiiptv-b.sky-cdn.com/ttd02-playlist/index.m3u8",
-     "referer": "https://mvtv.co.th/"
-    },
-    {
-    "name": "TTD 3",
-    "image": "https://dl.dropboxusercontent.com/scl/fi/mckmgor8n1ku3tje1jhlp/TTD-3.png?rlkey=az5qx33f346aved1sz4hgnxil&dl=0",
-    "url": "https://psiiptv-b.sky-cdn.com/ttd03-playlist/index.m3u8",
-    "referer": "https://mvtv.co.th/",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
-    },
-    {
-    "name": "TTD 4",
-    "image": "https://dl.dropboxusercontent.com/scl/fi/9y4ivvwyn0b4jldqlp8jz/TTD-4.png?rlkey=kl1ydluq3mvrizkp6ktjzipvv&dl=0",
-    "url": "https://psiiptv-b.sky-cdn.com/ttd04-Playlist/index.m3u8",
-    "referer": "https://mvtv.co.th/"
-    },
-    {
-    "name": "TTD 5",
-    "image": "https://dl.dropboxusercontent.com/scl/fi/enhobbf8ii3yy3mzd6elh/TTD-5.png?rlkey=1r9vte3zr69lc7t6yqicd3xmi&dl=0",
-    "url": "https://psiiptv-b.sky-cdn.com/ttd05-playlist/index.m3u8",
-    "referer": "https://mvtv.co.th/"
-    },
-    {
-    "name": "TTD 6",
-    "image": "https://dl.dropboxusercontent.com/scl/fi/fb92i0r1n5ru50gx4wxm5/TTD-6.png?rlkey=7lc80r43s5u7gxmpszjcuw2uy&dl=0",
-    "url": "https://psiiptv-b.sky-cdn.com/ttd06-playlist/index.m3u8",
-    "referer": "https://mvtv.co.th/"
-    },
-    {
-     "name": "TTD7",
-     "image": "https://media-mvtv.imgix.net/channel/102_y_H9WxnVREmrDL72MFQ86Ycwkzhg3yGTBU.png",
-     "url": "https://psiiptv-b.sky-cdn.com/ttd07-playlist/tracks-v1a1/mono.m3u8",
-     "referer": "https://green-edeline-59.tiiny.site/"
-    },
-    {
-     "name": "TTD8",
-     "image": "https://media-mvtv.imgix.net/channel/103_y_jm5ykb0fX7vZCTGAtcHdSz8LarVKiFJE.png",
-     "url": "https://psiiptv-b.sky-cdn.com/ttd08-playlist/tracks-v1a1/mono.m3u8",
-     "referer": "https://green-edeline-59.tiiny.site/"
-    },
-    {
-     "name": "TTD9",
-     "image": "https://media-mvtv.imgix.net/channel/104_y_Jf2RiAdxLZINXazDvEMGr5Hg3YFCuQ7k.png",
-     "url": "https://psiiptv-b.sky-cdn.com/ttd09-playlist/tracks-v1a1/mono.m3u8",
-     "referer": "https://green-edeline-59.tiiny.site/"
-    },
-    {
-    "name": "TTD 10",
-    "image": "https://dl.dropboxusercontent.com/scl/fi/7kxf8pixw6u76jcoz5cph/TTD-10.png?rlkey=nqkcgyckxf548mw1qhcla73kk&dl=0",
-    "url": "https://psiiptv-b.sky-cdn.com/ttd10-playlist/index.m3u8",
-    "referer": "https://mvtv.co.th/"
-    },
-    {
-    "name": "TTD 11",
-    "image": "https://dl.dropboxusercontent.com/scl/fi/14m9bl63we5hk9k8n9yqs/TTD-11.png?rlkey=bjpl20uri8it6zt3g5ixknk77&dl=0",
-    "url": "https://psiiptv-b.sky-cdn.com/ttd11-playlist/index.m3u8",
-    "referer": "https://mvtv.co.th/"
-    },
-    {
-    "name": "TTD 12",
-    "image": "https://dl.dropboxusercontent.com/scl/fi/14m9bl63we5hk9k8n9yqs/TTD-11.png?rlkey=bjpl20uri8it6zt3g5ixknk77&dl=0",
-    "url": "https://psiiptv-b.sky-cdn.com/ttd12-playlist/index.m3u8",
-    "referer": "https://mvtv.co.th/"
-}
+
+
+{"name":"▶️การ์ตูน",
+                                 
+"image":"https://cdn.imgchest.com/files/49zc235vkzy.png",
+"stations": [ 
+
+{"name":"Boom-A🇹🇭",
+"image":"https://cdn.imgchest.com/files/7lxcp5m2ej7.png",
+"url":"https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"Boom-B🇹🇭",
+"image":"https://cdn.imgchest.com/files/7lxcp5m2ej7.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=291&tv=Boomerang",
+"playInNatPlayer":"true"},
+
+{"name": "Boomerang🇹🇭",
+"image": "https://cdn.imgchest.com/files/4jdcved9kr4.png",
+"url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8",
+"playInNatPlayer": "true"},
+
+{"name":"Cartoon Network🇹🇭",
+"image":"https://cdn.imgchest.com/files/yrgcnjlor34.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=314",
+"playInNatPlayer": "true"},
+
+{"name":"Spark Play🇹🇭",
+"image":"https://cdn.imgchest.com/files/45xcv2ow6l7.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=421",
+"playInNatPlayer": "true"},
+
+{"name": "DreamWorks",
+"image": "https://cdn.imgchest.com/files/ye3c2qk3rg4.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=460",
+"playInNatPlayer": "true"},
+
+{"name": "Aniplus🇹🇭",
+"image": "https://cdn.imgchest.com/files/yrgcnjlork4.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=600",
+"playInNatPlayer": "true"},
+
+{"name": "Animax",
+"image": "https://cdn.imgchest.com/files/yd5ceavlq34.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=284",
+"playInNatPlayer": "true"},
+
+{"name": "Cartoonito",
+"image": "https://cdn.imgchest.com/files/yq9c3lrnd84.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=285",
+"playInNatPlayer": "true"},
+
+{"name": "Nick Jr🇹🇭",
+"image": "https://cdn.imgchest.com/files/y8xcn5r8ej4.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=316",
+"referer": "https://goal-th.com/",
+"playInNatPlayer": "true"},
+
+{"name":"Nickelodeon🇹🇭",
+"image":"https://cdn.imgchest.com/files/4gdcxjbrdj4.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=315",
+"playInNatPlayer": "true"},
+
+{"name": "FwToon🇹🇭", 
+"image": "https://cdn.imgchest.com/files/7bwckprb2z7.png",
+"url":"https://inwiptv.org/player_demo.php?channel=92941",
+"referer": "https://inwiptv.org/demo.php",
+"playInNatPlayer": "true"},
+
+{"name":"Moonbug",
+"image":"https://cdn.imgchest.com/files/4z9cvz2xek7.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=427",
+"playInNatPlayer":"true"},
+
+{"name":"Disney Channel",
+"image":"https://cdn.imgchest.com/files/7mmc96k8o87.png",
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13594&extension=ts",
+"playInNatPlayer":"true"},
+
+{"name":"Disney Jr.",
+"image":"https://cdn.imgchest.com/files/739cxjlme37.png",
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=11495&extension=ts",
+"playInNatPlayer":"true"},
+
+{"name":"Disney XD",
+"image":"https://cdn.imgchest.com/files/7w6c238obvy.png",
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175293&extension=ts",
+"playInNatPlayer":"true"},
+
+{"name":"CBeebies ",
+"image":"https://cdn.imgchest.com/files/yd5ceavlqj4.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=324",
+"playInNatPlayer":"true"},
+
+{"name":"PBS Kids",
+"image":"https://cdn.imgchest.com/files/4nec8q35vv4.png",
+"url":"https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"ZooMoo",
+"image":"https://cdn.imgchest.com/files/yd5ceavbae4.png",
+"url":"https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"Baby TV",
+"image":"https://cdn.imgchest.com/files/y8xcn5rpbq4.png",
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175234&extension=ts",
+"playInNatPlayer":"true"},
+
 ]
 },
 
-{
-"name": "การ์ตูน",
-"image": "https://i.postimg.cc/5jcsmQMT/5.png",
-"stations": [
-{
-"name": "Animax | Singapore",
-"image": "https://dookeela2.live/uploads/1704038567.png",
-"url": "https://dookeela2.live/live-tv/animax",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Astro Ceria",
-"image": "https://dookeela2.live/uploads/1721687988.png",
-"url": "https://dookeela2.live/live-tv/astroceria",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Boomerang",
-"image": "https://dookeela2.live/uploads/1705504202.png",
-"url": "https://dookeela2.live/live-tv/boomerang",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "CBeebies",
-"image": "https://dookeela2.live/uploads/1709573298.png",
-"url": "https://dookeela2.live/live-tv/cbeebies",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Cartoon Club HD",
-"image": "https://dookeela2.live/uploads/1705504043.png",
-"url": "https://dookeela2.live/live-tv/cartoonclub",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Cartoon Network",
-"image": "https://dookeela2.live/uploads/1708344243.png",
-"url": "https://dookeela2.live/live-tv/cartoon-network",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Disney Channel",
-"image": "https://dookeela2.live/uploads/1716361978.png",
-"url": "https://dookeela2.live/live-tv/disney-channel",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Disney Junior",
-"image": "https://dookeela2.live/uploads/1716362497.png",
-"url": "https://dookeela2.live/live-tv/disney-junior",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Disney XD",
-"image": "https://dookeela2.live/uploads/1716362753.png",
-"url": "https://dookeela2.live/live-tv/disneyxd",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "DreamWorks",
-"image": "https://dookeela2.live/uploads/1723200736.png",
-"url": "https://dookeela2.live/live-tv/dreamworks",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Moonbug",
-"image": "https://dookeela2.live/uploads/1721687729.png",
-"url": "https://dookeela2.live/live-tv/moonbug",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Nick Jr.",
-"image": "https://dookeela2.live/uploads/1708344362.png",
-"url": "https://dookeela2.live/live-tv/nickjr",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Nickelodeon",
-"image": "https://dookeela2.live/uploads/1708344306.png",
-"url": "https://dookeela2.live/live-tv/nickelodeon",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "PBS ****",
-"image": "https://dookeela2.live/uploads/1730064747.png",
-"url": "https://dookeela2.live/live-tv/pbskids",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Spark Play",
-"image": "https://dookeela2.live/uploads/1720723541.png",
-"url": "https://dookeela2.live/live-tv/truesparkplay",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "cartoonito",
-"image": "https://dookeela2.live/uploads/1704039063.png",
-"url": "https://dookeela2.live/live-tv/cartoonito",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "nicktoons | Germany",
-"image": "https://dookeela2.live/uploads/1713282303.png",
-"url": "https://dookeela2.live/live-tv/nicktoons",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-}
-]
-},
+{"name":"▶️ดิจิตอนทีวี",
+                                 
+"image":"https://cdn.imgchest.com/files/7bwckpr2j27.png",
+"stations": [ 
 
-{
-"name": "สาระคดี",
-"image": "https://i.postimg.cc/nLRbG2SW/3.png",
-"stations": [
+{"name":"3HD-A",
+"image":"https://cdn.imgchest.com/files/4nec8q3vez4.png",
+"url":"https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8",
+"playInNatPlayer":"true"},
 
-{
-"name": "Animal Planet",
-"image": "https://dookeela2.live/uploads/1706112700.png",
-"url": "https://dookeela2.live/live-tv/animal-planet",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Animal Show",
-"image": "https://dookeela2.live/uploads/1705537126.png",
-"url": "https://dookeela2.live/live-tv/animalshow",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Crime + Investigation",
-"image": "https://dookeela2.live/uploads/1714101661.png",
-"url": "https://dookeela2.live/live-tv/crime-investigation",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "DMAX",
-"image": "https://dookeela2.live/uploads/1714101765.png",
-"url": "https://dookeela2.live/live-tv/dmax",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Discovery",
-"image": "https://dookeela2.live/uploads/1706112738.png",
-"url": "https://dookeela2.live/live-tv/discovery",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Discovery Asia",
-"image": "https://dookeela2.live/uploads/1706112755.png",
-"url": "https://dookeela2.live/live-tv/discovery-asia",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "History",
-"image": "https://dookeela2.live/uploads/1713231372.png",
-"url": "https://dookeela2.live/live-tv/history",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Love Nature 4K",
-"image": "https://dookeela2.live/uploads/1729286214.png",
-"url": "https://dookeela2.live/live-tv/lovenature4k",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "MySci",
-"image": "https://dookeela2.live/uploads/1705536991.png",
-"url": "https://dookeela2.live/live-tv/mysci",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Nat Geo WILD",
-"image": "https://dookeela2.live/uploads/1716363369.png",
-"url": "https://dookeela2.live/live-tv/nat-geo-wild",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "National Geographic",
-"image": "https://dookeela2.live/uploads/1716366217.png",
-"url": "https://dookeela2.live/live-tv/national-geographic",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "RT Documentary",
-"image": "https://dookeela2.live/uploads/1731890461.png",
-"url": "https://dookeela2.live/live-tv/rt-documentary",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Explore Life",
-"image": "https://dookeela2.live/uploads/1724166670.png",
-"url": "https://dookeela2.live/live-tv/trueexplorelife",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Explore Sci",
-"image": "https://dookeela2.live/uploads/1724167268.png",
-"url": "https://dookeela2.live/live-tv/trueexploresci",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Explore Wild",
-"image": "https://dookeela2.live/uploads/1724166218.png",
-"url": "https://dookeela2.live/live-tv/trueexplorewild",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "สำรวจโลก",
-"image": "https://dookeela2.live/uploads/1705536821.png",
-"url": "https://dookeela2.live/live-tv/samrujlok",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-}
-]
-},
+{"name":"3HD-B",
+"image":"https://cdn.imgchest.com/files/4nec8q3vez4.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=177",
+"playInNatPlayer": "true"},
 
-{
-"name": "News",
-"image": "https://i.postimg.cc/kXx0pqhK/NEWS.png",
-"stations": [
+{"name":"CH5-A",
+"image":"https://cdn.imgchest.com/files/7bwckpro9k7.png",
+"url":"https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8",
+"playInNatPlayer":"true"},
 
-{
-"name": "Al Jazeera English HD",
-"image": "https://dookeela2.live/uploads/1730731551.png",
-"url": "https://dookeela2.live/live-tv/al-jazeera-english-hd",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "BBC News",
-"image": "https://dookeela2.live/uploads/1705785324.png",
-"url": "https://dookeela2.live/live-tv/bbc-news",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Bloomberg Television",
-"image": "https://dookeela2.live/uploads/1705785346.png",
-"url": "https://dookeela2.live/live-tv/bloomberg-television",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "CCTV4",
-"image": "https://dookeela2.live/uploads/1705785371.png",
-"url": "https://dookeela2.live/live-tv/cctv4",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "CGTN",
-"image": "https://dookeela2.live/uploads/1730731019.png",
-"url": "https://dookeela2.live/live-tv/cgtn",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "CNA",
-"image": "https://dookeela2.live/uploads/1730731242.png",
-"url": "https://dookeela2.live/live-tv/cna",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "CNBC",
-"image": "https://dookeela2.live/uploads/1719802797.png",
-"url": "https://dookeela2.live/live-tv/cnbc",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "CNN",
-"image": "https://dookeela2.live/uploads/1705785357.png",
-"url": "https://dookeela2.live/live-tv/cnn",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Euro News",
-"image": "https://dookeela2.live/uploads/1731890666.png",
-"url": "https://dookeela2.live/live-tv/euronews",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "France 24",
-"image": "https://dookeela2.live/uploads/1731889662.png",
-"url": "https://dookeela2.live/live-tv/france24",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "NHK WORLD-JAPAN",
-"image": "https://dookeela2.live/uploads/1731890206.png",
-"url": "https://dookeela2.live/live-tv/nhk",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "Sky Sports News | UK",
-"image": "https://dookeela2.live/uploads/1715648168.png",
-"url": "https://dookeela2.live/live-tv/skysportsnews",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-}
+{"name":"CH5-B",
+"image":"https://cdn.imgchest.com/files/7bwckpro9k7.png",
+"url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"7HD-A",
+"image":"https://cdn.imgchest.com/files/7pjcq2eoaz7.png",
+"url":"https://dookeela2.live/live-tv/ch7hd",
+"playInNatPlayer": "true"},
+
+{"name":"7HD-B",
+"image":"https://cdn.imgchest.com/files/7pjcq2eoaz7.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=181",
+"playInNatPlayer": "true"},
+
+{"name":"McotHD-A",
+"image":"https://cdn.imgchest.com/files/4jdcved9gr4.png",
+"url":"https://lb1-live-mv.v2h-cdn.com/hls/ffbb/mcot/mcot.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"McotHD-B",
+"image":"https://cdn.imgchest.com/files/4jdcved9gr4.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=133",
+"playInNatPlayer":"true"},
+
+{"name":"NBT-A",
+"image":"https://cdn.imgchest.com/files/7bwckpropp7.png",
+"url":"https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist_w2046698897_b3128000.m3u8",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"playInNatPlayer":"true"},
+
+{"name":"NBT-B",
+"image":"https://cdn.imgchest.com/files/7bwckpropp7.png",
+"url":"https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"Mono29-A",
+"image":"https://cdn.imgchest.com/files/7ogcb69nazy.png",
+"url":"https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8",
+"playInNatPlayer": "true"},
+
+{"name": "Mono29-B",
+"image": "https://cdn.imgchest.com/files/7ogcb69nazy.png",
+"url":"https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8",
+"playInNatPlayer": "true"},
+
+{"name":"Thai PBS-A",
+"image":"https://cdn.imgchest.com/files/yrgcnjlo834.png",
+"url":"http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"Thai PBS-B",
+"image":"https://cdn.imgchest.com/files/yrgcnjlo834.png",
+"url":"https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"Thairath TV-A",
+"image":"https://cdn.imgchest.com/files/7w6c238oevy.png",
+"url":"https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8",
+"referer": "https://www.thairath.co.th/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+"playInNatPlayer":"true"},
+
+{"name":"Thairath TV-B",
+"image":"https://cdn.imgchest.com/files/7w6c238oevy.png",
+"url":"https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"PPTV-A",
+"image":"https://cdn.imgchest.com/files/7mmc96k8z87.png",
+"url":"https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"PPTV-B",
+"image":"https://cdn.imgchest.com/files/7mmc96k8z87.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=37&tv=PPTV",
+"playInNatPlayer":"true"},
+
+{"name":"Amarin TV-A",
+"image":"https://cdn.imgchest.com/files/49zc235om8y.png",
+"url":"https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"Amarin TV-B",
+"image":"https://cdn.imgchest.com/files/49zc235om8y.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=287",
+"playInNatPlayer": "true"},
+
+{"name":"GMM25-A",
+"image":"https://cdn.imgchest.com/files/7kzcakr3v87.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=521",
+"playInNatPlayer": "true"},
+
+{"name":"GMM25-B",
+"image":"https://cdn.imgchest.com/files/7kzcakr3v87.png",
+"url":"https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"ONE31-A",
+"image":"https://cdn.imgchest.com/files/yd5ceavlkj4.png",
+"url":"https://aisplay.ais.co.th/portal/live?vid=5a1685baaae731375f0eb728",
+"referer"	:"https://ais-vidnt.com/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"ONE31-B",
+"image":"https://cdn.imgchest.com/files/yd5ceavlkj4.png",
+"url":"https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"True4U-A",
+"image":"https://cdn.imgchest.com/files/739cxjlmp37.png",
+"url":"https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"True4U-B",
+"image":"https://cdn.imgchest.com/files/739cxjlmp37.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=520&tv=True4U",
+"playInNatPlayer":"true"},
+
+{"name":"TopNews-A",
+"image":"https://cdn.imgchest.com/files/4z9cvz2xak7.png",
+"url":"https://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"playInNatPlayer":"true"},
+
+{"name":"TopNews-B",
+"image":"https://cdn.imgchest.com/files/4z9cvz2xak7.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=592&tv=TOPNEWS",
+"playInNatPlayer":"true"},
+
+{"name":"JKN18-A",
+"image":"https://cdn.imgchest.com/files/y2pckewrp97.png",
+"url":"https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"JKN18-B",
+"image":"https://cdn.imgchest.com/files/y2pckewrp97.png",
+"url":"https://www.inwiptv.com/player_demo.php?channel=27165",
+"referer"	:"https://inwiptv.org/demo.php",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"playInNatPlayer":"true"},
+
+{"name":"Workpoint-A",
+"image":"https://cdn.imgchest.com/files/4gdcxjbr2j4.png",
+"url":"https://global-media.sooplive.com/live/workpoint/master.m3u8",
+"playInNatPlayer": "true"},
+
+{"name":"Workpoint-B",
+"image":"https://cdn.imgchest.com/files/4gdcxjbr2j4.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=519",
+"playInNatPlayer": "true"},
+
+{"name":"CH8-A",
+"image":"https://cdn.imgchest.com/files/7ogcb69nlly.png",
+"url":"https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"CH8-B",
+"image":"https://cdn.imgchest.com/files/7ogcb69nlly.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=286",
+"playInNatPlayer":"true"},
+
+{"name":"TNN16-A",
+"image":"https://cdn.imgchest.com/files/ye3c2qk3xg4.png",
+"url":"https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"TNN16-B",
+"image":"https://cdn.imgchest.com/files/ye3c2qk3xg4.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=516",
+"playInNatPlayer":"true"},
+
+{"name":"ALTV4-A",
+"image":"https://cdn.imgchest.com/files/yvdcwkloaly.png",
+"url":"https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"ALTV4-B",
+"image":"https://cdn.imgchest.com/files/yvdcwkloaly.png",
+"url":"https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"Nation-A",
+"image":"https://cdn.imgchest.com/files/yq9c3lrnz84.png",
+"url":"https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/1080p/index.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"Nation-B",
+"image":"https://cdn.imgchest.com/files/yq9c3lrnz84.png",
+"url":"https://lb1-live-mv.v2h-cdn.com/hls/ffcc/nation/nation.m3u8",
+"playInNatPlayer":"true"},
+
 ]
 },
 
