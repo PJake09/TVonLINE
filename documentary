@@ -1,5 +1,9 @@
-{ "name": "ช่องสด สาระความรู้","image": "https://img2.pic.in.th/pic/LiveDoc.png","stations": [
+{ "name": "ช่องสด สาระความรู้","image": "https://img2.pic.in.th/pic/LiveDoc.png","groups": [
 
+{
+"name": "สาระความรู้",
+"image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+"stations": [
 
 {"name": "FWDoc","image": "https://pbs.twimg.com/profile_images/1093074786249371649/OZQusuGV_400x400.jpg","url": "https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
 
@@ -131,3 +135,547 @@
 {"name": "Love The Planet","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzTlHF3n4MCt1oqEyJQp2e3aIGKkwAuLTwfE30gDAlT-c6CjzDNJYvxXyn09V0e7OT6PQ&usqp=CAU","url": "https://jmp2.uk/sam-ITBC4700003GR.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
 {"name": "4K-TRAVEL","image": "https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712612339bhKq2lZNGi-original-I5f7f5UE.png","url": "https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate2.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
 ]},
+{
+"name": "Documentary",
+"image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+"stations": [
+{
+"name": "Animal Planet",
+"image": "https://dookeela.live/uploads/1706112700.png",
+"url": "https://dookeela.live/live-tv/animal-planet",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Animal Show",
+"image": "https://dookeela.live/uploads/1705537126.png",
+"url": "https://dookeela.live/live-tv/animalshow",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Crime + Investigation",
+"image": "https://dookeela.live/uploads/1714101661.png",
+"url": "https://dookeela.live/live-tv/crime-investigation",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "DMAX",
+"image": "https://dookeela.live/uploads/1714101765.png",
+"url": "https://dookeela.live/live-tv/dmax",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Discovery",
+"image": "https://dookeela.live/uploads/1706112738.png",
+"url": "https://dookeela.live/live-tv/discovery",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Discovery Asia",
+"image": "https://dookeela.live/uploads/1706112755.png",
+"url": "https://dookeela.live/live-tv/discovery-asia",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "History",
+"image": "https://dookeela.live/uploads/1713231372.png",
+"url": "https://dookeela.live/live-tv/history",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Love Nature 4K",
+"image": "https://dookeela.live/uploads/1729286214.png",
+"url": "https://dookeela.live/live-tv/lovenature4k",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "MySci",
+"image": "https://dookeela.live/uploads/1705536991.png",
+"url": "https://dookeela.live/live-tv/mysci",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Nat Geo WILD",
+"image": "https://dookeela.live/uploads/1716363369.png",
+"url": "https://dookeela.live/live-tv/nat-geo-wild",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "National Geographic",
+"image": "https://dookeela.live/uploads/1716366217.png",
+"url": "https://dookeela.live/live-tv/national-geographic",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "RT Documentary",
+"image": "https://dookeela.live/uploads/1731890461.png",
+"url": "https://dookeela.live/live-tv/rt-documentary",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "True Explore Life",
+"image": "https://dookeela.live/uploads/1724166670.png",
+"url": "https://dookeela.live/live-tv/trueexplorelife",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "True Explore Sci",
+"image": "https://dookeela.live/uploads/1724167268.png",
+"url": "https://dookeela.live/live-tv/trueexploresci",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "True Explore Wild",
+"image": "https://dookeela.live/uploads/1724166218.png",
+"url": "https://dookeela.live/live-tv/trueexplorewild",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "สำรวจโลก",
+"image": "https://dookeela.live/uploads/1705536821.png",
+"url": "https://dookeela.live/live-tv/samrujlok",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+}
+]
+},
+
+{
+"name": "ข่าว",
+"image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+"stations": [
+{
+"name": "Al Jazeera English HD",
+"image": "https://dookeela.live/uploads/1730731551.png",
+"url": "https://dookeela.live/live-tv/al-jazeera-english-hd",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "BBC News",
+"image": "https://dookeela.live/uploads/1705785324.png",
+"url": "https://dookeela.live/live-tv/bbc-news",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Bloomberg Television",
+"image": "https://dookeela.live/uploads/1705785346.png",
+"url": "https://dookeela.live/live-tv/bloomberg-television",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "CCTV4",
+"image": "https://dookeela.live/uploads/1705785371.png",
+"url": "https://dookeela.live/live-tv/cctv4",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "CGTN",
+"image": "https://dookeela.live/uploads/1730731019.png",
+"url": "https://dookeela.live/live-tv/cgtn",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "CNA",
+"image": "https://dookeela.live/uploads/1730731242.png",
+"url": "https://dookeela.live/live-tv/cna",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "CNBC",
+"image": "https://dookeela.live/uploads/1719802797.png",
+"url": "https://dookeela.live/live-tv/cnbc",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "CNN",
+"image": "https://dookeela.live/uploads/1705785357.png",
+"url": "https://dookeela.live/live-tv/cnn",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Euro News",
+"image": "https://dookeela.live/uploads/1731890666.png",
+"url": "https://dookeela.live/live-tv/euronews",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "France 24",
+"image": "https://dookeela.live/uploads/1731889662.png",
+"url": "https://dookeela.live/live-tv/france24",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "NHK WORLD-JAPAN",
+"image": "https://dookeela.live/uploads/1731890206.png",
+"url": "https://dookeela.live/live-tv/nhk",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Sky Sports News | UK",
+"image": "https://dookeela.live/uploads/1715648168.png",
+"url": "https://dookeela.live/live-tv/skysportsnews",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    }
+   ]
+  },
+{		
+        "name": "คอนเสิร์ต GMM x RS",	
+        "image": "https://img2.pic.in.th/pic/L4.jpg",
+        "stations": [
+
+ { "name": "คอนเสิร์ต GMM x RS Hit 100 Concerts (2023)",
+ "image": "https://nanamovies.net/wp-content/uploads/2025/04/GMM-x-RS-Hit-100-Concerts2023.webp",
+ "url": "https://nanaplayer.com/2trf8vy6hguj",
+ "referer": "https://www.nanamovies.me/"},
+ { "name": "GMM x RS 2K Celebration Concert (2023)",
+ "image": "https://nanamovies.net/wp-content/uploads/2025/04/GMM-x-RS-2K-Celebration-Concert2023.jpg",
+ "url": "https://nanaplayer.com/91klc4q64y7f",
+ "referer": "https://www.nanamovies.me/"},
+{"name": "คอนเสิร์ต อัสนี วสันต์ 30 ปี สวัสดีครับ",
+"image": "https://hengku666.com/wp-content/uploads/2021/05/5194.jpg",
+"url": "https://hengku666.com/%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%95-%e0%b8%ad%e0%b8%b1%e0%b8%aa%e0%b8%99%e0%b8%b5-%e0%b8%a7%e0%b8%aa%e0%b8%b1%e0%b8%99%e0%b8%95%e0%b9%8c-30-%e0%b8%9b.html", 
+"playInNatPlayer": "true"},
+{"name": "Da Endorphine Magic of the Night Concert คอนเสิร์ต ดา เอ็นโดรฟิน",
+"image": "https://hengku666.com/wp-content/uploads/2021/05/5395.jpg",
+"url": "https://hengku666.com/da-endorphine-magic-of-the-night-concert-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%95-%e0%b8%94%e0%b8%b2-%e0%b9%80%e0%b8%ad%e0%b9%87%e0%b8%99%e0%b9%82%e0%b8%94.html", 
+"playInNatPlayer": "true"},
+{"name": "Ruam Wong THONGCHAI (2016) บันทึกการแสดงสด รวมวง Thongchai Concert ตอน สุขใจนักเพราะรักคำเดียว",        "image": "https://hengku666.com/wp-content/uploads/2021/03/4239.jpg",
+"url": "https://hengku666.com/ruam-wong-thongchai-2016-%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%81%e0%b8%aa%e0%b8%94%e0%b8%87%e0%b8%aa%e0%b8%94-%e0%b8%a3%e0%b8%a7%e0%b8%a1%e0%b8%a7.html", 
+"playInNatPlayer": "true"
+    }
+   ]		
+  },
+{		
+        "name": "คอนเสิร์ต ทั่วๆไป",	
+        "image": "https://img2.pic.in.th/pic/L4.jpg",
+        "stations": [
+
+ { "name": "คอนเสิร์ต aespa: WORLD TOUR in cinemas (2024) ",
+ "image": "https://nanamovies.net/wp-content/uploads/2025/02/aespa-WORLD-TOUR-in-cinemas-2024.webp",
+ "url": "https://nanaplayer.com/ntw1piqmwyy8",
+ "referer": "https://www.nanamovies.me/"},
+ { "name": "4EVE Concert NOW OR NEVER Live at Impact Arena (2024)",
+ "image": "https://www.moviehdfree.net/wp-content/uploads/2024/09/4EVE-Concert-NOW-OR-NEVER-Live-at-Impact-Arena-2024-e1725509820120.webp?x93978",
+ "url": "https://playermhd.p2phls.xyz/d5526b07-e4b7-4030-ac76-e3f7d1acf2a3/_",
+ "referer": "https://www.moviehdfree.net/" },
+ { "name": "Apple Music Live SZA (2024)",
+ "image": "https://www.moviehdfree.net/wp-content/uploads/2024/10/Apple-Music-Live-SZA-2024.webp?x93978",
+ "url": "https://playermhd.p2phls.xyz/caa45721-cc85-4941-afe9-ad1852a47a9a/_",
+ "referer": "https://www.moviehdfree.net/" },
+ { "name": "Seventeen Tour Follow Again to Cinemas (2024)",
+ "image": "https://www.moviehdfree.net/wp-content/uploads/2024/10/Seventeen-Tour-Follow-Again-to-Cinemas-2024.webp?x93978",
+ "url": "https://playermhd.p2phls.xyz/47934e3a-6b1c-43a8-b4d7-ebe7461651e8/_",
+ "referer": "https://www.moviehdfree.net/"},
+ { "name": "Olivia Rodrigo GUTS World Tour (2024)",
+"image": "https://www.moviehdfree.net/wp-content/uploads/2024/11/Olivia-Rodrigo-GUTS-World-Tour-2024-e1730437126952.webp?x93978",
+"url": "https://playermhd.p2phls.xyz/15b4de52-18f4-443d-9609-e522aa2fe18c/_",
+"referer": "https://www.moviehdfree.net/"},
+{"name":"Gaga Chromatica Ball (2024) เลดี้ กาก้า โครมาติกา บอล คอนเสิร์ต สเปเชียล",
+"info": "IMDb8.5/10",
+"image":"https://www.moviehdfree.net/wp-content/uploads/2024/05/Gaga-Chromatica-Ball-2024.webp?x93978",
+"url":"https://playermhd.p2phls.xyz/95ffc4d3-2153-4ad0-b353-aba45ca5931e/_",
+"referer": "https://www.moviehdfree.net/"},
+{"name":"The Beatles Let It Be (2021)",
+"image":"https://www.moviehdfree.net/wp-content/uploads/2024/05/The-Beatles-Let-It-Be-2021.webp?x93978",
+"url":"https://playermhd.p2phls.xyz/6984cf46-9edf-4381-b5d9-765fba155016/_",
+"referer": "https://www.moviehdfree.net/"},
+{"name":"Taylor Swift The Eras Tour (2023) เทย์เลอร์ สวิฟต์ ดิเอราส์ทัวร์",
+"image":"https://www.moviehdfree.net/wp-content/uploads/2023/11/Taylor-Swift-The-Eras-Tour-2023-e1698899831116.webp?x93978",
+"url":"https://playermhd.p2phls.xyz/b54aaea1-daba-4904-8843-f7d87c72cac7/_",
+"referer": "https://www.moviehdfree.net/"},
+{"name":"Whitney Houston I Wanna Dance with Somebody (2022) ",
+"image":"https://www.moviehdfree.net/wp-content/uploads/2023/02/Whitney-Houston-I-Wanna-Dance-with-Somebody-2022.jpg.webp",
+"url":"https://playermhd.p2phls.xyz/03a2a8b1-c891-48b5-8fbf-90f076d61de1/_",
+"referer": "https://www.moviehdfree.net/"},
+{ "name": "A Nonsense Christmas with Sabrina Carpenter (2024)",
+ "image": "https://www.moviehdfree.net/wp-content/uploads/2024/12/A-Nonsense-Christmas-with-Sabrina-Carpenter-2024.webp?x93978", 
+"url": "https://playermhd.p2phls.xyz/86faa004-d51e-4904-906f-f272f6d8c8ab/_",
+"referer": "https://www.moviehdfree.net/"},
+{"name": "Bodyslam Live in คราม",
+"image": "https://hengku666.com/wp-content/uploads/2021/02/3414.jpg",
+"url": "https://hengku666.com/bodyslam-live-in-%e0%b8%84%e0%b8%a3%e0%b8%b2%e0%b8%a1.html", "playInNatPlayer": "true"},
+{"name": "Genie Fest 16 (2014) บันทึกการแสดงสด Genie Fest 16 ปีแห่งความร็อก",
+"image": "https://hengku666.com/wp-content/uploads/2020/11/1535.jpg",
+"url": "https://hengku666.com/genie-fest-16-2014-%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%81%e0%b8%aa%e0%b8%94%e0%b8%87%e0%b8%aa%e0%b8%94-genie-fest-16-%e0%b8%9b%e0%b8%b5%e0%b9%81.html", 
+"playInNatPlayer": "true"},
+{"name": "บันทึกการแสดงสด Bodyslam ปรากฏการณ์ ดัมมะชาติ",
+"image": "https://hengku666.com/wp-content/uploads/2020/12/2594.jpg",
+"url": "https://hengku666.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%81%e0%b8%aa%e0%b8%94%e0%b8%87%e0%b8%aa%e0%b8%94-bodyslam-%e0%b8%9b%e0%b8%a3%e0%b8%b2%e0%b8%81%e0%b8%8f%e0%b8%81.html", 
+"playInNatPlayer": "true"},
+{"name": "บันทึกการแสดงสด POTATO LIVE (2016) Chang Music Connection Presents POTATO LIVE",    "image": "https://hengku666.com/wp-content/uploads/2021/01/3134.jpg",
+"url": "https://hengku666.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%81%e0%b8%aa%e0%b8%94%e0%b8%87%e0%b8%aa%e0%b8%94-potato-live-2016-chang-music-connection-presents-potato-live.html", 
+"playInNatPlayer": "true"},
+{"name": "Justin Bieber Never Say Never (2011) จัสติน บีเบอร์ ฝันให้ดังคับโลก (เสียงไทย)",
+"image": "https://hengku666.com/wp-content/uploads/2022/11/13699.jpg",
+"url": "https://hengku666.com/justin-bieber-never-say-never-2011-%e0%b8%88%e0%b8%b1%e0%b8%aa%e0%b8%95%e0%b8%b4%e0%b8%99-%e0%b8%9a%e0%b8%b5%e0%b9%80%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c-%e0%b8%9d%e0%b8%b1%e0%b8%99%e0%b9%83.html", "playInNatPlayer": "true"},
+{"name": "Apple Music Live – Ed Sheeran (2023)",
+"image": "https://hengku666.com/wp-content/uploads/2023/05/15562.jpg",
+"url": "https://hengku666.com/apple-music-live-ed-sheeran-2023.html", 
+"playInNatPlayer": "true"},
+{"name": "TAYLOR SWIFT | THE ERAS TOUR (2023)",
+"image": "https://hengku666.com/wp-content/uploads/2023/10/16867.jpg",
+"url": "https://hengku666.com/taylor-swift-the-eras-tour-2023.html", 
+"playInNatPlayer": "true"},
+{"name": "Taylor Swift Miss Americana (2020) เทย์เลอร์ สวิฟต์ มิส อเมริกาน่า",
+"image": "https://hengku666.com/wp-content/uploads/2021/06/8296.png",
+"url": "https://hengku666.com/taylor-swift-miss-americana-2020-%e0%b9%80%e0%b8%97%e0%b8%a2%e0%b9%8c%e0%b9%80%e0%b8%a5%e0%b8%ad%e0%b8%a3%e0%b9%8c-%e0%b8%aa%e0%b8%a7%e0%b8%b4%e0%b8%9f%e0%b8%95%e0%b9%8c-%e0%b8%a1%e0%b8%b4%e0%b8%aa.html", 
+"playInNatPlayer": "true"},
+{"name": "Taylor Swift The 1989 World Tour Live (2015)",
+"image": "https://hengku666.com/wp-content/uploads/2021/05/5594.jpg",
+"url": "https://hengku666.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b9%80%e0%b8%97%e0%b8%9b%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%95-taylor-swift-the-1989-world-tour-live.html", 
+"playInNatPlayer": "true"},
+{"name": "คอนเสิร์ต Loso เพื่อเพื่อน",
+"image": "https://hengku666.com/wp-content/uploads/2020/09/172.jpg",
+"url": "https://hengku666.com/%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%95-loso-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%99.html", 
+"playInNatPlayer": "true"},
+{"name": "Silly Fools FatLive V3 ขบวนการซิลลี่ ฟูลส์ คอนเสิร์ต",
+"image": "https://hengku666.com/wp-content/uploads/2020/10/1066.jpg",
+"url": "https://hengku666.com/silly-fools-fatlive-v3-%e0%b8%82%e0%b8%9a%e0%b8%a7%e0%b8%99%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%8b%e0%b8%b4%e0%b8%a5%e0%b8%a5%e0%b8%b5%e0%b9%88-%e0%b8%9f%e0%b8%b9%e0%b8%a5%e0%b8%aa%e0%b9%8c-%e0%b8%84.html", 
+"playInNatPlayer": "true"},
+{"name": "ปู พงษ์สิทธิ์ คำภีร์ บันทึกการแสดงสดคอนเสิร์ต [รักเดียว…เสมอ]",
+"image": "https://hengku666.com/wp-content/uploads/2020/10/1162.jpg",
+"url": "https://hengku666.com/%e0%b8%9b%e0%b8%b9-%e0%b8%9e%e0%b8%87%e0%b8%a9%e0%b9%8c%e0%b8%aa%e0%b8%b4%e0%b8%97%e0%b8%98%e0%b8%b4%e0%b9%8c-%e0%b8%84%e0%b8%b3%e0%b8%a0%e0%b8%b5%e0%b8%a3%e0%b9%8c-%e0%b8%9a%e0%b8%b1%e0%b8%99.html", 
+"playInNatPlayer": "true"},
+{"name": "คอนเสิร์ต The One & Only 10 years of Aof Pongsak",
+"image": "https://hengku666.com/wp-content/uploads/2020/11/2001.jpg",
+"url": "https://hengku666.com/%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%95-the-one-only-10-years-of-aof-pongsak.html",
+"playInNatPlayer": "true"},
+{"name": "Bodyslam 13 คอนเสิร์ต บอดี้สแลมสิบสาม",
+"image": "https://hengku666.com/wp-content/uploads/2021/02/3385.jpg",
+"url": "https://hengku666.com/bodyslam-13-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%95-%e0%b8%9a%e0%b8%ad%e0%b8%94%e0%b8%b5%e0%b9%89%e0%b8%aa%e0%b9%81%e0%b8%a5%e0%b8%a1%e0%b8%aa%e0%b8%b4.html", 
+"playInNatPlayer": "true"},
+{"name": "LoL Mak Mak บันทึกการแสดงสด หล่อมากมาก คอนเสิร์ต",
+"image": "https://hengku666.com/wp-content/uploads/2021/05/5620.jpg",
+"url": "https://hengku666.com/lol-mak-mak-%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%81%e0%b8%aa%e0%b8%94%e0%b8%87%e0%b8%aa%e0%b8%94-%e0%b8%ab%e0%b8%a5%e0%b9%88%e0%b8%ad%e0%b8%a1.html", 
+"playInNatPlayer": "true"},
+{"name": "Lizzo: Live in Concert (2022)",
+"image": "https://hengku666.com/wp-content/uploads/2023/01/14487.jpg",
+"url": "https://hengku666.com/love-lizzo-2022.html", 
+"playInNatPlayer": "true"},
+{"name": "บันทึกการแสดงสด POTATO LIVE GO ON Concert",
+"image": "https://hengku666.com/wp-content/uploads/2021/05/5187.jpg",
+"url": "https://hengku666.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%81%e0%b8%aa%e0%b8%94%e0%b8%87%e0%b8%aa%e0%b8%94-potato-live-go-on-concert.html", 
+"playInNatPlayer": "true"},
+{"name": "J20 Anniversary concert (2012) คอนเสิร์ต เจ เจตริน 20 ปี","image": "https://hengku666.com/wp-content/uploads/2021/04/5167.jpg","url": "https://hengku666.com/j20-anniversary-concert-2012-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%95-%e0%b9%80%e0%b8%88-%e0%b9%80%e0%b8%88%e0%b8%95%e0%b8%a3%e0%b8%b4%e0%b8%99-20-%e0%b8%9b.html", "playInNatPlayer": "true"},
+{"name": "Clash Rebirth the Final Concert (2011) คอนเสิร์ต แคลช ครั้งสุดท้าย",
+"image": "https://hengku666.com/wp-content/uploads/2021/04/5160.jpg",
+"url": "https://hengku666.com/clash-rebirth-the-final-concert-2011-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%95-%e0%b9%81%e0%b8%84%e0%b8%a5%e0%b8%8a-%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b9%89.html", 
+"playInNatPlayer": "true"},
+{"name": "Bodyslam (2016) Live Pattaya Music Festival",
+"image": "https://hengku666.com/wp-content/uploads/2021/01/3225.jpg",
+"url": "https://hengku666.com/bodyslam-2016-live-pattaya-music-festival.html", 
+"playInNatPlayer": "true"},
+{"name": "Bodyslam Concert นั่งเล่น (2013)",
+"image": "https://hengku666.com/wp-content/uploads/2021/02/3473.jpg",
+"url": "https://hengku666.com/bodyslam-concert-%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99-2013.html", 
+"playInNatPlayer": "true"},
+{"name": "Friday Fat Live Friday Concert",
+"image": "https://hengku666.com/wp-content/uploads/2021/01/1653.jpg",
+"url": "https://hengku666.com/friday-fat-live-friday-concert.html", 
+"playInNatPlayer": "true"},
+{"name": "Sek Loso Live In Thailand Concert",
+"image": "https://hengku666.com/wp-content/uploads/2020/11/1986.jpg",
+"url": "https://hengku666.com/sek-loso-live-in-thailand-concert.html", 
+"playInNatPlayer": "true"},
+{"name": "Concert Cocktail The Heartless Live (2015)",
+"image": "https://hengku666.com/wp-content/uploads/2020/11/1716.jpg",
+"url": "https://hengku666.com/concert-cocktail-the-heartless-live-2015.html", 
+"playInNatPlayer": "true"},
+{"name": "Big Ass & Bodyslam Concert (2005) บิ๊กบอดี้คอนเสิร์ต",
+"image": "https://hengku666.com/wp-content/uploads/2020/11/1468.jpg",
+"url": "https://hengku666.com/big-ass-bodyslam-concert-2005-%e0%b8%9a%e0%b8%b4%e0%b9%8a%e0%b8%81%e0%b8%9a%e0%b8%ad%e0%b8%94%e0%b8%b5%e0%b9%89%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b9%8c.html", 
+"playInNatPlayer": "true"},
+{"name": "D2B Encore Concert (2015) มหัศจรรย์…ความคิดถึง",
+"image": "https://hengku666.com/wp-content/uploads/2020/11/1443.jpg",
+"url": "https://hengku666.com/d2b-encore-concert-2015-%e0%b8%a1%e0%b8%ab%e0%b8%b1%e0%b8%a8%e0%b8%88%e0%b8%a3%e0%b8%a3%e0%b8%a2%e0%b9%8c%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6.html", 
+"playInNatPlayer": "true"},
+{"name": "Retrospect & Sweet Mullet (RTSM) vs The world Concert",
+"image": "https://hengku666.com/wp-content/uploads/2020/11/1442.jpg",
+"url": "https://hengku666.com/retrospect-sweet-mullet-rtsm-vs-the-world-concert.html", 
+"playInNatPlayer": "true"},
+{"name": "บันทึกการแสดงสด 7 Wonders Concert [คอนเสิร์ต มาใหม่]",
+"image": "https://hengku666.com/wp-content/uploads/2020/10/1290.jpg",
+"url": "https://hengku666.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%81%e0%b8%aa%e0%b8%94%e0%b8%87%e0%b8%aa%e0%b8%94-7-wonders-concert-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa.html",
+"playInNatPlayer": "true"},
+{"name": "บันทึกการแสดงสด เจมส์ จิรายุ Magic James The Concert (2015)",
+"image": "https://hengku666.com/wp-content/uploads/2020/10/998.jpg",
+"url": "https://hengku666.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%81%e0%b8%aa%e0%b8%94%e0%b8%87%e0%b8%aa%e0%b8%94-%e0%b9%80%e0%b8%88%e0%b8%a1%e0%b8%aa%e0%b9%8c-%e0%b8%88%e0%b8%b4.html", "playInNatPlayer": "true"},
+{"name": "Real Rock Concert 10Years Blackhead คอนเสิร์ต 10 ปีแบล็คเฮด",
+"image": "https://hengku666.com/wp-content/uploads/2020/09/405.jpg",
+"url": "https://hengku666.com/real-rock-concert-10years-blackhead-%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%95-10-%e0%b8%9b%e0%b8%b5%e0%b9%81%e0%b8%9a%e0%b8%a5%e0%b9%87%e0%b8%84%e0%b9%80.html", 
+"playInNatPlayer": "true"},
+{"name": "Encanto at the Hollywood Bowl (2022) Encanto ที่ Hollywood Bowl",
+"image": "https://hengku666.com/wp-content/uploads/2023/01/14441.jpg",
+"url": "https://hengku666.com/encanto-at-the-hollywood-bowl-2022-encanto-%e0%b8%97%e0%b8%b5%e0%b9%88-hollywood-bowl.html", 
+"playInNatPlayer": "true"},
+{"name": "Concert The Masterpiece 30 ปี ดี้-นิติพงษ์ ห่อนาค",
+"image": "https://hengku666.com/wp-content/uploads/2021/05/5631.png",
+"url": "https://hengku666.com/concert-the-masterpiece-30-%e0%b8%9b%e0%b8%b5-%e0%b8%94%e0%b8%b5%e0%b9%89-%e0%b8%99%e0%b8%b4%e0%b8%95%e0%b8%b4%e0%b8%9e%e0%b8%87%e0%b8%a9%e0%b9%8c-%e0%b8%ab%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b8%b2.html", 
+"playInNatPlayer": "true"
+    }
+   ]		
+  },
+{		
+        "name": "เดี่ยวไมโครโฟน",	
+        "image": "https://www.kubhd.com/wp-content/uploads/2023/10/7383c873b82fbf87e764c423f9e52adf-220x220.jpg.webp",
+        "stations": [
+{"name": "เดี่ยวไมโครโฟน 1 (1995)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/7383c873b82fbf87e764c423f9e52adf-220x220.jpg.webp",
+"url": "https://hplay.hdplayfull.xyz/ee5cc252-127e-4bc1-b9e3-060df8a23edb/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 2 (1996)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-2-1996-210x300.webp",
+"url": "https://hplay.hdplayfull.xyz/aea79885-a916-4670-98e0-0801707798db/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 3 (1997)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-3-1997.webp",
+"url": "https://hplay.hdplayfull.xyz/a9792bc0-fc42-4caf-a2f6-0029f3ffda31/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 4 (1999)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-4-1999-212x300.webp",
+"url": "https://hplay.hdplayfull.xyz/ca42b21b-87fe-4c1f-80ff-a1edd67eaa2a/0",
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 5 (2002)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-5-2002-211x300.webp",
+"url": "https://hplay.hdplayfull.xyz/f22db7fb-6be1-4031-8f7d-c04ca94c8033/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 6 (2003)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-6-2003-209x300.webp",
+"url": "https://hplay.hdplayfull.xyz/5dcad5fb-e1f4-4d4a-ae01-c67f484e58ae/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 7 (2008)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-7-2008-227x300.webp",
+"url": "https://hplay.hdplayfull.xyz/d7d81219-972d-4c6f-ad8f-ecee65a4b418/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 7.5 (2008)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-7.5-2008-213x300.webp",
+"url": "https://hplay.hdplayfull.xyz/c2840115-d619-4903-a388-9cc1f79f6543/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 8 (2010)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-8-2010-213x300.webp",
+"url": "https://hplay.hdplayfull.xyz/c56d1d1c-d8cc-4270-83e2-49c7614923bf/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 9 (2011)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-9-2011-235x300.webp",
+"url": "https://hplay.hdplayfull.xyz/8534c02b-87df-45c3-821b-3d17602fbe31/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 9.5 (2011)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-9.5-2011-219x300.webp",
+"url": "https://hplay.hdplayfull.xyz/92987e8e-265c-4136-a9eb-a15b3357a84a/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 10 (2013)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-10-2013-240x300.webp",
+"url": "https://hplay.hdplayfull.xyz/96ae3f27-3d96-4c70-98d6-64cf8f3be534/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 11 (2015)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-11-2015-212x300.webp",
+"url": "https://hplay.hdplayfull.xyz/daedeb6a-38e7-4860-8b92-9a4e4bf01abf/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยว หมู่ อุดม แต้พานิช (2016)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7-%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88-%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A1-%E0%B9%81%E0%B8%95%E0%B9%89%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%8A-2016-193x300.webp",
+"url": "https://hplay.hdplayfull.xyz/d33cff13-8b7c-4089-9ed6-d138f03f6fc9/0", 
+"playInNatPlayer": "true"},
+{"name": "เดี่ยวไมโครโฟน 12 (2018)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%9F%E0%B8%99-12-2018-225x300.webp",
+"url": "https://hplay.hdplayfull.xyz/e3776fc3-ac82-40c2-aec4-b5025ce96bbe/0", 
+"playInNatPlayer": "true"},
+{"name": "ดูหนัง เดี่ยว 13 (2022)",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/08/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7-13-2022-e1692763720125.webp",
+"url": "https://hplay.hdplayfull.xyz/8974b176-1224-40b1-9721-3eda2b0dd4e1/0", 
+"playInNatPlayer": "true"},
+{"name": "Stand up Comedy (2023) หมู่ 2",
+"image": "https://www.kubhd.com/wp-content/uploads/2023/06/Stand-up-Comedy-2023.webp",
+"url": "https://hplay.hdplayfull.xyz/148fea3b-16df-4f73-91e0-0c7313305b35/0",
+"playInNatPlayer": "true"},
+{"name": "Deaw Special Super Soft Power (2024) เดี่ยวสเปเชียล ซูเปอร์ ซอฟต์ พาวเวอร์",
+"image": "https://www.kubhd.com/wp-content/uploads/2024/04/Deaw-Special-Super-Soft-Power-2024-e1713426085119.webp",
+"url": "https://hplay.hdplayfull.xyz/0d38dbd7-9162-44f1-bd58-80a3cc70321b/0", 
+"playInNatPlayer": "true"},
+{"name": "Sit Down with Stand Up Udom Taephanich (2024) ซิทดาวน์ วิท สแตนด์อัพ อุดม แต้พานิช",
+"image": "https://www.kubhd.com/wp-content/uploads/2024/01/Sit-Down-with-Stand-Up-Udom-Taephanich-2024-e1706521911241.webp",
+"url": "https://hplay.hdplayfull.xyz/10e3803e-870b-4112-bba8-66541a8ba362/0", 
+"playInNatPlayer": "true"
+    }
+   ]		
+  },
+  {
+   "name": "จิตติมา เจือใจ",
+   "info": "เสียงไทย",
+   "image": "https://img5.pic.in.th/file/secure-sv1/0a.jpg",
+   "stations": [
+    {
+     "name": "ถ้าหัวใจฉันมีปีก",
+     "info": "พากย์ไทย",
+     "image": "https://img5.pic.in.th/file/secure-sv1/06c3c94e70712eef2.jpg",
+     "url": "https://u.pcloud.link/publink/show?code=XZtHJ05ZEGF5uqoXXE836Yoh6s9irFbSnCsV"
+    },
+    {
+     "name": "หัวใจมีปีก",
+     "info": "พากย์ไทย",
+     "image": "https://img5.pic.in.th/file/secure-sv1/01c8c56e2d1b39fadd.jpg",
+     "url": "https://u.pcloud.link/publink/show?code=XZOzJ05ZXNGJu0H25o0lz9M1K2sjPSeXR61V"
+    },
+    {
+     "name": "หลักไม้เลื้อย",
+     "info": "พากย์ไทย",
+     "image": "https://img5.pic.in.th/file/secure-sv1/02c5bab10b9ee11aef.jpg",
+     "url": "https://u.pcloud.link/publink/show?code=XZVRJ05Z0AQOYUFCwSVzFDlD5Qmvs7bRYzwy"
+    },
+    {
+     "name": "หลักไม้เลื้อย",
+     "info": "พากย์ไทย",
+     "image": "https://img5.pic.in.th/file/secure-sv1/0b.jpg",
+     "url": "https://u.pcloud.link/publink/show?code=XZ9RJ05ZHXNALs3mMSfY4pfzVtWDWunxYCDy"
+    },
+    {
+     "name": "โชคดียอดรัก",
+     "info": "พากย์ไทย",
+     "image": "https://img2.pic.in.th/pic/0e.jpg",
+     "url": "https://u.pcloud.link/publink/show?code=XZ2wz05ZOmfwhz7GOOXdwLF6O5XVa45GykYy"
+    },
+    {
+     "name": "สัญญารัก",
+     "info": "พากย์ไทย",
+     "image": "https://img2.pic.in.th/pic/0c.jpg",
+     "url": "https://u.pcloud.link/publink/show?code=XZCRJ05Z3sfAUefK2rY68dUQT2uL059AvHl7"
+    },
+    {
+     "name": "หลักไม้เลื้อย",
+     "info": "พากย์ไทย",
+     "image": "https://img5.pic.in.th/file/secure-sv1/0d.jpg",
+     "url": "https://u.pcloud.link/publink/show?code=XZqRJ05ZdcPzGUoiyFSUYwODkbrVrJdCjJxk"
+    },
+    {
+     "name": "จิตติมา เจือใจ",
+     "info": "พากย์ไทย",
+     "image": "https://img5.pic.in.th/file/secure-sv1/0a.jpg",
+     "url": "https://u.pcloud.link/publink/show?code=XZRzJ05ZYQeSaH6zxP42xzDmhhXAHSjMcKOk"
+    }
+ ]
+}]},
