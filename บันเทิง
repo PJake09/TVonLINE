@@ -1,7 +1,9 @@
-  {
- "name": "Entertainment",
- "image": "https://img2.pic.in.th/pic/Jake-Entertainment.jpeg",
- "groups": [
+{
+   "name": "GO GO TV",
+   "image": "https://runwaygirlnetwork.com/wp-content/uploads/2018/09/gogo-tv-video-Custom.png",
+   "url": "",
+	
+   "groups": [
 		
 			{
 				"name": "DIGITAL TV",
