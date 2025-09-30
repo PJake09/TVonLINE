@@ -4,6 +4,11 @@
 "url": "",
 "groups": [
 
+  {
+ "name": "SPORTS",
+ "image": "https://img2.imgbiz.com/imgbiz/FB.jpg",
+ "groups": [
+
 {
 "name": "กีฬา",
 "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
@@ -1419,15 +1424,8 @@
 {"name": "Ballthai9 - 1","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp","url": "https://cdn1.googlecdn.live/dooballrealtime/trueballthai9/playlist.m3u8", "referer": "https://www.dooballrealtime.com","info":"VIP Gojek TV","playInNatPlayer": "true"},
 {"name": "Ballthai9 - 2","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp","url": "https://goal-th.com/ช่องรายการทีวี/?id=468&tv=TrueBallThai9", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
 {"name": "Ballthai9 - 3","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp","url": "https://cdn1.googlecdnforstreaming.live/live/trueballthai9/playlist.m3u8", "referer": "https://warpdooball.net/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Ballthai9 - 4","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp","url": "https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai9/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-
+{"name": "Ballthai9 - 4","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp","url": "https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai9/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"}
 ]},
-
-{"name": "SPOTV","image": "https://img5.pic.in.th/file/secure-sv1/SportSPOTV.png","url": "https://drive.google.com/uc?id=1ZJyLQrsD6kMD7CHrkHh3KNJRW_UGmiWC","import": false},
-
-{"name": "Astro Sport","image": "https://img5.pic.in.th/file/secure-sv1/SportAstro.png","url": "https://drive.google.com/uc?id=1MNuNW7UKq19a_OtS2b2Tp2KPCELNvba4","import": false},
-
-{"name": "Nation sport","image": "https://img5.pic.in.th/file/secure-sv1/SportNation.png","url": "https://docs.google.com/uc?export=download&id=1r9Gk-E_3y127ImipN8ZZf9pkseOzzNkY","import": false},
 
 {
 		"name": "ASEAN Mandiri Cup 2025",
@@ -1467,9 +1465,9 @@
 "url": "https://dookeela.live/live-tv/astroarena2",
 "referer": "https://dookeela.live/",
 "playInNatPlayer": "true"
-}
-]
-},
+    }
+ ]
+}]},
 
   {
  "name": "Entertainment",
