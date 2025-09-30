@@ -1,3 +1,8 @@
+  {
+ "name": "Entertainment",
+ "image": "https://img2.pic.in.th/pic/Jake-Entertainment.jpeg",
+ "groups": [
+
 {
    "name": "GO GO TV",
    "image": "https://runwaygirlnetwork.com/wp-content/uploads/2018/09/gogo-tv-video-Custom.png",
@@ -111,6 +116,7 @@
 				"image": "https://image.pngaaa.com/352/1697352-middle.png",
 				"url": "https://drive.google.com/uc?id=1CscY02BNXo680GYvRKNXdLbRq6n-quC2",
 				"info": "GO GO TV",
-				"import": false},						
-]
-},
+				"import": false
+    }
+ ]
+}]},
