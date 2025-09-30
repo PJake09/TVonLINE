@@ -1812,13 +1812,11 @@ referer		:	"https://www.inwiptv.com/"},
 {"name":"Nation-B",
 "image":"https://cdn.imgchest.com/files/yq9c3lrnz84.png",
 "url":"https://lb1-live-mv.v2h-cdn.com/hls/ffcc/nation/nation.m3u8",
-"playInNatPlayer":"true"},
+"playInNatPlayer":"true"
+    }
+ ]
+}]},
 
-]
-},
-
-]
-}
 {
  "name": "ห้อง Music",
  "author": "(❁‿❁)Jake(❁‿❁)",
