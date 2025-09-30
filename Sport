@@ -5,174 +5,6 @@
 "groups": [
 
 {
-"name": "ดิจิตอล",
-"image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-"stations": [
-
-{
-"name": "ช่อง 3",
-"image": "https://dookeela.live/uploads/1685812254.png",
-"url": "https://dookeela.live/live-tv/ch3hd",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-{
-"name": "ช่อง 5",
-"image": "https://dookeela.live/uploads/1664574997.png",
-"url": "https://dookeela.live/live-tv/ch5hd",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-{
-"name": "ช่อง 7",
-"image": "https://dookeela.live/uploads/1688059473.png",
-"url": "https://dookeela.live/live-tv/ch7hd",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-{
-"name": "MCOT HD",
-"image": "https://dookeela.live/uploads/1671966260.png",
-"url": "https://dookeela.live/live-tv/mcothd",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-{
-"name": "NBT 2 HD",
-"image": "https://dookeela.live/uploads/1725895790.png",
-"url": "https://dookeela.live/live-tv/nbt2hd",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-{
-"name": "Thai PBS",
-"image": "https://dookeela.live/uploads/1725895931.png",
-"url": "https://dookeela.live/live-tv/thaipbs",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-{
-"name": "ไทยรัฐทีวี",
-"image": "https://dookeela.live/uploads/1686800227.png",
-"url": "https://dookeela.live/live-tv/thairathtv",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-{
-"name": "one31",
-"image": "https://dookeela.live/uploads/1683394005.png",
-"url": "https://dookeela.live/live-tv/one31",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-{
-"name": "AmarinTV HD",
-"image": "https://dookeela.live/uploads/1704117706.png",
-"url": "https://dookeela.live/live-tv/amarintv",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-{
-"name": "PPTV",
-"image": "https://dookeela.live/uploads/1664499074.png",
-"url": "https://dookeela.live/live-tv/pptv",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-{
-"name": "CH8",
-"image": "https://dookeela.live/uploads/1704117313.png",
-"url": "https://dookeela.live/live-tv/ch8",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-{
-"name": "GMM25",
-"image": "https://dookeela.live/uploads/1725896937.png",
-"url": "https://dookeela.live/live-tv/gmm25",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-{
-"name": "JKN 18",
-"image": "https://dookeela.live/uploads/1725896425.png",
-"url": "https://dookeela.live/live-tv/jkn18",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-{
-"name": "MONO29 (โมโน 29)",
-"image": "https://dookeela.live/uploads/1703787713.png",
-"url": "https://dookeela.live/live-tv/mono29",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-{
-"name": "Nation TV",
-"image": "https://dookeela.live/uploads/1725896561.png",
-"url": "https://dookeela.live/live-tv/nationtv",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-{
-"name": "TNN",
-"image": "https://dookeela.live/uploads/1725896332.png",
-"url": "https://dookeela.live/live-tv/tnn",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-{
-"name": "True 4 U",
-"image": "https://dookeela.live/uploads/1725896844.png",
-"url": "https://dookeela.live/live-tv/true4u",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-{
-"name": "Workpoint TV",
-"image": "https://dookeela.live/uploads/1725896683.png",
-"url": "https://dookeela.live/live-tv/workpointtv",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-{
-"name": "ALTV4",
-"image": "https://dookeela.live/uploads/1725896083.png",
-"url": "https://dookeela.live/live-tv/altv4",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-{
-"name": "T Sports 7",
-"image": "https://dookeela.live/uploads/1673134276.png",
-"url": "https://dookeela.live/live-tv/tsports7",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
-]
-},
-
-{
 "name": "กีฬา",
 "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
 "stations": [
@@ -1371,10 +1203,279 @@
 "url": "https://dookeela.live/live-tv/bein9",
 "referer": "https://dookeela.live/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-
+}
 ]
 },
+
+{"name": "ดูบอลสด & ผลบอลสด","author": "VIP Gojek ห้ามขาย แจกเฉพาะในกลุ่มเท่านั้น","image": "https://img2.pic.in.th/pic/SportLivescore.png","stations": [
+{"name": "BallZaa","image": "https://www.ballzaa.com/img/config/web-logo-ballzaa2.jpg","url": "https://www.ballzaa.com//บอลซ่าดูบอลสด","embed": "true", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Goal daddy","image": "https://www.goaldaddytv.live/logos/goaldaddy-logo.webp","url": "https://www.goaldaddytv.live/","embed": "true", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Dookeela","image": "https://dookeela.live/images/logo-bar.png","url": "https://dookeela.live/","embed": "true", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "ผลบอลสด","image": "https://livescorethai.tv/assets/images/2024/app/lst.png","url": "https://livescorethai.tv/","embed": "true", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+]},
+
+{"name": "Monomax","author": "VIP Gojek ห้ามขาย แจกเฉพาะในกลุ่มเท่านั้น","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0","stations": [
+
+{"name": "Monomax Sport-1","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0","url": "https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=", "referer": "https://fw4free.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name":"Monomax Sport-2", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://slave02.appball.vip/hls/ch11.m3u8", "playInNatPlayer":"true"}, 
+{"name":"Monomax Sport-3", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://cdnsv1.bunnycdncloud.com/andaman888th/dxsport2/playlist.m3u8", "referer": "https://www.andaman888th.net/", "playInNatPlayer":"true"}, 
+{"name":"Monomax Sport-4", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://cdn1.googlecdn.live/4k/dklsport1/chunks.m3u8", "referer": "https://footballsod.live/", "playInNatPlayer": "true"}, 
+{"name":"Monomax Sport-5", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://168dooball.net/live-stream/?mode=ball&ch=monomax1", "playInNatPlayer":"true"}, 
+{"name":"Monomax Sport-6", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://www.ball24.tv/allchannel/?id=monomax1", "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36", "info": "มือถือ", "playInNatPlayer":"true"}, 
+{"name":"Monomax Sport-7", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://www.ball24.tv/allchannel/?id=monomax2", "playInNatPlayer":"true"}, 
+{"name":"Monomax Sport-8", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://168dooball.net/live-stream/?mode=ball&ch=monomax2", "playInNatPlayer":"true"}, 
+{"name":"Monomax Sport-8", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://www.ball24.tv/allchannel/?id=monomax1", "playInNatPlayer":"true"}, 
+
+]},
+
+{ "name": "Bein Sport","image": "https://img5.pic.in.th/file/secure-sv1/SportBein.png","stations": [
+{"name": "Bein1 - 1","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://www.andaman888th.net/ดูบอลออนไลน์/beinsport1/", "referer": "https://www.andaman888th.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein1 - 2","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein1", "referer": "https://fw4free.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein1 - 3","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://www.heng99bet.com/live/bein1", "referer": "https://www.heng99bet.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein1 - 4","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-6/playlist.m3u8", "referer": "https://doolive4k.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein1 - 5","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein1_617", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein1 - 6","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein1 - 7","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://footballdoofree.com/play/bein1/", "referer": "https://footballdoofree.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein1 - 8","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/ballsod24hrs/bein1/chunks.m3u8", "referer": "ballsod24hrs.com 14","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein1 - 9","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8", "referer": "https://dooball2you.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein1 - 10","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/dooballx/bein1/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein1 - 11","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://www.ufa77.page/channel?ch=bein1", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein1 - 12","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87beinsport1/", "referer": "https://dooball2you.com","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein1 - 13","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://www.ball24.tv/allchannel/?id=bein1", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein1 - 14","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://fw4free.inwstream.com/fw4free/bein1.stream/chunklist.m3u8", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein1 - 15","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein1_ais", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein1 - 16","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/duball356/bein1/chunks.m3u8", "referer": "https://www.thdooball.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein1 - 17","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/goaltvhd/bein1/chunks.m3u8", "referer": "www.goaltvhd.com 15","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein1 - 18","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://flu.systemnet.tv/Bein.Hd.1/tracks-v1a1/mono.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein1 - 19","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://dooballkub.com/live/?bein1", "referer": "https://dooballkub.com/live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein1 - 20","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://cdnsv1.bunnycdncloud.com/dooball2you/bein1/th-sport/bein1/chunks.m3u8", "referer": "https://dooball2you.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "Bein2 - 1","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://fw4free.inwstream.com/fw4free/bein2.stream/chunklist.m3u8", "referer": "https://fw4free.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein2 - 2","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://www.heng99bet.com/live/bein2", "referer": "https://www.heng99bet.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein2 - 3","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://www.ball24.tv/allchannel/?id=bein2", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein2 - 4","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8", "referer": "https://dooball2you.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein2 - 5","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://www.andaman888th.net/ดูบอลออนไลน์/beinsport2/", "referer": "https://www.andaman888th.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein2 - 6","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein2", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein2 - 7","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/dooballx/bein2/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein2 - 8","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://www.ufa77.fun/channel?ch=bein2", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein2 - 9","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein2", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein2 - 10","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://dooball2you.com/live/beinsport2/", "referer": "https://dooball2you.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein2 - 11","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://livesod365.com/live/bein2/bein-sport-2/", "referer": "https://footballdoofree.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein2 - 12","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://cdn-la2.aws-stream.com/ondemand/od3/bein2/video.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein2 - 13","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://flu.systemnet.tv/Bein.Hd.2/tracks-v1a1/mono.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein2 - 14","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://dooballkub.com/live/?bein2", "referer": "https://dooballkub.com/live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "Bein3 - 1","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://www.heng99bet.com/live/bein3", "referer": "https://www.heng99bet.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein3 - 2","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-7/playlist.m3u8", "referer": "https://doolive4k.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein3 - 3","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://www.ball24.tv/allchannel/?id=bein3", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein3 - 4","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8", "referer": "https://www.siammovie-hd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein3 - 5","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://footballdoofree.com/play/bein3", "referer": "https://footballdoofree.com","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein3 - 6","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://dooballkub.com/live/?bein3", "referer": "https://dooballkub.com/live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein3 - 7","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein3 - 8","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://www.andaman888th.net/ดูบอลออนไลน์/beinsport3/", "referer": "https://www.andaman888th.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein3 - 9","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein3", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein3 - 10","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://fw4free.inwstream.com/fw4free/bein3.stream/chunklist.m3u8", "referer": "https://fw4free.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein3 - 11","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/dooballx/bein3/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein3 - 12","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://www.ufa77.fun/channel?ch=bein3", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein3 - 13","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://www.baballbet.com/live/bein-sport3/", "referer": "https://www.baballbet.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein3 - 14","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://dooball2you.com/live/beinsport3/", "referer": "https://dooball2you.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein3 - 15","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://www.livestream88.com/sport/bein-sport-hd-2/", "referer": "https://freetvdd.com","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein3 - 16","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/thdooball/bein3/chunks.m3u8", "referer": "thdooball.com 17","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein3 - 17","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/duball356/bein3/chunks.m3u8", "referer": "liveballhd365.com 16","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein3 - 18","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/goaltvhd/bein3/chunks.m3u8", "referer": "https://www.goaltvhd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein3 - 19","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/ballsod24hrs/bein3/chunks.m3u8", "referer": "https://ballsod24hrs.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein3 - 20","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://flu.systemnet.tv/Bein.Hd.3/tracks-v1a1/mono.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "Bein4 ","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein4", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein4 - 2","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/dooballx/bein4/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein4 - 3","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png","url": "https://www.ufa77.fun/channel?ch=bein4", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein4 - 4","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png","url": "https://www.heng99bet.com/live/bein4", "referer": "https://www.heng99bet.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein4 - 6","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png","url": "https://www.ball24.tv/allchannel/?id=bein4", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein4 - 7","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png","url": "https://dooballkub.com/live/?bein4", "referer": "https://dooballkub.com/live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein4 - 8","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png","url": "https://cdn-la2.aws-stream.com/ondemand/od3/bein4/playlist.m3u8", "referer": "https://dooballkub.com/live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "Bein5","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein5", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein5 - 2","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/dooballx/bein5/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein5 - 3","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png","url": "https://www.ufa77.fun/channel?ch=bein5", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein5 - 4","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png","url": "https://www.heng99bet.com/live/bein5", "referer": "https://www.heng99bet.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein5 - 5","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein5", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein5 - 6","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png","url": "https://www.ball24.tv/allchannel/?id=bein5", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein5 - 7","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png","url": "https://dooballkub.com/live/?bein5", "referer": "https://dooballkub.com/live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein5 - 8","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png","url": "https://cdn-la2.aws-stream.com/ondemand/od3/bein5/playlist.m3u8", "referer": "https://dooballkub.com/live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "Bein6","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein6", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein6 - 2","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/dooballx/bein6/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein6 - 3","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png","url": "https://www.ufa77.fun/channel?ch=bein6", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein6 - 4","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein6", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein6 - 5","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png","url": "https://www.ball24.tv/allchannel/?id=bein6", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein6 - 6","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png","url": "https://dooballkub.com/live/?bein6", "referer": "https://dooballkub.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein6 - 7","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png","url": "https://cdn-la2.aws-stream.com/ondemand/od3/bein6/playlist.m3u8", "referer": "https://dooballkub.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "Bein7","image": "https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD7.png","url": "https://dookeela.live/live-tv/bein7", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein7 - 2","image": "https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD7.png","url": "https://cdn1.googlecdn.live/dooballx/bein7/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein7 - 3","image": "https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD7.png","url": "https://dookeela.live/live-tv/bein7", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein7 - 4","image": "https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD7.png","url": "https://www.ufa77.fun/channel?ch=bein7", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein7 - 5","image": "https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD7.png","url": "https://www.ball24.tv/allchannel/?id=bein7", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein7 - 6","image": "https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD7.png","url": "https://dooballkub.com/live/?bein7", "referer": "https://dooballkub.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein7 - 7","image": "https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD7.png","url": "https://cdn-la2.aws-stream.com/ondemand/od3/bein7/playlist.m3u8", "referer": "https://dooballkub.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "Bein8","image": "https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD8.png","url": "https://dooballkub.com/live/?bein8", "referer": "https://dooballkub.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein8","image": "https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD8.png","url": "https://dookeela.live/live-tv/bein8", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "Bein9","image": "https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD9.png","url": "https://dookeela.live/live-tv/bein9", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "Bein10","image": "https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD10.png","url": "https://dookeela.live/live-tv/bein10", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+]},
+
+{"name": "True Sport","image": "https://img5.pic.in.th/file/secure-sv1/Sportwo.png","stations": [
+{"name": "TSP1 - 1","image": "https://img2.pic.in.th/pic/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png","url": "https://www.andaman888th.net/ดูบอลออนไลน์/truesporthd/", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP1 - 2","image": "https://img2.pic.in.th/pic/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png","url": "https://dookeela.live/live-tv/tsp1", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP1 - 3","image": "https://img2.pic.in.th/pic/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png","url": "https://www.ball24.tv/allchannel/?id=truesporthd", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP1 - 4","image": "https://img2.pic.in.th/pic/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png","url": "https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8", "referer": "https://www.madoohd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP1 - 5","image": "https://img2.pic.in.th/pic/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png","url": "https://cdn-la2.aws-stream.com/ondemand/od3/bein7/playlist.m3u8", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP1 - 6","image": "https://img2.pic.in.th/pic/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png","url": "https://www.ufa77.fun/channel?ch=truesporthd", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP1 - 7","image": "https://img2.pic.in.th/pic/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png","url": "https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8", "referer": "https://freetvdd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP1 - 8","image": "https://img2.pic.in.th/pic/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png","url": "https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesporthd1/", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP1 - 9","image": "https://img2.pic.in.th/pic/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png","url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-8/playlist.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP1 - 10","image": "https://img2.pic.in.th/pic/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png","url": "https://dooballkub.com/live/?truesporthd", "referer": "https://dooballkub.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "TSP2 - 1","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://www.andaman888th.net/ดูบอลออนไลน์/truesporthd2/", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP2 - 2","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://dookeela.live/live-tv/tsp2", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP2 - 3","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-9/playlist.m3u8", "referer": "https://doolive4k.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP2 - 4","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://www.ball24.tv/allchannel/?id=truesporthd2", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP2 - 5","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8", "referer": "https://www.madoohd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP2 - 6","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://footballdoofree.com/play/truesporthd2/", "referer": " ","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP2 - 7","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://dooballkub.com/live/?truesporthd2", "referer": "https://dooballkub.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP2 - 8","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP2 - 9","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://cdn-la2.aws-stream.com/ondemand/od3/tsp2/video.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP2 - 10","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://www.ufa77.fun/channel?ch=truesporthd2", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP2 - 11","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8", "referer": "https://freetvdd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP2 - 12","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://dooball2you.com/truesporthd2/", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP2 - 13","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://www.ufa77.fun/stream?21:00&teamA=%E0%B8%AD%E0%B8%B4%E0%B8%9B%E0%B8%AA%E0%B8%A7%E0%B8%B4%E0%B8%8A&teamB=%E0%B9%80%E0%B8%AD%E0%B8%9F%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B1%E0%B8%99&key=ff40379f61dab2981f3f061edeceb3d2&channel=truesporthd2&channelA=truesporthd2&channelB=truesporthd2&channelC=truesporthd2&channelD=&channelE=&flagA=202410190726541047916368.png&flagB=202410190726541800025867.png&league=%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A4%E0%B8%A9%20|%20%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%B5%E0%B8%81", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "TSP3 - 1","image": "https://img2.pic.in.th/pic/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png","url": "https://www.andaman888th.net/ดูบอลออนไลน์/truesporthd3/", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP3 - 2","image": "https://img2.pic.in.th/pic/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png","url": "https://dookeela.live/live-tv/tsp3", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP3 - 3","image": "https://img2.pic.in.th/pic/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png","url": "https://www.ball24.tv/allchannel/?id=truesporthd3", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP3 - 4","image": "https://img2.pic.in.th/pic/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png","url": "https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8", "referer": "https://www.madoohd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP3 - 5","image": "https://img2.pic.in.th/pic/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png","url": "https://dooballkub.com/live/?truesporthd3", "referer": "https://dooballkub.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP3 - 6","image": "https://img2.pic.in.th/pic/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png","url": "https://www.ufa77.fun/channel?ch=truesporthd3", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP3 - 7","image": "https://img2.pic.in.th/pic/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png","url": "https://cdn-la2.aws-stream.com/ondemand/od3/tsp3/video.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP3 - 8","image": "https://img2.pic.in.th/pic/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png","url": "https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8", "referer": "https://freetvdd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP3 - 9","image": "https://img2.pic.in.th/pic/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png","url": "https://dooball2you.com/ช่องtruesporthd3/", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "TSP4 - 1","image": "https://cms.dmpcdn.com/livetv/2023/12/15/759492c0-9aea-11ee-a6e1-935fb41ffad5_webp_original.webp","url": "https://www.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8", "referer": "https://www.madoohd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP4 - 2","image": "https://cms.dmpcdn.com/livetv/2023/12/15/759492c0-9aea-11ee-a6e1-935fb41ffad5_webp_original.webp","url": "https://dookeela.live/live-tv/tsp4", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP4 - 3","image": "https://cms.dmpcdn.com/livetv/2023/12/15/759492c0-9aea-11ee-a6e1-935fb41ffad5_webp_original.webp","url": "https://streaming.livescorethai.net/iptv/hd-tsport4.stream/chunks.m3u8", "referer": "https://freetvdd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP4 - 4","image": "https://cms.dmpcdn.com/livetv/2023/12/15/759492c0-9aea-11ee-a6e1-935fb41ffad5_webp_original.webp","url": "https://dooballkub.com/live/?truesporthd4", "referer": "https://dooballkub.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "TSP5 - 1","image": "https://img2.pic.in.th/pic/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp","url": "https://dookeela.live/live-tv/tsp5", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP5 - 2","image": "https://img2.pic.in.th/pic/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp","url": "https://www.ball24.tv/allchannel/?id=truesport5", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP5 - 3","image": "https://img2.pic.in.th/pic/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp","url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-11/playlist.m3u8", "referer": "https://doolive4k.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP5 - 4","image": "https://img2.pic.in.th/pic/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp","url": "https://github.com/bestcommt2/m3u8/raw/refs/heads/master/true5.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP5 - 5","image": "https://img2.pic.in.th/pic/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp","url": "https://www.ufa77.fun/channel?ch=truesport5", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP5 - 6","image": "https://img2.pic.in.th/pic/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp","url": "https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8", "referer": "https://freetvdd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP5 - 7","image": "https://img2.pic.in.th/pic/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp","url": "https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8", "referer": "https://www.madoohd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "TSP7 - 1","image": "https://cms.dmpcdn.com/livetv/2023/12/15/76797480-9aea-11ee-a6e1-935fb41ffad5_webp_original.webp","url": "https://www.ball24.tv/allchannel/?id=truesport7", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP7 - 2","image": "https://cms.dmpcdn.com/livetv/2023/12/15/76797480-9aea-11ee-a6e1-935fb41ffad5_webp_original.webp","url": "https://dookeela.live/live-tv/tsp7", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP7 - 3","image": "https://cms.dmpcdn.com/livetv/2023/12/15/76797480-9aea-11ee-a6e1-935fb41ffad5_webp_original.webp","url": "https://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8", "referer": "https://www.madoohd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP7 - 4","image": "https://cms.dmpcdn.com/livetv/2023/12/15/76797480-9aea-11ee-a6e1-935fb41ffad5_webp_original.webp","url": "https://github.com/bestcommt2/m3u8/raw/refs/heads/master/true7.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP7 - 5","image": "https://cms.dmpcdn.com/livetv/2023/12/15/76797480-9aea-11ee-a6e1-935fb41ffad5_webp_original.webp","url": "https://www.ufa77.fun/channel?ch=truesport7", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP7 - 6","image": "https://cms.dmpcdn.com/livetv/2023/12/15/76797480-9aea-11ee-a6e1-935fb41ffad5_webp_original.webp","url": "https://cdn-la2.aws-stream.com/ondemand/od3/tsp7/video.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "TSP7 - 7","image": "https://cms.dmpcdn.com/livetv/2023/12/15/76797480-9aea-11ee-a6e1-935fb41ffad5_webp_original.webp","url": "https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8", "referer": "https://freetvdd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "true Tennis - 1","image": "https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png","url": "https://dookeela.live/live-tv/truetennis", "referer": "https://www.siammovie-hd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "true Tennis - 2","image": "https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png","url": "https://www.ball24.tv/allchannel/?id=truetennis", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "true Tennis - 3","image": "https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png","url": "https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8", "referer": "https://www.siammovie-hd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "true Tennis - 4","image": "https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png","url": "https://168dooball.com/live-stream/?ch=truetennis", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "true Tennis - 5","image": "https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png","url": "https://www.ufa77.fun/channel?ch=truetennis", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "to NBA","image": "https://media0.giphy.com/media/5h5HJRTkYEvT2o6yvJ/giphy.gif?cid=ecf05e475a721abd784f8b6739313111b6b70a55503b08ec&rid=giphy.gif","url": "https://dookeela.live/live-tv/nba", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "to NFL","image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png","url": "https://dookeela.live/live-tv/nfl", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "Volleyball 1","image": "https://dookeela.live/uploads/1728462430.png","url": "https://dookeela.live/live-tv/volleyball1", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Volleyball 1","image": "https://dookeela.live/uploads/1728462430.png","url": "https://goal-th.com/ช่องรายการทีวี/?id=528&tv=Volleyball1", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Volleyball 2","image": "https://dookeela.live/uploads/1728462447.png","url": "https://dookeela.live/live-tv/volleyball2", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Volleyball 2","image": "https://dookeela.live/uploads/1728462447.png","url": "https://goal-th.com/ช่องรายการทีวี/?id=529&tv=Volleyball2", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Volleyball 3","image": "https://dookeela.live/uploads/1728462457.png","url": "https://dookeela.live/live-tv/volleyball3", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Volleyball 3","image": "https://dookeela.live/uploads/1728462457.png","url": "https://goal-th.com/ช่องรายการทีวี/?id=530&tv=Volleyball3", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Volleyball 4","image": "https://dookeela.live/uploads/1728462466.png","url": "https://dookeela.live/live-tv/volleyball4", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Volleyball 4","image": "https://dookeela.live/uploads/1728462466.png","url": "https://goal-th.com/ช่องรายการทีวี/?id=531&tv=Volleyball4", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Volleyball 5","image": "https://dookeela.live/uploads/1728462475.png","url": "https://dookeela.live/live-tv/volleyball5", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Volleyball 5","image": "https://dookeela.live/uploads/1728462475.png","url": "https://goal-th.com/ช่องรายการทีวี/?id=532&tv=Volleyball5", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "Golf Channel - 1","image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F3182d0c8-507f-42b9-b53a-cc2b0298941c.png&w=320&h=240","url": "https://dookeela.live/live-tv/golfchannel", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Golf Channel - 2","image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F3182d0c8-507f-42b9-b53a-cc2b0298941c.png&w=320&h=240","url": "https://goal-th.com/ช่องรายการทีวี/?id=528&tv=Volleyball1", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Golf Channel - 3","image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F3182d0c8-507f-42b9-b53a-cc2b0298941c.png&w=320&h=240","url": "https://dooball2you.com/live/golf-channel-thailand/", "referer": "https://dooball2you.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Golf Channel - 4","image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F3182d0c8-507f-42b9-b53a-cc2b0298941c.png&w=320&h=240","url": "https://www.livedoomovies.com:4431/02_golfhd_720p/chunklist.m3u8", "referer": "https://www.doomovie-hd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Golf Channel - 5","image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F3182d0c8-507f-42b9-b53a-cc2b0298941c.png&w=320&h=240","url": "https://cdnsv1.bunnycdncloud.com/dooball2you/golf/th-sport/golfchannel2/chunks.m3u8", "referer": "https://dooball2you.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "3BBSports1","image": "https://dookeela.live/uploads/1720429672.png","url": "https://goal-th.com/ช่องรายการทีวี/?id=419&tv=3BBSports1", "referer": "https://dooball2you.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+]},
+
+{ "name": "Ball Thai","image": "https://img5.pic.in.th/file/secure-sv1/SportBallthai.png","stations": [
+
+{"name": "Ballthai9 - 1","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp","url": "https://cdn1.googlecdn.live/dooballrealtime/trueballthai9/playlist.m3u8", "referer": "https://www.dooballrealtime.com","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Ballthai9 - 2","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp","url": "https://goal-th.com/ช่องรายการทีวี/?id=468&tv=TrueBallThai9", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Ballthai9 - 3","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp","url": "https://cdn1.googlecdnforstreaming.live/live/trueballthai9/playlist.m3u8", "referer": "https://warpdooball.net/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Ballthai9 - 4","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp","url": "https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai9/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+]},
+
+{"name": "SPOTV","image": "https://img5.pic.in.th/file/secure-sv1/SportSPOTV.png","url": "https://drive.google.com/uc?id=1ZJyLQrsD6kMD7CHrkHh3KNJRW_UGmiWC","import": false},
+
+{"name": "Astro Sport","image": "https://img5.pic.in.th/file/secure-sv1/SportAstro.png","url": "https://drive.google.com/uc?id=1MNuNW7UKq19a_OtS2b2Tp2KPCELNvba4","import": false},
+
+{"name": "Nation sport","image": "https://img5.pic.in.th/file/secure-sv1/SportNation.png","url": "https://docs.google.com/uc?export=download&id=1r9Gk-E_3y127ImipN8ZZf9pkseOzzNkY","import": false},
+
+{
+		"name": "ASEAN Mandiri Cup 2025",
+		"author": "ASEAN Mandiri Cup 2025",
+		"image":"https://dookeela.live/uploads/1752532908.png",
+		 "info": "ASEAN Mandiri Cup 2025",
+ 
+		"stations": [
+
+{"name":"ASEAN Mandiri Cup 2025-1",
+"image":"https://dookeela.live/uploads/1752532908.png",
+"url": "https://dookeela.live/live-tv/asean-u23-mandiri-cup-1",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+{"name":"ASEAN Mandiri Cup 2025-2",
+"image":"https://dookeela.live/uploads/1752532908.png",
+"url": "https://dookeela.live/live-tv/asean-u23-mandiri-cup-2",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+
+{"name":"ASEAN Mandiri Cup 2025-3",
+"image":"https://dookeela.live/uploads/1752532908.png",
+"url": "https://dookeela.live/live-tv/tsp2",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+{"name":"ASEAN Mandiri Cup 2025-4",
+"image":"https://dookeela.live/uploads/1752532908.png",
+"url": "https://dookeela.live/live-tv/tsp2",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"},
+
+{"name":"ASEAN Mandiri Cup 2025-5",
+"image":"https://dookeela.live/uploads/1752532908.png",
+"url": "https://dookeela.live/live-tv/astroarena2",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"
+}
+]
+},
+
+  {
+ "name": "Entertainment",
+ "image": "https://img2.pic.in.th/pic/Jake-Entertainment.jpeg",
+ "groups": [
+
 {
 "name": "บันเทิง",
 "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
@@ -1713,6 +1814,7 @@
 }
 ]
 },
+
 {
 "name": "การตูนและรายการเด็ก",
 "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
@@ -1838,6 +1940,179 @@
 }
 ]
 },
+
+{
+"name": "ดิจิตอล",
+"image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+"stations": [
+
+{
+"name": "ช่อง 3",
+"image": "https://dookeela.live/uploads/1685812254.png",
+"url": "https://dookeela.live/live-tv/ch3hd",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+
+{
+"name": "ช่อง 5",
+"image": "https://dookeela.live/uploads/1664574997.png",
+"url": "https://dookeela.live/live-tv/ch5hd",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+
+{
+"name": "ช่อง 7",
+"image": "https://dookeela.live/uploads/1688059473.png",
+"url": "https://dookeela.live/live-tv/ch7hd",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+
+{
+"name": "MCOT HD",
+"image": "https://dookeela.live/uploads/1671966260.png",
+"url": "https://dookeela.live/live-tv/mcothd",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+
+{
+"name": "NBT 2 HD",
+"image": "https://dookeela.live/uploads/1725895790.png",
+"url": "https://dookeela.live/live-tv/nbt2hd",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+
+{
+"name": "Thai PBS",
+"image": "https://dookeela.live/uploads/1725895931.png",
+"url": "https://dookeela.live/live-tv/thaipbs",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+
+{
+"name": "ไทยรัฐทีวี",
+"image": "https://dookeela.live/uploads/1686800227.png",
+"url": "https://dookeela.live/live-tv/thairathtv",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+
+{
+"name": "one31",
+"image": "https://dookeela.live/uploads/1683394005.png",
+"url": "https://dookeela.live/live-tv/one31",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+
+{
+"name": "AmarinTV HD",
+"image": "https://dookeela.live/uploads/1704117706.png",
+"url": "https://dookeela.live/live-tv/amarintv",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+
+{
+"name": "PPTV",
+"image": "https://dookeela.live/uploads/1664499074.png",
+"url": "https://dookeela.live/live-tv/pptv",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+
+{
+"name": "CH8",
+"image": "https://dookeela.live/uploads/1704117313.png",
+"url": "https://dookeela.live/live-tv/ch8",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+
+{
+"name": "GMM25",
+"image": "https://dookeela.live/uploads/1725896937.png",
+"url": "https://dookeela.live/live-tv/gmm25",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+
+{
+"name": "JKN 18",
+"image": "https://dookeela.live/uploads/1725896425.png",
+"url": "https://dookeela.live/live-tv/jkn18",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+
+{
+"name": "MONO29 (โมโน 29)",
+"image": "https://dookeela.live/uploads/1703787713.png",
+"url": "https://dookeela.live/live-tv/mono29",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+
+{
+"name": "Nation TV",
+"image": "https://dookeela.live/uploads/1725896561.png",
+"url": "https://dookeela.live/live-tv/nationtv",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+
+{
+"name": "TNN",
+"image": "https://dookeela.live/uploads/1725896332.png",
+"url": "https://dookeela.live/live-tv/tnn",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+
+{
+"name": "True 4 U",
+"image": "https://dookeela.live/uploads/1725896844.png",
+"url": "https://dookeela.live/live-tv/true4u",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+
+{
+"name": "Workpoint TV",
+"image": "https://dookeela.live/uploads/1725896683.png",
+"url": "https://dookeela.live/live-tv/workpointtv",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+
+{
+"name": "ALTV4",
+"image": "https://dookeela.live/uploads/1725896083.png",
+"url": "https://dookeela.live/live-tv/altv4",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+
+{
+"name": "T Sports 7",
+"image": "https://dookeela.live/uploads/1673134276.png",
+"url": "https://dookeela.live/live-tv/tsports7",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    }
+ ]
+}]},
+
+  {
+ "name": "Documentary",
+ "image": "https://img5.pic.in.th/file/secure-sv1/Jake-Documentary.jpeg",
+ "groups": [
+
 {
 "name": "สาระความรู้",
 "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
@@ -1956,6 +2231,7 @@
 }
 ]
 },
+
 {
 "name": "ข่าว",
 "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
@@ -2043,271 +2319,10 @@
 "url": "https://dookeela.live/live-tv/skysportsnews",
 "referer": "https://dookeela.live/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-}
-]
-},
-{"name": "ดูบอลสด & ผลบอลสด","author": "VIP Gojek ห้ามขาย แจกเฉพาะในกลุ่มเท่านั้น","image": "https://img2.pic.in.th/pic/SportLivescore.png","stations": [
-{"name": "BallZaa","image": "https://www.ballzaa.com/img/config/web-logo-ballzaa2.jpg","url": "https://www.ballzaa.com//บอลซ่าดูบอลสด","embed": "true", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Goal daddy","image": "https://www.goaldaddytv.live/logos/goaldaddy-logo.webp","url": "https://www.goaldaddytv.live/","embed": "true", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Dookeela","image": "https://dookeela.live/images/logo-bar.png","url": "https://dookeela.live/","embed": "true", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "ผลบอลสด","image": "https://livescorethai.tv/assets/images/2024/app/lst.png","url": "https://livescorethai.tv/","embed": "true", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-]},
+    }
+ ]
+}]},
 
-{"name": "Monomax","author": "VIP Gojek ห้ามขาย แจกเฉพาะในกลุ่มเท่านั้น","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0","stations": [
-
-{"name": "Monomax Sport-1","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0","url": "https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=", "referer": "https://fw4free.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name":"Monomax Sport-2", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://slave02.appball.vip/hls/ch11.m3u8", "playInNatPlayer":"true"}, 
-{"name":"Monomax Sport-3", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://cdnsv1.bunnycdncloud.com/andaman888th/dxsport2/playlist.m3u8", "referer": "https://www.andaman888th.net/", "playInNatPlayer":"true"}, 
-{"name":"Monomax Sport-4", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://cdn1.googlecdn.live/4k/dklsport1/chunks.m3u8", "referer": "https://footballsod.live/", "playInNatPlayer": "true"}, 
-{"name":"Monomax Sport-5", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://168dooball.net/live-stream/?mode=ball&ch=monomax1", "playInNatPlayer":"true"}, 
-{"name":"Monomax Sport-6", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://www.ball24.tv/allchannel/?id=monomax1", "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36", "info": "มือถือ", "playInNatPlayer":"true"}, 
-{"name":"Monomax Sport-7", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://www.ball24.tv/allchannel/?id=monomax2", "playInNatPlayer":"true"}, 
-{"name":"Monomax Sport-8", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://168dooball.net/live-stream/?mode=ball&ch=monomax2", "playInNatPlayer":"true"}, 
-{"name":"Monomax Sport-8", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://www.ball24.tv/allchannel/?id=monomax1", "playInNatPlayer":"true"}, 
-
-]},
-
-{ "name": "Bein Sport","image": "https://img5.pic.in.th/file/secure-sv1/SportBein.png","stations": [
-{"name": "Bein1 - 1","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://www.andaman888th.net/ดูบอลออนไลน์/beinsport1/", "referer": "https://www.andaman888th.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein1 - 2","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein1", "referer": "https://fw4free.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein1 - 3","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://www.heng99bet.com/live/bein1", "referer": "https://www.heng99bet.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein1 - 4","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-6/playlist.m3u8", "referer": "https://doolive4k.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein1 - 5","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein1_617", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein1 - 6","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein1 - 7","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://footballdoofree.com/play/bein1/", "referer": "https://footballdoofree.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein1 - 8","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/ballsod24hrs/bein1/chunks.m3u8", "referer": "ballsod24hrs.com 14","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein1 - 9","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8", "referer": "https://dooball2you.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein1 - 10","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/dooballx/bein1/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein1 - 11","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://www.ufa77.page/channel?ch=bein1", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein1 - 12","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87beinsport1/", "referer": "https://dooball2you.com","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein1 - 13","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://www.ball24.tv/allchannel/?id=bein1", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein1 - 14","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://fw4free.inwstream.com/fw4free/bein1.stream/chunklist.m3u8", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein1 - 15","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein1_ais", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein1 - 16","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/duball356/bein1/chunks.m3u8", "referer": "https://www.thdooball.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein1 - 17","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/goaltvhd/bein1/chunks.m3u8", "referer": "www.goaltvhd.com 15","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein1 - 18","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://flu.systemnet.tv/Bein.Hd.1/tracks-v1a1/mono.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein1 - 19","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://dooballkub.com/live/?bein1", "referer": "https://dooballkub.com/live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein1 - 20","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://cdnsv1.bunnycdncloud.com/dooball2you/bein1/th-sport/bein1/chunks.m3u8", "referer": "https://dooball2you.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-
-{"name": "Bein2 - 1","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://fw4free.inwstream.com/fw4free/bein2.stream/chunklist.m3u8", "referer": "https://fw4free.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein2 - 2","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://www.heng99bet.com/live/bein2", "referer": "https://www.heng99bet.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein2 - 3","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://www.ball24.tv/allchannel/?id=bein2", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein2 - 4","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8", "referer": "https://dooball2you.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein2 - 5","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://www.andaman888th.net/ดูบอลออนไลน์/beinsport2/", "referer": "https://www.andaman888th.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein2 - 6","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein2", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein2 - 7","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/dooballx/bein2/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein2 - 8","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://www.ufa77.fun/channel?ch=bein2", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein2 - 9","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein2", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein2 - 10","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://dooball2you.com/live/beinsport2/", "referer": "https://dooball2you.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein2 - 11","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://livesod365.com/live/bein2/bein-sport-2/", "referer": "https://footballdoofree.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein2 - 12","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://cdn-la2.aws-stream.com/ondemand/od3/bein2/video.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein2 - 13","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://flu.systemnet.tv/Bein.Hd.2/tracks-v1a1/mono.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein2 - 14","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://dooballkub.com/live/?bein2", "referer": "https://dooballkub.com/live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-
-{"name": "Bein3 - 1","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://www.heng99bet.com/live/bein3", "referer": "https://www.heng99bet.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein3 - 2","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-7/playlist.m3u8", "referer": "https://doolive4k.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein3 - 3","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://www.ball24.tv/allchannel/?id=bein3", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein3 - 4","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8", "referer": "https://www.siammovie-hd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein3 - 5","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://footballdoofree.com/play/bein3", "referer": "https://footballdoofree.com","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein3 - 6","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://dooballkub.com/live/?bein3", "referer": "https://dooballkub.com/live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein3 - 7","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein3 - 8","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://www.andaman888th.net/ดูบอลออนไลน์/beinsport3/", "referer": "https://www.andaman888th.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein3 - 9","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein3", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein3 - 10","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://fw4free.inwstream.com/fw4free/bein3.stream/chunklist.m3u8", "referer": "https://fw4free.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein3 - 11","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/dooballx/bein3/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein3 - 12","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://www.ufa77.fun/channel?ch=bein3", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein3 - 13","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://www.baballbet.com/live/bein-sport3/", "referer": "https://www.baballbet.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein3 - 14","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://dooball2you.com/live/beinsport3/", "referer": "https://dooball2you.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein3 - 15","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://www.livestream88.com/sport/bein-sport-hd-2/", "referer": "https://freetvdd.com","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein3 - 16","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/thdooball/bein3/chunks.m3u8", "referer": "thdooball.com 17","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein3 - 17","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/duball356/bein3/chunks.m3u8", "referer": "liveballhd365.com 16","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein3 - 18","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/goaltvhd/bein3/chunks.m3u8", "referer": "https://www.goaltvhd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein3 - 19","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/ballsod24hrs/bein3/chunks.m3u8", "referer": "https://ballsod24hrs.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein3 - 20","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://flu.systemnet.tv/Bein.Hd.3/tracks-v1a1/mono.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-
-{"name": "Bein4 ","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein4", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein4 - 2","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/dooballx/bein4/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein4 - 3","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png","url": "https://www.ufa77.fun/channel?ch=bein4", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein4 - 4","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png","url": "https://www.heng99bet.com/live/bein4", "referer": "https://www.heng99bet.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein4 - 6","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png","url": "https://www.ball24.tv/allchannel/?id=bein4", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein4 - 7","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png","url": "https://dooballkub.com/live/?bein4", "referer": "https://dooballkub.com/live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein4 - 8","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png","url": "https://cdn-la2.aws-stream.com/ondemand/od3/bein4/playlist.m3u8", "referer": "https://dooballkub.com/live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-
-{"name": "Bein5","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein5", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein5 - 2","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/dooballx/bein5/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein5 - 3","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png","url": "https://www.ufa77.fun/channel?ch=bein5", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein5 - 4","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png","url": "https://www.heng99bet.com/live/bein5", "referer": "https://www.heng99bet.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein5 - 5","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein5", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein5 - 6","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png","url": "https://www.ball24.tv/allchannel/?id=bein5", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein5 - 7","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png","url": "https://dooballkub.com/live/?bein5", "referer": "https://dooballkub.com/live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein5 - 8","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png","url": "https://cdn-la2.aws-stream.com/ondemand/od3/bein5/playlist.m3u8", "referer": "https://dooballkub.com/live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-
-{"name": "Bein6","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein6", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein6 - 2","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/dooballx/bein6/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein6 - 3","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png","url": "https://www.ufa77.fun/channel?ch=bein6", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein6 - 4","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein6", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein6 - 5","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png","url": "https://www.ball24.tv/allchannel/?id=bein6", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein6 - 6","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png","url": "https://dooballkub.com/live/?bein6", "referer": "https://dooballkub.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein6 - 7","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png","url": "https://cdn-la2.aws-stream.com/ondemand/od3/bein6/playlist.m3u8", "referer": "https://dooballkub.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-
-{"name": "Bein7","image": "https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD7.png","url": "https://dookeela.live/live-tv/bein7", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein7 - 2","image": "https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD7.png","url": "https://cdn1.googlecdn.live/dooballx/bein7/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein7 - 3","image": "https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD7.png","url": "https://dookeela.live/live-tv/bein7", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein7 - 4","image": "https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD7.png","url": "https://www.ufa77.fun/channel?ch=bein7", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein7 - 5","image": "https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD7.png","url": "https://www.ball24.tv/allchannel/?id=bein7", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein7 - 6","image": "https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD7.png","url": "https://dooballkub.com/live/?bein7", "referer": "https://dooballkub.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein7 - 7","image": "https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD7.png","url": "https://cdn-la2.aws-stream.com/ondemand/od3/bein7/playlist.m3u8", "referer": "https://dooballkub.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-
-{"name": "Bein8","image": "https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD8.png","url": "https://dooballkub.com/live/?bein8", "referer": "https://dooballkub.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Bein8","image": "https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD8.png","url": "https://dookeela.live/live-tv/bein8", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-
-{"name": "Bein9","image": "https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD9.png","url": "https://dookeela.live/live-tv/bein9", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-
-{"name": "Bein10","image": "https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD10.png","url": "https://dookeela.live/live-tv/bein10", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-]},
-
-{"name": "True Sport","image": "https://img5.pic.in.th/file/secure-sv1/Sportwo.png","stations": [
-{"name": "TSP1 - 1","image": "https://img2.pic.in.th/pic/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png","url": "https://www.andaman888th.net/ดูบอลออนไลน์/truesporthd/", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP1 - 2","image": "https://img2.pic.in.th/pic/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png","url": "https://dookeela.live/live-tv/tsp1", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP1 - 3","image": "https://img2.pic.in.th/pic/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png","url": "https://www.ball24.tv/allchannel/?id=truesporthd", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP1 - 4","image": "https://img2.pic.in.th/pic/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png","url": "https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8", "referer": "https://www.madoohd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP1 - 5","image": "https://img2.pic.in.th/pic/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png","url": "https://cdn-la2.aws-stream.com/ondemand/od3/bein7/playlist.m3u8", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP1 - 6","image": "https://img2.pic.in.th/pic/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png","url": "https://www.ufa77.fun/channel?ch=truesporthd", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP1 - 7","image": "https://img2.pic.in.th/pic/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png","url": "https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8", "referer": "https://freetvdd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP1 - 8","image": "https://img2.pic.in.th/pic/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png","url": "https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesporthd1/", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP1 - 9","image": "https://img2.pic.in.th/pic/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png","url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-8/playlist.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP1 - 10","image": "https://img2.pic.in.th/pic/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png","url": "https://dooballkub.com/live/?truesporthd", "referer": "https://dooballkub.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-
-{"name": "TSP2 - 1","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://www.andaman888th.net/ดูบอลออนไลน์/truesporthd2/", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP2 - 2","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://dookeela.live/live-tv/tsp2", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP2 - 3","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-9/playlist.m3u8", "referer": "https://doolive4k.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP2 - 4","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://www.ball24.tv/allchannel/?id=truesporthd2", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP2 - 5","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8", "referer": "https://www.madoohd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP2 - 6","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://footballdoofree.com/play/truesporthd2/", "referer": " ","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP2 - 7","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://dooballkub.com/live/?truesporthd2", "referer": "https://dooballkub.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP2 - 8","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP2 - 9","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://cdn-la2.aws-stream.com/ondemand/od3/tsp2/video.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP2 - 10","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://www.ufa77.fun/channel?ch=truesporthd2", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP2 - 11","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8", "referer": "https://freetvdd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP2 - 12","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://dooball2you.com/truesporthd2/", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP2 - 13","image": "https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp","url": "https://www.ufa77.fun/stream?21:00&teamA=%E0%B8%AD%E0%B8%B4%E0%B8%9B%E0%B8%AA%E0%B8%A7%E0%B8%B4%E0%B8%8A&teamB=%E0%B9%80%E0%B8%AD%E0%B8%9F%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B1%E0%B8%99&key=ff40379f61dab2981f3f061edeceb3d2&channel=truesporthd2&channelA=truesporthd2&channelB=truesporthd2&channelC=truesporthd2&channelD=&channelE=&flagA=202410190726541047916368.png&flagB=202410190726541800025867.png&league=%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A4%E0%B8%A9%20|%20%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%B5%E0%B8%81", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-
-{"name": "TSP3 - 1","image": "https://img2.pic.in.th/pic/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png","url": "https://www.andaman888th.net/ดูบอลออนไลน์/truesporthd3/", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP3 - 2","image": "https://img2.pic.in.th/pic/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png","url": "https://dookeela.live/live-tv/tsp3", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP3 - 3","image": "https://img2.pic.in.th/pic/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png","url": "https://www.ball24.tv/allchannel/?id=truesporthd3", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP3 - 4","image": "https://img2.pic.in.th/pic/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png","url": "https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8", "referer": "https://www.madoohd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP3 - 5","image": "https://img2.pic.in.th/pic/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png","url": "https://dooballkub.com/live/?truesporthd3", "referer": "https://dooballkub.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP3 - 6","image": "https://img2.pic.in.th/pic/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png","url": "https://www.ufa77.fun/channel?ch=truesporthd3", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP3 - 7","image": "https://img2.pic.in.th/pic/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png","url": "https://cdn-la2.aws-stream.com/ondemand/od3/tsp3/video.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP3 - 8","image": "https://img2.pic.in.th/pic/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png","url": "https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8", "referer": "https://freetvdd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP3 - 9","image": "https://img2.pic.in.th/pic/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png","url": "https://dooball2you.com/ช่องtruesporthd3/", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-
-{"name": "TSP4 - 1","image": "https://cms.dmpcdn.com/livetv/2023/12/15/759492c0-9aea-11ee-a6e1-935fb41ffad5_webp_original.webp","url": "https://www.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8", "referer": "https://www.madoohd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP4 - 2","image": "https://cms.dmpcdn.com/livetv/2023/12/15/759492c0-9aea-11ee-a6e1-935fb41ffad5_webp_original.webp","url": "https://dookeela.live/live-tv/tsp4", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP4 - 3","image": "https://cms.dmpcdn.com/livetv/2023/12/15/759492c0-9aea-11ee-a6e1-935fb41ffad5_webp_original.webp","url": "https://streaming.livescorethai.net/iptv/hd-tsport4.stream/chunks.m3u8", "referer": "https://freetvdd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP4 - 4","image": "https://cms.dmpcdn.com/livetv/2023/12/15/759492c0-9aea-11ee-a6e1-935fb41ffad5_webp_original.webp","url": "https://dooballkub.com/live/?truesporthd4", "referer": "https://dooballkub.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-
-{"name": "TSP5 - 1","image": "https://img2.pic.in.th/pic/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp","url": "https://dookeela.live/live-tv/tsp5", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP5 - 2","image": "https://img2.pic.in.th/pic/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp","url": "https://www.ball24.tv/allchannel/?id=truesport5", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP5 - 3","image": "https://img2.pic.in.th/pic/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp","url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-11/playlist.m3u8", "referer": "https://doolive4k.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP5 - 4","image": "https://img2.pic.in.th/pic/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp","url": "https://github.com/bestcommt2/m3u8/raw/refs/heads/master/true5.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP5 - 5","image": "https://img2.pic.in.th/pic/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp","url": "https://www.ufa77.fun/channel?ch=truesport5", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP5 - 6","image": "https://img2.pic.in.th/pic/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp","url": "https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8", "referer": "https://freetvdd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP5 - 7","image": "https://img2.pic.in.th/pic/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp","url": "https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8", "referer": "https://www.madoohd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-
-{"name": "TSP7 - 1","image": "https://cms.dmpcdn.com/livetv/2023/12/15/76797480-9aea-11ee-a6e1-935fb41ffad5_webp_original.webp","url": "https://www.ball24.tv/allchannel/?id=truesport7", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP7 - 2","image": "https://cms.dmpcdn.com/livetv/2023/12/15/76797480-9aea-11ee-a6e1-935fb41ffad5_webp_original.webp","url": "https://dookeela.live/live-tv/tsp7", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP7 - 3","image": "https://cms.dmpcdn.com/livetv/2023/12/15/76797480-9aea-11ee-a6e1-935fb41ffad5_webp_original.webp","url": "https://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8", "referer": "https://www.madoohd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP7 - 4","image": "https://cms.dmpcdn.com/livetv/2023/12/15/76797480-9aea-11ee-a6e1-935fb41ffad5_webp_original.webp","url": "https://github.com/bestcommt2/m3u8/raw/refs/heads/master/true7.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP7 - 5","image": "https://cms.dmpcdn.com/livetv/2023/12/15/76797480-9aea-11ee-a6e1-935fb41ffad5_webp_original.webp","url": "https://www.ufa77.fun/channel?ch=truesport7", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP7 - 6","image": "https://cms.dmpcdn.com/livetv/2023/12/15/76797480-9aea-11ee-a6e1-935fb41ffad5_webp_original.webp","url": "https://cdn-la2.aws-stream.com/ondemand/od3/tsp7/video.m3u8", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "TSP7 - 7","image": "https://cms.dmpcdn.com/livetv/2023/12/15/76797480-9aea-11ee-a6e1-935fb41ffad5_webp_original.webp","url": "https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8", "referer": "https://freetvdd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-
-{"name": "true Tennis - 1","image": "https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png","url": "https://dookeela.live/live-tv/truetennis", "referer": "https://www.siammovie-hd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "true Tennis - 2","image": "https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png","url": "https://www.ball24.tv/allchannel/?id=truetennis", "referer": "https://www.ball24.tv/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "true Tennis - 3","image": "https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png","url": "https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8", "referer": "https://www.siammovie-hd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "true Tennis - 4","image": "https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png","url": "https://168dooball.com/live-stream/?ch=truetennis", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "true Tennis - 5","image": "https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png","url": "https://www.ufa77.fun/channel?ch=truetennis", "referer": "https://www.ufa77.fun/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-
-{"name": "to NBA","image": "https://media0.giphy.com/media/5h5HJRTkYEvT2o6yvJ/giphy.gif?cid=ecf05e475a721abd784f8b6739313111b6b70a55503b08ec&rid=giphy.gif","url": "https://dookeela.live/live-tv/nba", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-
-{"name": "to NFL","image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png","url": "https://dookeela.live/live-tv/nfl", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-
-{"name": "Volleyball 1","image": "https://dookeela.live/uploads/1728462430.png","url": "https://dookeela.live/live-tv/volleyball1", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Volleyball 1","image": "https://dookeela.live/uploads/1728462430.png","url": "https://goal-th.com/ช่องรายการทีวี/?id=528&tv=Volleyball1", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Volleyball 2","image": "https://dookeela.live/uploads/1728462447.png","url": "https://dookeela.live/live-tv/volleyball2", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Volleyball 2","image": "https://dookeela.live/uploads/1728462447.png","url": "https://goal-th.com/ช่องรายการทีวี/?id=529&tv=Volleyball2", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Volleyball 3","image": "https://dookeela.live/uploads/1728462457.png","url": "https://dookeela.live/live-tv/volleyball3", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Volleyball 3","image": "https://dookeela.live/uploads/1728462457.png","url": "https://goal-th.com/ช่องรายการทีวี/?id=530&tv=Volleyball3", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Volleyball 4","image": "https://dookeela.live/uploads/1728462466.png","url": "https://dookeela.live/live-tv/volleyball4", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Volleyball 4","image": "https://dookeela.live/uploads/1728462466.png","url": "https://goal-th.com/ช่องรายการทีวี/?id=531&tv=Volleyball4", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Volleyball 5","image": "https://dookeela.live/uploads/1728462475.png","url": "https://dookeela.live/live-tv/volleyball5", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Volleyball 5","image": "https://dookeela.live/uploads/1728462475.png","url": "https://goal-th.com/ช่องรายการทีวี/?id=532&tv=Volleyball5", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-
-{"name": "Golf Channel - 1","image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F3182d0c8-507f-42b9-b53a-cc2b0298941c.png&w=320&h=240","url": "https://dookeela.live/live-tv/golfchannel", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Golf Channel - 2","image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F3182d0c8-507f-42b9-b53a-cc2b0298941c.png&w=320&h=240","url": "https://goal-th.com/ช่องรายการทีวี/?id=528&tv=Volleyball1", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Golf Channel - 3","image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F3182d0c8-507f-42b9-b53a-cc2b0298941c.png&w=320&h=240","url": "https://dooball2you.com/live/golf-channel-thailand/", "referer": "https://dooball2you.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Golf Channel - 4","image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F3182d0c8-507f-42b9-b53a-cc2b0298941c.png&w=320&h=240","url": "https://www.livedoomovies.com:4431/02_golfhd_720p/chunklist.m3u8", "referer": "https://www.doomovie-hd.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Golf Channel - 5","image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F3182d0c8-507f-42b9-b53a-cc2b0298941c.png&w=320&h=240","url": "https://cdnsv1.bunnycdncloud.com/dooball2you/golf/th-sport/golfchannel2/chunks.m3u8", "referer": "https://dooball2you.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-
-{"name": "3BBSports1","image": "https://dookeela.live/uploads/1720429672.png","url": "https://goal-th.com/ช่องรายการทีวี/?id=419&tv=3BBSports1", "referer": "https://dooball2you.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-]},
-
-{ "name": "Ball Thai","image": "https://img5.pic.in.th/file/secure-sv1/SportBallthai.png","stations": [
-
-{"name": "Ballthai9 - 1","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp","url": "https://cdn1.googlecdn.live/dooballrealtime/trueballthai9/playlist.m3u8", "referer": "https://www.dooballrealtime.com","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Ballthai9 - 2","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp","url": "https://goal-th.com/ช่องรายการทีวี/?id=468&tv=TrueBallThai9", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Ballthai9 - 3","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp","url": "https://cdn1.googlecdnforstreaming.live/live/trueballthai9/playlist.m3u8", "referer": "https://warpdooball.net/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-{"name": "Ballthai9 - 4","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp","url": "https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai9/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
-
-]},
-
-{"name": "SPOTV","image": "https://img5.pic.in.th/file/secure-sv1/SportSPOTV.png","url": "https://drive.google.com/uc?id=1ZJyLQrsD6kMD7CHrkHh3KNJRW_UGmiWC","import": false},
-
-{"name": "Astro Sport","image": "https://img5.pic.in.th/file/secure-sv1/SportAstro.png","url": "https://drive.google.com/uc?id=1MNuNW7UKq19a_OtS2b2Tp2KPCELNvba4","import": false},
-
-{"name": "Nation sport","image": "https://img5.pic.in.th/file/secure-sv1/SportNation.png","url": "https://docs.google.com/uc?export=download&id=1r9Gk-E_3y127ImipN8ZZf9pkseOzzNkY","import": false},
-
-
-
-{
-		"name": "ASEAN Mandiri Cup 2025",
-		"author": "ASEAN Mandiri Cup 2025",
-		"image":"https://dookeela.live/uploads/1752532908.png",
-		 "info": "ASEAN Mandiri Cup 2025",
- 
-		"stations": [
-
-{"name":"ASEAN Mandiri Cup 2025-1",
-"image":"https://dookeela.live/uploads/1752532908.png",
-"url": "https://dookeela.live/live-tv/asean-u23-mandiri-cup-1",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"ASEAN Mandiri Cup 2025-2",
-"image":"https://dookeela.live/uploads/1752532908.png",
-"url": "https://dookeela.live/live-tv/asean-u23-mandiri-cup-2",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-
-{"name":"ASEAN Mandiri Cup 2025-3",
-"image":"https://dookeela.live/uploads/1752532908.png",
-"url": "https://dookeela.live/live-tv/tsp2",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"ASEAN Mandiri Cup 2025-4",
-"image":"https://dookeela.live/uploads/1752532908.png",
-"url": "https://dookeela.live/live-tv/tsp2",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"},
-
-{"name":"ASEAN Mandiri Cup 2025-5",
-"image":"https://dookeela.live/uploads/1752532908.png",
-"url": "https://dookeela.live/live-tv/astroarena2",
-"referer": "https://dookeela.live/",
-"playInNatPlayer": "true"
 }
 ]
 }
