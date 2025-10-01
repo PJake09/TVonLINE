@@ -29,6 +29,42 @@
 "url":"http://49.0.64.96:8007/H-Channel",
 "playInNatPlayer": "true"},
 
+{
+ "name": "movie 4" ,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLF9Ryybq2svASoKIC4L5_KkIxs_gVDtvCWGtBDkwL0XtdmFnKf4hx4O8&s=10" ,
+"url":"http://49.0.64.96:8007/Cartoonumi",
+ "referer": "https://livesod365.com/","playInNatPlayer": "true" 
+}, 
+
+{
+ "name": "movie 5" ,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLF9Ryybq2svASoKIC4L5_KkIxs_gVDtvCWGtBDkwL0XtdmFnKf4hx4O8&s=10" ,
+"url":"http://49.0.64.96:8007/IZAA",
+ "referer": "https://livesod365.com/","playInNatPlayer": "true" 
+}, 
+
+{
+ "name": "movie 6" ,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLF9Ryybq2svASoKIC4L5_KkIxs_gVDtvCWGtBDkwL0XtdmFnKf4hx4O8&s=10" ,
+"url":"http://49.0.64.96:8007/PING",
+ "referer": "https://livesod365.com/","playInNatPlayer": "true" 
+}, 
+
+{"name":"Thai Film",
+"image": "https://cdn.imgchest.com/files/yq9c3lrn3z4.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=307",
+"playInNatPlayer": "true"},
+
+{"name": "Film Asia",
+"image": "https://cdn.imgchest.com/files/4apc5pmo9v4.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=404",
+"playInNatPlayer": "true"},
+
+{"name":"Asian More",
+"image": "https://cdn.imgchest.com/files/7w6c238o9py.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=405",
+"playInNatPlayer": "true"},
+
 {"name":"Film1",
 "image": "https://cdn.imgchest.com/files/y8xcn5r8ap4.png",
 "url": "https://goal-th.com/ช่องรายการทีวี/?id=418",
@@ -44,24 +80,9 @@
 "url": "https://goal-th.com/ช่องรายการทีวี/?id=412",
 "playInNatPlayer": "true"},
 
-{"name": "Film Asia",
-"image": "https://cdn.imgchest.com/files/4apc5pmo9v4.png",
-"url": "https://goal-th.com/ช่องรายการทีวี/?id=404",
-"playInNatPlayer": "true"},
-
-{"name":"Thai Film",
-"image": "https://cdn.imgchest.com/files/yq9c3lrn3z4.png",
-"url": "https://goal-th.com/ช่องรายการทีวี/?id=307",
-"playInNatPlayer": "true"},
-
 {"name":"Series",
 "image": "https://cdn.imgchest.com/files/4jdcved9vk4.png",
 "url": "https://goal-th.com/ช่องรายการทีวี/?id=406",
-"playInNatPlayer": "true"},
-
-{"name":"Asian More",
-"image": "https://cdn.imgchest.com/files/7w6c238o9py.png",
-"url": "https://goal-th.com/ช่องรายการทีวี/?id=405",
 "playInNatPlayer": "true"},
 
 {"name":"AXN",
@@ -119,6 +140,15 @@
 "url": "https://goal-th.com/ช่องรายการทีวี/?id=276",
 "playInNatPlayer": "true"},
 
+{
+"name": "HBO HIT ",  
+"image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_425_305",  
+"url": "https://dookeela2.live/live-tv/hbo-hits",
+"referer": "https://dookeela.live/live-tv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+
 {"name": "HBO Fam",
 "image": "https://cdn.imgchest.com/files/49zc235onry.png",
 "url": "https://goal-th.com/ช่องรายการทีวี/?id=277",
@@ -133,15 +163,6 @@
 "image": "https://cdn.imgchest.com/files/739cxjlmzo7.png",
 "url": "https://goal-th.com/ช่องรายการทีวี/?id=281",
 "playInNatPlayer": "true"},
-
-{
-"name": "HBO HIT ",  
-"image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_425_305",  
-"url": "https://dookeela2.live/live-tv/hbo-hits",
-"referer": "https://dookeela.live/live-tv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
-},
 
 {
 "name":"ROCKENTERTAINMENT",
@@ -168,6 +189,29 @@
 },
 
 {
+"name": "True Thai Film",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png", 
+"url":"https://dookeela2.live/live-tv/truethaifilm", 
+"referer": "https://freetvdd.com", 
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",  
+"playInNatPlayer": "true"},
+
+{
+"name": "True Asian More",
+"image":"https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",
+   "url":"https://dookeela2.live/live-tv/trueasianmore",
+"referer": "https://freetvdd.com", 
+"info": "", 
+"playInNatPlayer": "true"},
+
+{
+ "name": "ASIA SERIES" ,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19ub-DTS73CFIjvSjIwRTIKYdhqwAWlk1XoEClNpRLe-moPNNl1zgVLKi&s=10" ,
+"url":"http://49.0.64.96:8007/SERIES",
+ "referer": "https://livesod365.com/","playInNatPlayer": "true" 
+}, 
+
+{
 "name": "CINEMAX",
 "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",
 "url": "https://dookeela2.live/live-tv/cinemax",
@@ -189,50 +233,6 @@ playInNatPlayer: "true"
 "referer": "https://freetvdd.com", 
 "info": "", 
 "playInNatPlayer": "true"},
-
-{
-"name": "True Asian More",
-"image":"https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",
-   "url":"https://dookeela2.live/live-tv/trueasianmore",
-"referer": "https://freetvdd.com", 
-"info": "", 
-"playInNatPlayer": "true"},
-
-{
-"name": "True Thai Film",
-"image":"https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png", 
-"url":"https://dookeela2.live/live-tv/truethaifilm", 
-"referer": "https://freetvdd.com", 
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",  
-"playInNatPlayer": "true"},
-
-{
- "name": "movie 1" ,
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLF9Ryybq2svASoKIC4L5_KkIxs_gVDtvCWGtBDkwL0XtdmFnKf4hx4O8&s=10" ,
-"url":"http://49.0.64.96:8007/Cartoonumi",
- "referer": "https://livesod365.com/","playInNatPlayer": "true" 
-}, 
-
-{
- "name": "movie 2" ,
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLF9Ryybq2svASoKIC4L5_KkIxs_gVDtvCWGtBDkwL0XtdmFnKf4hx4O8&s=10" ,
-"url":"http://49.0.64.96:8007/IZAA",
- "referer": "https://livesod365.com/","playInNatPlayer": "true" 
-}, 
-
-{
- "name": "movie 3" ,
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLF9Ryybq2svASoKIC4L5_KkIxs_gVDtvCWGtBDkwL0XtdmFnKf4hx4O8&s=10" ,
-"url":"http://49.0.64.96:8007/PING",
- "referer": "https://livesod365.com/","playInNatPlayer": "true" 
-}, 
-
-{
- "name": "ASIA SERIES" ,
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19ub-DTS73CFIjvSjIwRTIKYdhqwAWlk1XoEClNpRLe-moPNNl1zgVLKi&s=10" ,
-"url":"http://49.0.64.96:8007/SERIES",
- "referer": "https://livesod365.com/","playInNatPlayer": "true" 
-}, 
 
 {
  "name": "universal" ,
@@ -551,6 +551,55 @@ url:"https://live.cool-channel.com/cool/live-720P.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
 },
 {
+"name": "True Thai Film",
+"image": "https://dookeela2.live/uploads/1706539896.png",
+"url": "https://dookeela2.live/live-tv/truethaifilm",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "True Film Asia",
+"image": "https://dookeela2.live/uploads/1719205705.png",
+"url": "https://dookeela2.live/live-tv/truefilmasia",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "True Asian More",
+"image": "https://dookeela2.live/uploads/1719205850.png",
+"url": "https://dookeela2.live/live-tv/trueasianmore",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "True Film 1",
+"image": "https://dookeela2.live/uploads/1720380229.png",
+"url": "https://dookeela2.live/live-tv/truefilm1",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "True Film 2",
+"image": "https://dookeela2.live/uploads/1720723122.png",
+"url": "https://dookeela2.live/live-tv/truefilm2",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "True Movie Hits",
+"image": "https://dookeela2.live/uploads/1719803882.png",
+"url": "https://dookeela2.live/live-tv/truemoviehits",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "True Series",
+"image": "https://dookeela2.live/uploads/1719205991.png",
+"url": "https://dookeela2.live/live-tv/trueseries",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
 "name": "KBS Korea",
 "image": "https://dookeela2.live/uploads/1725961079.png",
 "url": "https://dookeela2.live/live-tv/kbskorea",
@@ -638,55 +687,6 @@ url:"https://live.cool-channel.com/cool/live-720P.m3u8",
 "name": "TVB CLASSIC HD",
 "image": "https://dookeela2.live/uploads/1719898154.png",
 "url": "https://dookeela2.live/live-tv/tvbclassichd",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Asian More",
-"image": "https://dookeela2.live/uploads/1719205850.png",
-"url": "https://dookeela2.live/live-tv/trueasianmore",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Film 1",
-"image": "https://dookeela2.live/uploads/1720380229.png",
-"url": "https://dookeela2.live/live-tv/truefilm1",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Film 2",
-"image": "https://dookeela2.live/uploads/1720723122.png",
-"url": "https://dookeela2.live/live-tv/truefilm2",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Film Asia",
-"image": "https://dookeela2.live/uploads/1719205705.png",
-"url": "https://dookeela2.live/live-tv/truefilmasia",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Movie Hits",
-"image": "https://dookeela2.live/uploads/1719803882.png",
-"url": "https://dookeela2.live/live-tv/truemoviehits",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Series",
-"image": "https://dookeela2.live/uploads/1719205991.png",
-"url": "https://dookeela2.live/live-tv/trueseries",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "True Thai Film",
-"image": "https://dookeela2.live/uploads/1706539896.png",
-"url": "https://dookeela2.live/live-tv/truethaifilm",
 "referer": "https://dookeela2.live/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
 },
