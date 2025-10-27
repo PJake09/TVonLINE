@@ -5,9 +5,226 @@
    "groups": [
 
 
-{"name": "🔁กดอัปเดตก่อนซิ😁",
-"image": "https://cdn.imgchest.com/files/7ogcb6z62jy.png",
-"url":"https://raw.githubusercontent.com/PJake09/TVonLINE/refs/heads/main/TV%20channel"},
+{"name": "LIVE TV",
+"image": "https://avatars.githubusercontent.com/u/100044137?v=4",
+"stations": [
+
+{
+"name": "HBO HD ",
+"image": "https://i.ibb.co/6v0dDhD/vbs.png",
+"url": "https://github.com/tummeng21/m3u8/raw/refs/heads/main/HBOTHAI.m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+},
+{
+"name": "HBO HITS",
+"image": "https://i.ibb.co/vP3hkjH/hhit.png",
+"url": "https://github.com/tummeng21/m3u8/raw/refs/heads/main/HBOHits.m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+},
+{
+"name": "HBO FAMILY",
+"image": "https://i.ibb.co/F8P2mxK/cccc.png",
+"url": "https://github.com/tummeng21/m3u8/raw/refs/heads/main/HBOFAMILY.m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+},
+{
+"name":"HBO SIGNATURE",
+"image":"https://i.ibb.co/gM7NfQ4/SS.png",
+"url":"https://github.com/tummeng21/m3u8/raw/refs/heads/main/HBOSignature.m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+},
+{
+"name":"CINEMAX",
+"image":"https://i.ibb.co/tz61VMJ/CINE.png",
+"url":"https://github.com/tummeng21/m3u8/raw/refs/heads/main/cinemaxth.m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+}, 
+{
+"name":"WANER TV",
+"image":"https://img5.pic.in.th/file/secure-sv1/we.png",
+ "url": "https://github.com/tummeng21/m3u8/raw/refs/heads/main/truewb.m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+},
+{
+"name": "TRUE THAIFILM",
+"image": "https://img2.pic.in.th/pic/CHI-cropd772890a7e272794.png",
+"url" : "https://github.com/tummeng21/m3u8/raw/refs/heads/main/truethaifilm.m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+},
+{
+"name": "TRUE FILMASIA",
+"image": "https://img2.pic.in.th/pic/li.png", 
+"url": "https://github.com/tummeng21/m3u8/raw/refs/heads/main/truefilmasia.m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+},
+{
+"name": "TRUE ASIANMORE",
+"image": "https://img2.pic.in.th/pic/ASIAN.png", 
+"url" : "https://github.com/tummeng21/m3u8/raw/refs/heads/main/trueasiamore.m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+},    
+{
+"name": "AXN HD",
+"image": "https://img2.pic.in.th/pic/11ebcc476361449be1.png",
+"url": "https://github.com/tummeng21/m3u8/raw/refs/heads/main/trueAXN.m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+}, 
+{
+"name": "TRUE FILMHD1",
+"image": "https://img2.pic.in.th/pic/f1.png",
+"url": "https://github.com/tummeng21/m3u8/raw/refs/heads/main/truefilm1.m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+},
+{
+"name": "TRUE FILMHD2",
+"image":"https://img2.pic.in.th/pic/f2ba22c43b1706d6ae.png",
+"url": "https://github.com/tummeng21/m3u8/raw/refs/heads/main/truefilm2.m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+},
+{
+"name": "TRUE SERIES",
+"image": "https://img5.pic.in.th/file/secure-sv1/ser.png",
+"url": "https://github.com/tummeng21/m3u8/raw/refs/heads/main/trueseries.m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+},
+{
+"name": "HISTORY",
+"image": "https://img2.pic.in.th/pic/0b31d4d294ebe0e3c9b89f933311f4a1.png",
+"url": "https://github.com/tummeng21/m3u8/raw/refs/heads/main/trueHISTORY.m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+},
+{
+"name": "TRUE X-ZYTE",
+"image": "https://img5.pic.in.th/file/secure-sv1/22709d6ee38e72f343.png",
+"url": "https://github.com/tummeng21/m3u8/raw/refs/heads/main/truexzyte.m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+},
+{
+"name": "True Explore Sci",
+"image": "https://dookeela2.live/uploads/1724167268.png",
+"url": "https://github.com/tummeng21/m3u8/raw/refs/heads/main/trueexploresci.m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+},
+{
+"name": "Food Network",
+"image": "https://dookeela2.live/uploads/1717696062.png",
+"url": "https://github.com/tummeng21/m3u8/raw/refs/heads/main/foodnetwork.m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+},
+{
+"name": "TLC",
+"image": "https://dookeela2.live/uploads/1717696038.png",
+"url": "https://github.com/tummeng21/m3u8/raw/refs/heads/main/tlc.m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+},
+{
+"name": "OUT DOOR",
+"image": "https://dl.dropboxusercontent.com/scl/fi/8wsmdpmul02hma3swarf6/Outdoor_Channel_logo_2017.png?rlkey=tz9dlb3zwk4v6qzs7fz61se7r&st=b2f99m6t&dl=0",
+"url": "https://github.com/tummeng21/m3u8/raw/refs/heads/main/outdoor.m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+},
+{
+"name":"Speed vision",
+"image":"https://dl.dropboxusercontent.com/scl/fi/5g6oddnvtxevwskt3t35f/speed.png?rlkey=djy87zjub6tr0nubbq7ggzhat&st=b0pouum2&dl=0",
+"url": "https://2535b897.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVFZfU3BlZWR2aXNpb25fSExT/playlist.m3u8",
+"referer": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+{
+"name":"Chopper Town",
+"image":"https://dl.dropboxusercontent.com/scl/fi/5e2gnc8n4zc8p6zoyh5ow/Chopper-Town.png?rlkey=i2m2w7f26tasz3hrgs9y5d8vv&st=nomakf5s&dl=0",
+"url": "https://www.distro.tv/live/choppertown/",
+"referer": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+{
+"name": "ANIMAL PLANET",
+"image":"https://img5.pic.in.th/file/secure-sv1/ani2.png",
+"url": "https://dookeela2.live/live-tv/animal-planet#",
+"referer": "https://dookeela2.live/live-tv/",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+},
+{
+"name":"Wired2Fish",
+"image":"https://dl.dropboxusercontent.com/scl/fi/6qvmlf590c9mw3u5asye7/wired2fish-tv-logo.png?rlkey=ksch5kdxcods1wdgnocy5vt40&st=k7v0iomf&dl=0",
+"url": "https://www.distro.tv/live/wired2fish-tv/",
+"referer": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "MTV Live HD",
+"image": "https://media.info/l/f/1/1482.1508556245.png",
+"url" : "http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:CA:7C:80&stream=45325&extension=m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+}
+{
+"name": "MTV HIT",
+"image": "http://picons.cmshulk.com/picons/45264.png",
+"url" : "http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:CA:7C:80&stream=45264&extension=m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+}
+{
+"name": "MTV MUSIC",
+"image": "https://dl.dropboxusercontent.com/scl/fi/frdao8p1gkkxc96um27xs/MTV_Music_2021_logo.svg.png?rlkey=m8avfb1759usohk6xdq3ida9b&st=0o1gohta&dl=0",
+"url" : "http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:CA:7C:80&stream=163792&extension=m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+}
+{
+"name": "MTV 90's",
+"image": "https://dl.dropboxusercontent.com/scl/fi/7ki2fg9zim06n8h03pep4/MTV-90s.png?rlkey=shia1lkjatag3ex6tc3082h9a&st=snmdd5ef&dl=0",
+"url" : "http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:CA:7C:80&stream=1014270&extension=m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+}
+{
+"name": "NOW 80's",
+"image": "https://dl.dropboxusercontent.com/scl/fi/rhtaysgedu91za7rsoy23/now80.png?rlkey=zea4vpke8zjx4r7isytu4ctlu&st=koug3af1&dl=0",
+"url" : "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+}
+{
+"name": "NOW 70's",
+"image": "https://dl.dropboxusercontent.com/scl/fi/j3cg99ytr39mny7c7rw1f/now70.png?rlkey=xxyi7mte0d3nyidg35r0k3i7p&st=apmt30dr&dl=0",
+"url" : "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+}
+{
+"name": "NOW ROCK",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/NOW_Rock_logo.png/200px-NOW_Rock_logo.png",
+"url" : "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8",
+"referer": "",
+"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
+}
+]
+},
 
 {"name":"▶️บันเทิง",                         
 "image":"https://cdn.imgchest.com/files/7pjcq2ekmd7.png",
