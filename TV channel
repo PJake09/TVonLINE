@@ -180,42 +180,42 @@
 "url" : "http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:CA:7C:80&stream=45325&extension=m3u8",
 "referer": "",
 "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
-}
+},
 {
 "name": "MTV HIT",
 "image": "http://picons.cmshulk.com/picons/45264.png",
 "url" : "http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:CA:7C:80&stream=45264&extension=m3u8",
 "referer": "",
 "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
-}
+},
 {
 "name": "MTV MUSIC",
 "image": "https://dl.dropboxusercontent.com/scl/fi/frdao8p1gkkxc96um27xs/MTV_Music_2021_logo.svg.png?rlkey=m8avfb1759usohk6xdq3ida9b&st=0o1gohta&dl=0",
 "url" : "http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:CA:7C:80&stream=163792&extension=m3u8",
 "referer": "",
 "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
-}
+},
 {
 "name": "MTV 90's",
 "image": "https://dl.dropboxusercontent.com/scl/fi/7ki2fg9zim06n8h03pep4/MTV-90s.png?rlkey=shia1lkjatag3ex6tc3082h9a&st=snmdd5ef&dl=0",
 "url" : "http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:CA:7C:80&stream=1014270&extension=m3u8",
 "referer": "",
 "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
-}
+},
 {
 "name": "NOW 80's",
 "image": "https://dl.dropboxusercontent.com/scl/fi/rhtaysgedu91za7rsoy23/now80.png?rlkey=zea4vpke8zjx4r7isytu4ctlu&st=koug3af1&dl=0",
 "url" : "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
 "referer": "",
 "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
-}
+},
 {
 "name": "NOW 70's",
 "image": "https://dl.dropboxusercontent.com/scl/fi/j3cg99ytr39mny7c7rw1f/now70.png?rlkey=xxyi7mte0d3nyidg35r0k3i7p&st=apmt30dr&dl=0",
 "url" : "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8",
 "referer": "",
 "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"
-}
+},
 {
 "name": "NOW ROCK",
 "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/NOW_Rock_logo.png/200px-NOW_Rock_logo.png",
