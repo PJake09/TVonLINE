@@ -278,6 +278,13 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
 },
 {
+"name": "Rush",
+"image": "https://dookeela.live/uploads/1741273735.png",
+"url": "https://dookeela.live/live-tv/rush-stories",
+"referer": "https://dookeela2.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
 "name": "Alure Channel",
 "image": "https://dookeela2.live/uploads/1731057748.png",
 "url": "https://dookeela2.live/live-tv/alure-channel",
