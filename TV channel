@@ -59,6 +59,14 @@
 {
 "name": "TRUE THAIFILM",
 "image": "https://img2.pic.in.th/pic/CHI-cropd772890a7e272794.png",
+"url" : "https://live2.stream.liveplayback.net/dookeela/truethaifilm/chunks.m3u8?nimblesessionid=90403339&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyNSwgMTE6NDM6NDQgQU0maGFzaF92YWx1ZT1idUpEb0hBRmdOQTVRWEpQaDFSdlZ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MzhmYzBkYmE5ZTZjNzRkNjY3ZTczYjhhNjQyYTQyM2YmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIx.m3u",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "TRUE THAIFILM",
+"image": "https://img2.pic.in.th/pic/CHI-cropd772890a7e272794.png",
 "url" : "https://github.com/tummeng21/m3u8/raw/refs/heads/main/truethaifilm.m3u8",
 "referer": "",
 "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
