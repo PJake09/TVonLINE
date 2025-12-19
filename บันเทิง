@@ -118,6 +118,161 @@
  "name": "Entertainment",
  "image": "https://img2.pic.in.th/pic/Jake-Entertainment.jpeg",
  "groups": [
+
+{
+"name": "True Thai Film",
+"image": "https://dookeela4.live/uploads/1706539896.png",
+"url": "https://dookeela4.live/live-tv/truethaifilm",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+},
+{
+"name": "True Film Asia",
+"image": "https://dookeela4.live/uploads/1719205705.png",
+"url": "https://dookeela4.live/live-tv/truefilmasia",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+},
+{
+"name": "True Asian More",
+"image": "https://dookeela4.live/uploads/1719205850.png",
+"url": "https://dookeela4.live/live-tv/trueasianmore",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+},
+{
+"name": " Asian Hits (3bb)",
+"image": "https://dookeela4.live/uploads/1703829940.png",
+"url": "https://dookeela4.live/live-tv/3bbasian",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+},
+{
+"name": "CCM",
+"image": "https://dookeela4.live/uploads/1719803240.png",
+"url": "https://dookeela4.live/live-tv/ccm",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+},
+{
+"name": "AXN",
+"image": "https://dookeela4.live/uploads/1719897010.png",
+"url": "https://dookeela4.live/live-tv/axn",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+},
+{
+"name": "Warner TV",
+"image": "https://dookeela4.live/uploads/1703832225.png",
+"url": "https://dookeela4.live/live-tv/warnertv",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+},
+{
+"name": "True Series",
+"image": "https://dookeela4.live/uploads/1719205991.png",
+"url": "https://dookeela4.live/live-tv/trueseries",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+},
+{
+"name": "True Movie Hits",
+"image": "https://dookeela4.live/uploads/1719803882.png",
+"url": "https://dookeela4.live/live-tv/truemoviehits",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+},
+{
+"name": "True Film 1",
+"image": "https://dookeela4.live/uploads/1720380229.png",
+"url": "https://dookeela4.live/live-tv/truefilm1",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+},
+{
+"name": "True Film 2",
+"image": "https://dookeela4.live/uploads/1720723122.png",
+"url": "https://dookeela4.live/live-tv/truefilm2",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+},
+{
+"name": "HBO",
+"image": "https://dookeela4.live/uploads/1703686191.png",
+"url": "https://dookeela4.live/live-tv/hbo",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+},
+{
+"name": "HBO Family",
+"image": "https://dookeela4.live/uploads/1703786776.png",
+"url": "https://dookeela4.live/live-tv/hbo-family",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+},
+{
+"name": "HBO Hits",
+"image": "https://dookeela4.live/uploads/1703786599.png",
+"url": "https://dookeela4.live/live-tv/hbo-hits",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+},
+{
+"name": "HBO Signature",
+"image": "https://dookeela4.live/uploads/1703786305.png",
+"url": "https://dookeela4.live/live-tv/hbo-signature",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+},
+{
+"name": "ROCK Action",
+"image": "https://dookeela4.live/uploads/1718690264.png",
+"url": "https://dookeela4.live/live-tv/rock-action",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+},
+{
+"name": "ROCK Entertainment",
+"image": "https://dookeela4.live/uploads/1718690283.png",
+"url": "https://dookeela4.live/live-tv/rock-entertainment",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+},
+{
+"name": "CINEMAX",
+"image": "https://dookeela4.live/uploads/1703786799.png",
+"url": "https://dookeela4.live/live-tv/cinemax",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+},
+{
+"name": "Food Network",
+"image": "https://dookeela4.live/uploads/1717696062.png",
+"url": "https://dookeela4.live/live-tv/foodnetwork",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+},
+{
+"name": "TLC",
+"image": "https://dookeela4.live/uploads/1717696038.png",
+"url": "https://dookeela4.live/live-tv/tlc",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+},
+{
+"name": "Rush",
+"image": "https://dookeela4.live/uploads/1741273735.png",
+"url": "https://dookeela4.live/live-tv/rush-stories",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+},
+{
+"name": "Alure Channel",
+"image": "https://dookeela4.live/uploads/1731057748.png",
+"url": "https://dookeela4.live/live-tv/alure-channel",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+},
 {
 "name": "บันเทิง",
 "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
