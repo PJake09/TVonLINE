@@ -1024,17 +1024,19 @@
 {
 "name": "Rush",
 "image": "https://dookeela.live/uploads/1741273735.png",
-"url": "https://dookeela.live/live-tv/rush-stories",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+"url": "https://dookeela4.live/live-tv/rush-stories",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
 },
 {
 "name": "Alure Channel",
 "image": "https://dookeela2.live/uploads/1731057748.png",
-"url": "https://dookeela2.live/live-tv/alure-channel",
-"referer": "https://dookeela2.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+"url": "https://dookeela4.live/live-tv/alure-channel",
+"referer": "https://dookeela4.live/",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
 },
+
+
 {"name":"Movie1",
 "image": "https://cdn.imgchest.com/files/yq9c3lrna84.png",
 "url":"http://49.0.64.96:8007/IZAA",
