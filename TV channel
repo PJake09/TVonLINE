@@ -43,26 +43,18 @@
 {
 "name":"CINEMAX",
 "image":"https://i.ibb.co/tz61VMJ/CINE.png",
-"url":"https://github.com/tummeng21/m3u8/raw/refs/heads/main/cinemaxth.m3u8",
-"referer": "",
-"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-"playInNatPlayer": "true"
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/cinemax.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"
 }, 
 {
 "name":"WANER TV",
 "image":"https://img5.pic.in.th/file/secure-sv1/we.png",
- "url": "https://github.com/tummeng21/m3u8/raw/refs/heads/main/truewb.m3u8",
-"referer": "",
-"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-"playInNatPlayer": "true"
-},
-{
-"name": "TRUE THAIFILM",
-"image": "https://img2.pic.in.th/pic/CHI-cropd772890a7e272794.png",
-"url" : "https://live2.stream.liveplayback.net/dookeela/truethaifilm/chunks.m3u8?nimblesessionid=90403339&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyNSwgMTE6NDM6NDQgQU0maGFzaF92YWx1ZT1idUpEb0hBRmdOQTVRWEpQaDFSdlZ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MzhmYzBkYmE5ZTZjNzRkNjY3ZTczYjhhNjQyYTQyM2YmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIx.m3u",
-"referer": "https://dookeela4.live/",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
-"playInNatPlayer": "true"
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/warnertv.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"
 },
 {
 "name": "TRUE THAIFILM",
@@ -75,10 +67,10 @@
 {
 "name": "TRUE FILMASIA",
 "image": "https://img2.pic.in.th/pic/li.png", 
-"url": "https://github.com/tummeng21/m3u8/raw/refs/heads/main/truefilmasia.m3u8",
-"referer": "",
-"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-"playInNatPlayer": "true"
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilmasia.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"
 },
 {
 "name": "TRUE ASIANMORE",
@@ -87,14 +79,14 @@
 "referer": "",
 "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
 "playInNatPlayer": "true"
-},    
+},
 {
 "name": "AXN HD",
 "image": "https://img2.pic.in.th/pic/11ebcc476361449be1.png",
-"url": "https://github.com/tummeng21/m3u8/raw/refs/heads/main/trueAXN.m3u8",
-"referer": "",
-"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-"playInNatPlayer": "true"
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueaxn.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"
 }, 
 {
 "name": "TRUE FILMHD1",
@@ -115,10 +107,26 @@
 {
 "name": "TRUE SERIES",
 "image": "https://img5.pic.in.th/file/secure-sv1/ser.png",
-"url": "https://github.com/tummeng21/m3u8/raw/refs/heads/main/trueseries.m3u8",
-"referer": "",
-"userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-"playInNatPlayer": "true"
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueseries.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"
+},
+{
+"name":"CCM",
+"image":"https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueccm.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"
+},
+{
+"name":"AsianHits",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png",
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/asianhits.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"
 },
 {
 "name": "HISTORY",
