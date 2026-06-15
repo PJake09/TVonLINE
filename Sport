@@ -10,34 +10,72 @@
 "stations": [
 {
 "name": "Monomax1",
-"image": "https://i.postimg.cc/J0fWnHBW/1111.jpg",
-"url": "https://dookeela2.live/live-tv/monomax1",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+"image": "https://img.utdstc.com/icon/2d7/9d3/2d79d3e9064d818d12d30b94b0ea769c81f6bb7de39f15be544de462a233ab6d:200",
+"url": "https://blive99.github.io/m3u8/sporttv/monomax1.m3u8",
+"referer": "https://github.com/"
 },
 
 {
 "name": "Monomax2",
-"image": "https://i.postimg.cc/Fsv423mj/222.jpg",
-"url": "https://dookeela2.live/live-tv/dklsport1",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+"image": "https://img.utdstc.com/icon/2d7/9d3/2d79d3e9064d818d12d30b94b0ea769c81f6bb7de39f15be544de462a233ab6d:200",
+"url": "https://blive99.github.io/m3u8/sporttv/monomax2.m3u8",
+"referer": "https://github.com/"
 },
 
 {
 "name": "Monomax3",
-"image": "https://i.postimg.cc/ZRmHTbqD/333.jpg",
-"url": "https://dookeela2.live/live-tv/dklsport2",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+"image": "https://img.utdstc.com/icon/2d7/9d3/2d79d3e9064d818d12d30b94b0ea769c81f6bb7de39f15be544de462a233ab6d:200",
+"url": "https://blive99.github.io/m3u8/sporttv/monomax3.m3u8",
+"referer": "https://github.com/"
 },
 
 {
 "name": "Monomax4",
-"image": "https://i.postimg.cc/gcNsWPbN/444.jpg",
-"url": "https://dookeela2.live/live-tv/dklsport3",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+"image": "https://img.utdstc.com/icon/2d7/9d3/2d79d3e9064d818d12d30b94b0ea769c81f6bb7de39f15be544de462a233ab6d:200",
+"url": "https://blive99.github.io/m3u8/sporttv/monomax4.m3u8",
+"referer": "https://github.com/"
+},
+
+{
+"name": "Monomax5",
+"image": "https://img.utdstc.com/icon/2d7/9d3/2d79d3e9064d818d12d30b94b0ea769c81f6bb7de39f15be544de462a233ab6d:200",
+"url": "https://blive99.github.io/m3u8/sporttv/monomax5.m3u8",
+"referer": "https://github.com/"
+},
+
+{
+"name": "Monomax6",
+"image": "https://img.utdstc.com/icon/2d7/9d3/2d79d3e9064d818d12d30b94b0ea769c81f6bb7de39f15be544de462a233ab6d:200",
+"url": "https://blive99.github.io/m3u8/sporttv/monomax6.m3u8",
+"referer": "https://github.com/"
+},
+
+{
+"name": "Monomax7",
+"image": "https://img.utdstc.com/icon/2d7/9d3/2d79d3e9064d818d12d30b94b0ea769c81f6bb7de39f15be544de462a233ab6d:200",
+"url": "https://love.bebin98399.workers.dev/lx-origin/th-monomax07_720/chunks.m3u8",
+"referer": "https://github.com/"
+},
+
+{
+"name": "Monomax8",
+"image": "https://img.utdstc.com/icon/2d7/9d3/2d79d3e9064d818d12d30b94b0ea769c81f6bb7de39f15be544de462a233ab6d:200",
+"url": "https://github.com/zaxacaasada/logotv/raw/refs/heads/main/max08.m3u8",
+"referer": "https://github.com/"
+},
+
+{
+"name": "Monomax9",
+"image": "https://img.utdstc.com/icon/2d7/9d3/2d79d3e9064d818d12d30b94b0ea769c81f6bb7de39f15be544de462a233ab6d:200",
+"url": "https://github.com/zaxacaasada/logotv/raw/refs/heads/main/max09.m3u8",
+"referer": "https://github.com/"
+},
+
+{
+"name": "Monomax10",
+"image": "https://img.utdstc.com/icon/2d7/9d3/2d79d3e9064d818d12d30b94b0ea769c81f6bb7de39f15be544de462a233ab6d:200",
+"url": "https://github.com/zaxacaasada/logotv/raw/refs/heads/main/max10.m3u8",
+"referer": "https://github.com/"
 },
 
 {
