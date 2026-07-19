@@ -10,50 +10,21 @@
 "stations": [
 
 
+{ "name":"Live 02:00 น. อาร์เจนตินา VS สเปน", 
+"image":"https://media0.giphy.com/avatars/Ab-gedreht/hMG6MOF40kTZ.gif", 
+"url":"https://warpdooball.net/live-football/?id=2325976", 
+"info":"", "playInNatPlayer": "true", "referer": "https://warpdooball.net/"},
+
+
 { "name":"Live 04:00 น. ฝรั่งเศส VS อังกฤษ", 
 "image":"https://media0.giphy.com/avatars/Ab-gedreht/hMG6MOF40kTZ.gif", 
 "url":"https://warpdooball.net/live-football/?id=2325770", 
 "info":"", "playInNatPlayer": "true", "referer": "https://warpdooball.net/"},
 
 
-{ "name":"Live 02:00 น. อาร์เจนตินา VS สเปน", 
-"image":"https://media0.giphy.com/avatars/Ab-gedreht/hMG6MOF40kTZ.gif", 
-"url":"https://warpdooball.net/live-football/?id=2325648", 
-"info":"", "playInNatPlayer": "true", "referer": "https://warpdooball.net/"},
-
-
-
-
 ]},
 
 
-{
-"name": "บอลโลกวันนี้ FIFA World Cup",
-"image": "https://f.ptcdn.info/640/080/000/ruu4tn1mu42zzwKgnwiH8-o.jpg",
-"stations": [
-{ 
-"name":"Live 01:00 น. ออสเตรเลีย VS  อียิปต์", 
-"image":"https://media0.giphy.com/avatars/Ab-gedreht/hMG6MOF40kTZ.gif", 
-"url":"https://warpdooball.net/live-football/?id=2325171",
-"referer": "https://warpdooball.net/",
-"playInNatPlayer": "true"
-},
-{ 
-"name":"Live 05:00 น.อาร์เจนตินา VS  หมู่เกาะเคปเวิร์ด", 
-"image":"https://media0.giphy.com/avatars/Ab-gedreht/hMG6MOF40kTZ.gif", 
-"url":"https://warpdooball.net/live-football/?id=2325172",
-"referer": "https://warpdooball.net/",
-"playInNatPlayer": "true"
-},
-{ 
-"name":"Live 08:30 น. โคลอมเบีย VS  กานา", 
-"image":"https://media0.giphy.com/avatars/Ab-gedreht/hMG6MOF40kTZ.gif", 
-"url":"https://warpdooball.net/live-football/?id=2325173",
-"referer": "https://warpdooball.net/",
-"playInNatPlayer": "true"
-}
-]
-},
 
 
 {
