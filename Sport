@@ -10,16 +10,68 @@
 "stations": [
 
 
-{ "name":"Live 02:00 น. อาร์เจนตินา VS สเปน", 
+{ "name":"Live 22:00 น. ไครัต VS  โอโมเนีย นิโคเซีย", 
 "image":"https://media0.giphy.com/avatars/Ab-gedreht/hMG6MOF40kTZ.gif", 
-"url":"https://warpdooball.net/live-football/?id=2325976", 
+"url":"https://warpdooball.net/live-football/?id=2326588", 
 "info":"", "playInNatPlayer": "true", "referer": "https://warpdooball.net/"},
 
 
-{ "name":"Live 04:00 น. ฝรั่งเศส VS อังกฤษ", 
+{ "name":"Live 01:00 น. กอร์นิค ซาเบอร์เซ่ VS  เฟเนร์บาห์เช่", 
 "image":"https://media0.giphy.com/avatars/Ab-gedreht/hMG6MOF40kTZ.gif", 
-"url":"https://warpdooball.net/live-football/?id=2325770", 
+"url":"https://warpdooball.net/live-football/?id=2326579", 
 "info":"", "playInNatPlayer": "true", "referer": "https://warpdooball.net/"},
+
+
+{
+"name": "hub epl 1",
+"image": "https://dookeela.live/uploads/1663979709.png",
+"url": "http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=1032529&extension=m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "hub epl 2",
+"image": "https://dookeela.live/uploads/1663979709.png",
+"url": "http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=1032528&extension=m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "sky sport epl de",
+"image": "https://dookeela.live/uploads/1725980915.png",
+"url": "http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=971711&extension=m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "sky sport f1 de",
+"image": "https://dookeela.live/uploads/1712888821.png",
+"url": "http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=513132&extension=m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "Sky Sports F1 | UK",
+"image": "https://dookeela.live/uploads/1712888821.png",
+"url": "http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=30499&extension=m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "tnt 1",
+"image": "https://dookeela.live/uploads/1691521854.png",
+"url": "http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=30567&extension=m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+
+{
+"name": "Astro Arena",
+"image": "https://dookeela.live/uploads/1697812603.png",
+"url": "http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=1016544&extension=m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+
+{
+"name": "Astro Arena 2",
+"image": "https://dookeela.live/uploads/1719768111.png",
+"url": "http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=918985&extension=m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
 
 
 ]},
