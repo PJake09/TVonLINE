@@ -33,14 +33,7 @@
 {"name": "กีฬา",
 "image":"https://i.postimg.cc/QxcnSCfJ/image.png",
 "url":"https://drive.google.com/uc?id=1opbi9Bf3606gIGQoJ4vgbRxI9ll7JTtz",
-"import": false},   
-
-
-{
-  "name": "Live TV",
-  "image": "https://img2.pic.in.th/pic/Jake-Entertainment.jpeg",
-  "url": "https://raw.githubusercontent.com/PJake09/TVonLINE/refs/heads/main/Jiptv",
-  "import": false
+"import": false
 
     }
  ]
