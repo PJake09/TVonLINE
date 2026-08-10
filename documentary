@@ -1,6 +1,376 @@
 { "name": "ช่องสด สาระความรู้","image": "https://img2.pic.in.th/pic/LiveDoc.png","groups": [
 
 {
+		"name": "Digital TV",
+		"image":"https://i.imgur.com/NeZsNcV.gif",
+		"url": "https://www.dropbox.com/scl/fi/vcdyfqmmrpunugbtnvij7/DooTube-Digital-TV.txt?rlkey=91g2fumdduqlpknfo8hug43og&st=bzg1gj6k&dl=1",
+
+		"stations":[
+ 
+{"name":"3HD",
+"image":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",
+"url":"https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8",
+"referer":"https://www.88-hd.com/",
+"playInNatPlayer": "true"},
+
+
+
+
+{"name":"CH5",
+"image":"https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png",
+"url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
+"playInNatPlayer":"true"},
+
+
+
+{"name":"7HD",
+"image":"https://i.postimg.cc/8kMvzGt1/IMG-2393.png",
+"url":"https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8",
+"playInNatPlayer": "true"},
+
+
+{"name":"McotHD",
+"image":"https://i.postimg.cc/8cpTGLZf/IMG-2397.png",
+"url":"https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8",
+"referer":"https://www.mcot.net/",
+"playInNatPlayer":"true"},
+
+
+
+{"name":"Mono29",
+"image":"https://i.postimg.cc/26dJcxGv/IMG-2741.png",
+"url":"https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd",
+"playInNatPlayer": "true"},
+
+
+
+
+{"name":"NBT",
+"image":"https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
+"url":"https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w1905166033_b3128000.m3u8",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"playInNatPlayer":"true"},
+
+
+
+{"name":"NBT-ภาคกลาง",
+"image":"https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
+"url":"https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/chunklist_w1601605558_b3128000.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"NBT-ภาคเหนือ",
+"image":"https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
+"url":"https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/chunklist_w149323924_b3128000.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"NBT-ภาคอีสาน",
+"image":"https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
+"url":"https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/chunklist_w1374149909_b3128000.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"NBT-ภาคใต้",
+"image":"https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
+"url":"https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist_w1951329913_b3128000.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"Thai PBS",
+"image":"https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png",
+"url":"http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+"playInNatPlayer":"true"},
+
+
+{"name":"Thairath TV",
+"image":"https://tse3.mm.bing.net/th/id/OIP.9thgi4cZ5JxivjnvnTBbZgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+"url":"https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd",
+"referer": "https://www.thairath.co.th/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+"playInNatPlayer":"true"},
+
+
+{"name":"PPTV",
+"image":"https://i.postimg.cc/XvRPB9Sp/IMG-2542.png",
+"url": "https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/1080p/index.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1786365601&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=y57PyGoWSz0pKVIIvL5t4A", 
+"referer":"https://www.pptvhd36.com/live",
+"playInNatPlayer":"true"},
+
+{"name":"Amarin TV",
+"image":"https://cms.dmpcdn.com/livetv/2022/02/18/e007f990-9082-11ec-9efa-2d434afe2b14_webp_320.png",
+"url":"https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd",
+"referer":"https://www.88-hd.com/",
+"playInNatPlayer":"true"},
+
+
+
+{"name":"GMM25",
+"image":"https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png",
+"url":"https://fastly.live.brightcove.com/6392745120112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTI3NDUxMjAxMTIifQ.w9Q_oqsE_WFClGF5tLVDtHnz5zfHHgNpumxVYNx4yYw/chunklist_hls1080p.m3u8",
+"referer":"https://kicksball.com/tv/tnn-516",
+"playInNatPlayer": "true"},
+
+{"name":"ONE31",
+"image":"https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png",
+"url":"https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/chunklist_hls720p.m3u8",
+"referer":"https://www.oned.net/live-tv/one31",
+"playInNatPlayer":"true"},
+
+
+{"name":"TopNews",
+"image":"https://i.postimg.cc/qMJ7ff5h/IMG-3145.png",
+"url":"https://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"playInNatPlayer":"true"},
+
+
+
+{"name":"Workpoint",
+"image":"https://i.postimg.cc/WzT9cJHK/IMG-2565.png",
+"url":"https://dov.streaming-api.xyz/kicksballcom/workpointtv/chunks.m3u8?nimblesessionid=147979&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjYgMTA6MDA6MTkgUE0maGFzaF92YWx1ZT1xd1dzMExuM1ZsRXJvcHhiVkFvcEFBPT0mdmFsaWRtaW51dGVzPTIw",
+"referer":"https://kicksball.com/tv/tnn-516",
+"playInNatPlayer": "true"},
+
+
+
+{"name":"CH8",
+"image":"https://i.postimg.cc/8z5sMgBf/IMG-2395.png",
+"url":"https://www.thaich8.com/live?var_link=720p",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"playInNatPlayer":"true"},
+
+
+{"name":"TNN16",
+"image":"https://i.postimg.cc/Njsz7k39/IMG-1845.png",
+"url":"https://tnnthailand-1mertz.cdn.byteark.com/live/pl_240p/index.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1786369698&x_ark_path_prefix=%2Flive&x_ark_signature=0gtbhQFn9giA7KaaOgHUpg",
+"referer":"https://www.tnnthailand.com/home/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+
+{"name":"Nation",
+"image":"https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png",
+"url":"https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd",
+"playInNatPlayer":"true"},
+
+
+{"name":"True4U",
+"image":"https://i.postimg.cc/kGvp2ySq/IMG-2563.png",
+"url":"https://true4u-p4ljv2.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1786369833&x_ark_path_prefix=%2Flive%2F&x_ark_signature=eRmP25Zme0U1XlfiyStkTw",
+"referer":"https://true4u.com/live/",
+"playInNatPlayer":"true"},
+
+
+{"name":"ALTV4",
+"image":"https://i.ytimg.com/vi/bAQTpAuPtQA/maxresdefault.jpg",
+"url":"https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
+"playInNatPlayer":"true"},
+
+
+
+
+{"name":"NEWS 1",
+"image":"https://i.postimg.cc/CdyT1DN4/IMG-2411.png",
+"url":"http://news1.live14.com/stream/news1_hi.m3u8",
+"playInNatPlayer":"true"},
+
+
+
+{"name":"PoliceTV",
+"image":"https://i.postimg.cc/fbzNzJSG/IMG-2597.png",
+"url":"https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"Cable 37",
+"image":"https://i.postimg.cc/t4vQNs2p/IMG-1852.png",
+"url":"http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"สุวรรณภูมิ TV",
+"image":"https://i.postimg.cc/y8ZtfvK6/IMG-2509.png",
+"url":"https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8",
+"playInNatPlayer":"true"},
+
+{
+"name":"Cool Channel",
+"image":"https://cms.dmpcdn.com/livetv/2023/07/18/7c07f020-2515-11ee-ac34-39c66cab230f_webp_original.webp",
+"url":"https://live-iptv.cool-channel.com/cool/live-720P.m3u8",
+"referer":"https://live-iptv.cool-channel.com/",
+"info":"Server live-iptv",
+"playInNatPlayer":"true"},
+
+{
+"name":"Siam Channel",
+"image":"https://i.imgur.com/QfgNajz.png",
+url: "https://mvtv.co.th/play/play_mvtv.php?no=39&channel=สกาล่า Channel",
+"referer":"https:///n-edge-1-th.v2h-cdn.com/",
+"info":"Server n-edge-1",
+"playInNatPlayer":"true"},
+
+{
+"name":"Thainews",
+"image":"https://thaitvstream.com/streaming/thainews/thainews.png", 
+"url":"https://live.thaitvstream.com/play/thainews/index.m3u8",
+"referer":"https://live1.thaitvstream.com/",
+"info":"Server thaitvstream",
+"playInNatPlayer":"true"},
+
+{  
+"name":"Siamnewstv",
+"image":"https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",
+"url":"https://live1.thaitvstream.com/play/siamnewstv/index.m3u8",
+"referer":"https://live1.thaitvstream.com/",
+"info":"Server thaitvstream",
+"playInNatPlayer":"true"},
+
+{
+"name": "Gochannel",
+"image": "https://thaitvstream.com/streaming/gochannel/gochannel.png", 
+"url":"https://live2.thaitvstream.com/play/gochannel/index.m3u8",
+"referer": "https://live1.thaitvstream.com/",
+"info":"Server thaitvstream",
+"playInNatPlayer": "true"},
+
+{
+"name":"Chiangrai",
+"image":"https://thaitvstream.com/streaming/chiangrai/chiangrai.png",
+"url":"https://live.thaitvstream.com/play/chiangrai/index.m3u8",
+"referer":"https://live1.thaitvstream.com/",
+"info":"Server thaitvstream",
+"playInNatPlayer":"true"},
+
+{
+"name":"Mounchon TV",
+"image":"https://i.postimg.cc/LsTzr0jt/IMG-2585.png",
+"url":"https://live2.thaitvstream.com/play/mounchontv/index.m3u8", 
+"referer": "https://live1.thaitvstream.com/",
+"info":"Server thaitvstream",
+"playInNatPlayer": "true"},
+
+{
+"name":"Medianews",
+"image":"https://thaitvstream.com/streaming/medianews/medianews.png",
+"url":"https://live1.thaitvstream.com/play/medianews/index.m3u8", 
+"referer": "https://live1.thaitvstream.com/",
+"info":"Server thaitvstream",
+"playInNatPlayer": "true"},
+
+{
+"name":"Channel8thailand",  
+"image":"https://lh3.googleusercontent.com/proxy/F8j5vaSEZFxgS0uTQl14JpNq0it64JmH9JmVq9yy8TA2hqPWIkngxc1rod8or-timxdb6g8SEzk3hyF8xbvMfUVYhncIqL3m5V_QRUAi04M-xfkiKjJUgHLcefodoRTIDrx350_WRq2pKqX8hwHcJmgkntiyNU5GZWv-cHvObw",  
+"url":"https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w238145399.m3u8",
+"info":"Server cdn",
+"playInNatPlayer":"true"},
+
+
+{
+"name":"Universal",  
+"image":"https://i.ibb.co/MxZHkhvV/logo-universal.png",  
+"url":"http://49.0.64.96:8007/H-Channel",
+"referer": "https://49.0.64.96:8007",
+"info":"Server 49.0.64.96:8007",
+"playInNatPlayer":"true"},
+
+{
+"name":"Movies1",  
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",  
+"url":"http://49.0.64.96:8007/Cartoonumi",
+"referer": "https://49.0.64.96:8007",
+"info":"Server 49.0.64.96:8007",
+"playInNatPlayer":"true"},
+
+{
+"name":"Movies2",  
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",  
+"url":"http://49.0.64.96:8007/IZAA",
+"referer": "https://49.0.64.96:8007",
+"info":"Server 49.0.64.96:8007",
+"playInNatPlayer":"true"},
+
+{
+"name":"Movies3",  
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",  
+"url":"http://49.0.64.96:8007/SERIES",
+"referer": "https://49.0.64.96:8007",
+"info":"Server 49.0.64.96:8007",
+"playInNatPlayer":"true"},
+
+{
+"name":"Movies4",  
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",  
+"url":"http://49.0.64.96:8007/PING",
+"referer": "https://49.0.64.96:8007",
+"info":"Server 49.0.64.96:8007",
+"playInNatPlayer":"true"},
+
+{
+"name":"Movies5",  
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",  
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/movies6.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{
+"name":"Movies6",  
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",  
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/movies7.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{
+"name":"Movies7",  
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",  
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/movies8.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{
+"name":"Movies8",  
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",  
+"url":"https://github.com/cattviptv2605/movies/raw/refs/heads/main/movies9.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+
+{"name":"PoliceTV",
+"image":"https://i.postimg.cc/fbzNzJSG/IMG-2597.png",
+"url":"https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/mk/tg/n260103ad1hw9nxl00j0kmilejfutgmk-1-112111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&os=akam&gen=playurlv3&oi=1740982113&trid=648b7c11ea1f432086fdf8af66326702i&mid=0&platform=html5&uipk=5&nbs=1&deadline=1776919679&upsig=c4e9537fd68947fbd0962901b70628a7&uparams=e,os,gen,oi,trid,mid,platform,uipk,nbs,deadline&hdnts=exp=1776919679~hmac=ee163e113f37c0e6fd12dfe9e5a035f10dee6a2fbb97f4d7b3b6c736b1911fbd&bvc=vod&orderid=0,2&logo=00000000&f=i_0_0",
+"playInNatPlayer":"true"},
+
+{ 
+name: "อีสานทีวี",
+image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/108_y_1ag4BfHbDWT63hVJMuCwGKjIXdYnNv0q.png",              
+url: "https://mvtv.co.th/play/play_mvtv.php?no=108&channel=อีสานทีวี",
+referer :"https://mvtv.co.th/"		
+},
+{ 
+name: "MV GO SPORT",
+image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/110_y_GHkXZ0x2BSTv8Kh9cJnmsiwoEyRYUfOd.png",              
+url: "https://mvtv.co.th/play/play_mvtv.php?no=110&channel=MV%20GO%20SPORT",
+referer :"https://mvtv.co.th/"		
+},
+{ 
+name: "MVNEWS",
+image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/197_y_EVPjZHiuMN3X8OIxTpnDz2y4raCLv7lw.png",              
+url: "https://mvtv.co.th/play/play_mvtv.php?no=197&channel=MVNEWS",
+referer :"https://mvtv.co.th/"		
+},
+{ 
+name: "V TV News",
+image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/195_y_3s7OdxiEKJZF5MelBVuNS1mPYCztRW9H.png",              
+url: "https://mvtv.co.th/play/play_mvtv.php?no=195&channel=V%20TV%20News",
+referer :"https://mvtv.co.th/"		
+},
+{ 
+name: "Mango Mojito",
+image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/188_y_9itQ04ehdKRuspqr7o5HaWjAZnTk2lmI.jpg",              
+url: "https://mvtv.co.th/play/play_mvtv.php?no=188&channel=Mango%20Mojito",
+referer :"https://mvtv.co.th/"		
+},
+]
+}
+{
 "name": "สาระความรู้",
 "image": "https://avatars.githubusercontent.com/u/100044137?v=4",
 "stations": [
