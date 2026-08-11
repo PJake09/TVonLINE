@@ -3,8 +3,6 @@
 {
 		"name": "Digital TV",
 		"image":"https://i.imgur.com/NeZsNcV.gif",
-		"url": "https://www.dropbox.com/scl/fi/vcdyfqmmrpunugbtnvij7/DooTube-Digital-TV.txt?rlkey=91g2fumdduqlpknfo8hug43og&st=bzg1gj6k&dl=1",
-
 		"stations":[
  
 {"name":"3HD",
@@ -367,9 +365,10 @@ name: "Mango Mojito",
 image: "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/188_y_9itQ04ehdKRuspqr7o5HaWjAZnTk2lmI.jpg",              
 url: "https://mvtv.co.th/play/play_mvtv.php?no=188&channel=Mango%20Mojito",
 referer :"https://mvtv.co.th/"		
-},
-]
 }
+]
+},
+
 {
 "name": "สาระความรู้",
 "image": "https://avatars.githubusercontent.com/u/100044137?v=4",
