@@ -72,20 +72,15 @@
     {
      "name": "ช่อง PPTV HD ",
      "image": "https://www.tvjaa.com/storage/tv-channels/pptvhd.png",
-     "url": "https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1786452001&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=G52rq1LCeQkSeZBp_5EEuA",
+     "url": "https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1786560601&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=T_ud60qhQuC1U9UDSr7WPw",
      "referer": "https://www.pptvhd36.com/live"
     },
     {
      "name": "PPTV HD",
      "image": "https://www.tvjaa.com/storage/tv-channels/pptvhd.png",
-     "url": "https://cdn867.stm.trueid.net/p101aes/da7_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=505fcf7b96&did=OFpKVVdVZVJqNGVqQWttRUVycEd0bDhrZVFlNmVMNXA&mpass=2Coym8-k6QeXNBnBZ6NKgPr6S4icrd5zMEv8sy3QsAxf80haL6SAqhg1Qy6BzwpwJ_k1vfKf7y-a528pQcHK0Mkts4OMO7DPBygc3UI8gznz3OIKjqXK80ggR0W-RXmDICCGp5VxY1Hv-8C-jG2Uzw0V&sid=e5a15ee7f7&rt=1786434971&ds=25200&tk=GgUInAp7Eld2q9_BboC00_qDWYOuPDmACXIDWL7zZDg",
+     "url": "https://cdn867.stm.trueid.net/p101aes/da7_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=6ffe19e3fd&did=UTBxZTNsaE0xRFdMMzhTNFpENFdwd05ORUJZM2ItbXU&mpass=1oWjdefmbvv_1B4silaiN9_7m9w8AmZqnYMHDk85ykfQTjPskDqtoECFBixbcbjQXCdxE25f3lCmTniZxtjy1m1XLKbXCIhtFUCt4tjuFZoZGi7EE4pxY9CDXeYsdyYkICCfNavp-QfaUNolvjJ2K5uI&sid=79d6e149ef&rt=1786539788&ds=25200&tk=dbxV5vVeJ3i1ZWsZ6ekKv1tRLL-a1nySZEG7VbbMXhU",
      "referer": "https://tv.trueid.net/th-th/live/pptv-hd"
-    },
-{"name":"PPTV",
-"image":"https://i.postimg.cc/XvRPB9Sp/IMG-2542.png",
-"url": "https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/1080p/index.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1786365601&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=y57PyGoWSz0pKVIIvL5t4A", 
-"referer":"https://www.pptvhd36.com/live",
-"playInNatPlayer":"true"},
+	},
 
 {"name":"Amarin TV",
 "image":"https://cms.dmpcdn.com/livetv/2022/02/18/e007f990-9082-11ec-9efa-2d434afe2b14_webp_320.png",
@@ -96,25 +91,23 @@
     {
      "name": "true4u",
      "image": "https://www.tvjaa.com/storage/tv-channels/true4u.png",
-     "url": "https://true4u-p4ljv2.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1786454873&x_ark_path_prefix=%2Flive%2F&x_ark_signature=ebRfE6m2sg3pcMzrqdpBQA",
+     "url": "https://true4u-p4ljv2.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1786561574&x_ark_path_prefix=%2Flive%2F&x_ark_signature=AfH2x1ZuwN72hEi9q3i58A",
      "referer": "https://true4u.com/live/"
     },
 {"name":"True4U",
 "image":"https://i.postimg.cc/kGvp2ySq/IMG-2563.png",
-"url":"https://true4u-p4ljv2.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1786369833&x_ark_path_prefix=%2Flive%2F&x_ark_signature=eRmP25Zme0U1XlfiyStkTw",
-"referer":"https://true4u.com/live/",
-"playInNatPlayer":"true"},
-
+"url":"https://cdn762.stm.trueid.net/p101dai/207_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=e448f9bb35&did=WkdXRldja19qeEU1ZEVwY0FtM0NWSzZjNnFTQVBoLVI&mpass=ktPBZk_RM_NtlFQvuO20UhR6KDOeKgJA7jLRp3RNUG9MnGyeZgJVBzzop0NsorLI2XxvcZjRRKMFk-iDfdgC4QRgR19DF1SSehRH4XqFnCO06640U7yBurZeCDFct-3NICBC__pBULCiMdDPmIWqzZu5&sid=d930369b89&rt=1786540073&ds=25200&tk=fClUJGoK8DyLWdMdwc_a0vYv8ma-c8-kq7QKqZh9vdQ",
+"referer":"https://tv.trueid.net/th-th/live/true4u"},
     {
      "name": "gmm25",
      "image": "https://www.tvjaa.com/storage/tv-channels/gmmchannel.png",
-     "url": "https://cdn766.stm.trueid.net/p202aes/d76_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=190691a96d&did=SEpRcEw0VjdFLWd0aG5zVWRibmFxVjJpWDZ4YlljY0g&mpass=CJBjri4_nJsX6lgpas1kEnzwT_hvwn98rLwqpF3PxBmiLtyhbVQ4ckFr4lY16WWTiOmWkIfUqe5yzKcZQ_2Voxd5g3imMqPqpZ_qc77ePE9cI-kNLSEvnEEdvSUbDIfNICD7KJ8vwMx98g-VSJ37JmdU&sid=5e973533a4&rt=1786435315&ds=25200&tk=P1GLIlxsLPl5DCik8EOUR-nfKVRmF1CfYNUAMfCohtU",
+     "url": "https://cdn140.stm.trueid.net/p202aes/d76_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=0029a66abc&did=dUVuY1g0RmVVRl9Cc1Rjck1Ea3o5UlFnT0ZMd0M1YXA&mpass=ikAK9O8Ffw4VQ-tlMZ126Z75fcR6sdlv04fJCG5ackarA5AYrT8C3ti-xDCGzWajSIcmmai2TcQGrw7dXGoGOLdhPVMerQ2g9VzdQxCUBmqqGS2p-OCypoyUAMKxcFogICBJnWiPIxGmEmuoT0NcVjVA&sid=112fe23352&rt=1786540242&ds=25200&tk=j7t8hsDPCM1J-8sHzrlRhjc8gb0Hy9HemWcRm-3IQFw",
      "referer": "https://tv.trueid.net/th-th/live/gmm25"
     },
     {
      "name": "gmm25",
      "image": "https://www.tvjaa.com/storage/tv-channels/gmmchannel.png",
-     "url": "https://p1.cdn.vet/live/ch0/i/ch0i.m3u8?sid=b5yMGY1NjI3ZTI5MGJkMGYzYWMyYwOWYxMWNkMjk4YjFmYWIx",
+     "url": "https://p1.cdn.vet/live/ch0/i/ch0i.m3u8?sid=b5yM2JlOWI1ZTczMTQ3MTlhNTEzOAMTY5ZmZhYzUyZWExMzQy",
      "referer": "https://www.adintrend.tv/hd/ch0?t=live"
     },
 {"name":"GMM25",
@@ -122,7 +115,6 @@
 "url":"https://fastly.live.brightcove.com/6392745120112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTI3NDUxMjAxMTIifQ.w9Q_oqsE_WFClGF5tLVDtHnz5zfHHgNpumxVYNx4yYw/chunklist_hls1080p.m3u8",
 "referer":"https://kicksball.com/tv/tnn-516",
 "playInNatPlayer": "true"},
-
     {
      "name": "One HD",
      "image": "https://www.tvjaa.com/storage/tv-channels/onehd.png",
@@ -132,7 +124,7 @@
     {
      "name": "One HD",
      "image": "https://www.tvjaa.com/storage/tv-channels/onehd.png",
-     "url": "https://cdn765.stm.trueid.net/p101dai/d56_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=2794838d2e&did=OFpKVVdVZVJqNGVqQWttRUVycEd0bDhrZVFlNmVMNXA&mpass=0Sixvd2NgHOF7czxPgWH6EVxbUlX8hfXxKa51Df3xHB-bsx76_YQWTM9EO73MdffWWoGQSTK31l9n0MeAi5Y0d5QYx26hVeAHFmcLWeOHiIqBVh3vmUs_jAp8aAhieAHICDtVIJF9is0-8a_tuLG865b&sid=4cddd2def8&rt=1786435273&ds=25200&tk=PJo4-raaw1ChqbYgCc_LOkuqpY-wOnso4gq-PbPYXlQ",
+     "url": "https://cdn143.stm.trueid.net/p101dai/d56_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=9620f7f8a1&did=dUVuY1g0RmVVRl9Cc1Rjck1Ea3o5UlFnT0ZMd0M1YXA&mpass=F8bu7C0qQRhYthuR2QGUgOxmWKdHoshV-gcExyRCGbAsib5kYT-zU26FYy106nda3Xb79wwPrjOhLlHF6iQ5LiNTrtvto0o979O7Uy6B2PFIBkjXUlkPvdAwYSR-9xPiICCcJ82zNstwmDZ-UDsOLROm&sid=07c0789a7a&rt=1786540521&ds=25200&tk=sPoZj4dwE0YEls_GtPYk4Ilx-QBuw3tpfEsFlTMwehw",
      "referer": "https://tv.trueid.net/th-th/live/one-hd"
     },
 {"name":"ONE31",
