@@ -35,8 +35,8 @@
     {
      "name": "workpoint TV",
      "image": "https://www.tvjaa.com/storage/tv-channels/workpoint.png",
-     "url": "https://cdn762.stm.trueid.net/p202aes/d83_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=cae9b03fe0&did=czRZd1RpaE45RG5PZE85U2l6TUF2UlMtRldoU2NVbjA&mpass=Kyoy49-X5sIUsIEg4nECXTM4raAv8OqeuegnN_FFoE5X_3Ghx1CPcYVyn5JQ6Mw4xKCsCV-CrDTSv_yP1aTk37e0cz9H_dTs64tYwg448LPi-8u884IezMF1j_qIUOX9ICCRit49ILHoJr-NsNOZr3qu&sid=b24a7d610a&rt=1786432556&ds=25200&tk=q04EptGMG5RkUdmA89D-4aoxN5rTRlO288cePaUbAiA",
-     "referer": "https://tv.trueid.net/"
+     "url": "https://cdn756.stm.trueid.net/p202aes/d83_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=820c47974b&did=NUR3UDZUemVHUUdKbDNLcl9uOVNabi1VRG9rTGVXdE8&mpass=Ub0gFuBJoZ8pDjJ2ypWcwkqPfEihboFJoh2SypMbof5g5A_A-jTt6fLGbe1zJ6rsl_Oglh9IAAiilPC6TBMWI51mvmD_WtmjW6PVc9Y9Jiy4FcdZ5VfQW--2-4VT-uhgICB_vZ7S4-DzUv5cjW174RmR&sid=d2cf76145c&rt=1786552648&ds=25200&tk=NCtONYBffUndMa8xrWfZaiqw1u_vQqDckLwD5XY0LrM",
+     "referer": "https://tv.trueid.net/th-th/live/workpointtv"
     },
     {
      "name": "workpoint TV",
@@ -173,21 +173,15 @@
     {
      "name": "TNN 16",
      "image": "https://www.tvjaa.com/storage/tv-channels/tnn16.png",
-     "url": "https://cdn025.stm.trueid.net/p201aes/135_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=184d52458c&did=emdKenYyQy1BOVp2WlA4QUdTejFjNGNBRENiR28tSXI&mpass=UUE9e8OWinjF6Klq33Km6mAk_7ZMqntFEeQkg9qpvXMUH22b2re8xQ-4aIhxK6Fe7PmCl_L7QN-vcrkVmCFXGDnDXuTEam5TefsGVSkv-1ggqkdughOyDDVZZiiG_m_UICC4bgPuRduavYSOdgujl1xg&sid=b8e6fce4d7&rt=1786433840&ds=25200&tk=3vUw-joukG7adp_4TmfccVsa8OnIxmc_kGTO0iUkCUI",
+     "url": "https://cdn701.stm.trueid.net/p201aes/135_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=9d678b73d2&did=VGNtRVhDd3NBVzZLb25HR1hJMHlkdXNoMUFFLWVyRHI&mpass=m7xu81IGseg1olDOEnwbDR1nXmLy1-bkq_NPwdypCV__sFr7qAJDVTRhWc8xSLczsmW8-MMugefVd3f30Y4QQUTz9wFEt9CZC53PNMKFTyGcWYPdV_tUr6-YP5JQRE9dICBWtvugm3QZsO8bFsYDuEVj&sid=84d5671d60&rt=1786552916&ds=25200&tk=PjcEAqQwVg9qEu41k4SVuFomlYeTXxwPSUjQb-yCIdU",
      "referer": "https://tv.trueid.net/th-th/live/tnn16"
     },
     {
      "name": "TNN 16",
      "image": "https://www.tvjaa.com/storage/tv-channels/tnn16.png",
-     "url": "https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1786455574&x_ark_path_prefix=%2Flive&x_ark_signature=y1ba7LeAXT7GBBu0CEnYjg",
+     "url": "https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1786574391&x_ark_path_prefix=%2Flive&x_ark_signature=4_iNrEq0ZkmX49thQXtB4A",
      "referer": "https://www.tnnthailand.com/live/"
     },
-{"name":"TNN16",
-"image":"https://i.postimg.cc/Njsz7k39/IMG-1845.png",
-"url":"https://tnnthailand-1mertz.cdn.byteark.com/live/pl_240p/index.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1786369698&x_ark_path_prefix=%2Flive&x_ark_signature=0gtbhQFn9giA7KaaOgHUpg",
-"referer":"https://www.tnnthailand.com/home/",
-"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"playInNatPlayer":"true"},
 
 {"name":"Nation",
 "image":"https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png",
