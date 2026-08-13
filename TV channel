@@ -67,8 +67,11 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://www.tvjaa.com/storage/tv-channels/tnn16.png",TNN 16
+#EXTVLCOPT:http-referrer=https://tv.trueid.net/th-th/live/tnn16
+https://cdn701.stm.trueid.net/p201aes/135_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=7299d502bb&did=aTFpSm1lTEZzLWFsTmlqTGl0SzdLOHpzX0lHcm1fOFM&mpass=8CSuHKdXB1vc_yiorvz-LDKMFFnzt_aAxDDH1BYdxnaV3IQnalbD7j21ubt89w_aIcgWvResFpTA5i5G2iIxOOoU6R35XlRA59GfNCSxHz7Alp4mALPR9EDfO0V5gDD1ICAGEq5NRxuGqcpWddw3TRz8&sid=a99345415d&rt=1786621943&ds=25200&tk=YUkeE7tc2LUk1ibF2xI_vhFT5C73g9fSkr3tk2c3ZWY
+#EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://www.tvjaa.com/storage/tv-channels/tnn16.png",TNN 16
 #EXTVLCOPT:http-referrer=https://www.tnnthailand.com/live
-https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1786574391&x_ark_path_prefix=%2Flive&x_ark_signature=4_iNrEq0ZkmX49thQXtB4A
+https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1786643691&x_ark_path_prefix=%2Flive&x_ark_signature=UgFH0JgRipqXSSnjz_rQsQ
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png",Nation
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://i.ytimg.com/vi/bAQTpAuPtQA/maxresdefault.jpg",ALTV4
