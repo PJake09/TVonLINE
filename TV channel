@@ -23,8 +23,11 @@ https://live-global-cdn-v02.sooplive.com/live-stmc-39/auth_master_playlist.m3u8?
 #EXTVLCOPT:http-referrer=https://www.thairath.co.th
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://www.tvjaa.com/storage/tv-channels/pptvhd.png",PPTV HD
+#EXTVLCOPT:http-referrer=https://www.adintrend.tv
+https://p0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yMmVkZGI4ZjA1MDhlODgyYjczMQNzlkODU1YjQzNDY3MzVm
+#EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://www.tvjaa.com/storage/tv-channels/pptvhd.png",PPTV HD
 #EXTVLCOPT:http-referrer=https://www.pptvhd36.com/live
-https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1786560601&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=T_ud60qhQuC1U9UDSr7WPw
+https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1786636801&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=vYWXSwSHZANlYBxnD6-EIQ
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/18/e007f990-9082-11ec-9efa-2d434afe2b14_webp_320.png",Amarin TV
 #EXTVLCOPT:http-referrer=https://www.88-hd.com
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
