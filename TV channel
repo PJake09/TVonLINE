@@ -54,12 +54,11 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://www.tvjaa.com/storage/tv-channels/tnn16.png",TNN 16
-#EXTVLCOPT:http-referrer=https://kicksball.com/tv/tnn-516
-https://dov.streaming-api.xyz/kicksballcom/tnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI2IDU6MTI6MzcgQU0maGFzaF92YWx1ZT10MTRiZkhkUE5vSTFJbnZLbkk1WHdBPT0mdmFsaWRtaW51dGVzPTIw
+#EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://www.tnnthailand.com/home/
+https://hls.iptv-th.workers.dev/live/1003/playlist.m3u8
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png",Nation
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
-#EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://i.ytimg.com/vi/bAQTpAuPtQA/maxresdefault.jpg",ALTV4
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png",NEWS 1
 http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://i.postimg.cc/fbzNzJSG/IMG-2597.png",PoliceTV
