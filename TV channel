@@ -16,11 +16,16 @@ https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/pla
 #EXTVLCOPT:http-referrer=
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://i.postimg.cc/WzT9cJHK/IMG-2565.png",Workpoint
-#EXTVLCOPT:http-referrer=https://kicksball.com/tv/tnn-516
-https://hls.iptv-th.workers.dev/live/1227/playlist.m3u8
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://kicksball.com/tv/workpoint-tv-519
+https://dov.streaming-api.xyz/kicksballcom/workpointtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI2IDU6MTA6MDQgQU0maGFzaF92YWx1ZT1aZ0pTaW4rZXF3cU5DZ20wV1JjSzFRPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png",PPTV
-#EXTVLCOPT:http-referrer=https://www.pptvhd36.com/live
-https://hls.iptv-th.workers.dev/live/1011/playlist.m3u8
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www-live.pptvhd36.com/
+https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1786963202&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=39zRESXMWkS_9atESIeX5w
+#EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png",PPTV
+#EXTVLCOPT:http-referrer=https://www.adintrend.tv/hd/ch37?t=live
+https://p1.cdn.vet/live/ch37/i/ch37i.m3u8?sid=b5yYTcxZWIxOWRmNGY2NzY4Mzg1ZAOGNkOTZlNDA5MmJlYTVj
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/18/e007f990-9082-11ec-9efa-2d434afe2b14_webp_320.png",Amarin TV
 #EXTVLCOPT:http-referrer=https://www.88-hd.com
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
@@ -54,9 +59,9 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://www.tvjaa.com/storage/tv-channels/tnn16.png",TNN 16
-#EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.tnnthailand.com/home/
-https://hls.iptv-th.workers.dev/live/1003/playlist.m3u8
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://kicksball.com/tv/tnn-516
+https://dov.streaming-api.xyz/kicksballcom/tnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI2IDU6MTc6MzYgQU0maGFzaF92YWx1ZT1pbTRNOXRvMWN6Q0xBNXA0N0w2dXJRPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png",Nation
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png",NEWS 1
