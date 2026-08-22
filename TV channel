@@ -54,9 +54,8 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://www.tvjaa.com/storage/tv-channels/tnn16.png",TNN 16
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kicksball.com/tv/tnn-516
-https://dov.streaming-api.xyz/kicksballcom/tnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDI2IDQ6NTE6MDMgQU0maGFzaF92YWx1ZT1iT2VvbDdSQ0RTVGV3OTF6THRtenNRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTVLCOPT:http-referrer=https://tv.trueid.net/th-th/live/tnn16
+https://cdn702.stm.trueid.net/p201aes/135_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=a0779ffec5&did=S2lyUzdDRWdoXzJZTUVtd3pMTGVxN09sQlJ5ZmNkRmU&mpass=GbdF55QLqNy3ibuvQNd2i5ryGgt5J0SCgc_F71P9B6aIvaNtOts6uEi6o2m_ojDnFYxZH_PfncbNmzUsm3AbCZ5tTPdEnWtF1twT5LV4ejByAEczydmyBDLAoL8hC5RbICBf2JIwdeQkOguQgy5KXBu2&sid=069c7d9637&rt=1787392905&ds=25200&tk=SjgSrD57OUdvPyvla_H3VJ4c6Ljz5nZPAgLIZgfanJc
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png",Nation
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png",NEWS 1
