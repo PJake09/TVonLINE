@@ -4,37 +4,23 @@
 #EXTVLCOPT:http-referrer=https://www.88-hd.com
 https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png",CH5
-#EXTVLCOPT:http-referrer=
-https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://i.postimg.cc/8kMvzGt1/IMG-2393.png",7HD
-#EXTVLCOPT:http-referrer=
-https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+#EXTVLCOPT:http-referrer=https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://i.postimg.cc/8cpTGLZf/IMG-2397.png",McotHD
 #EXTVLCOPT:http-referrer=https://www.mcot.net
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png",Mono29
-#EXTVLCOPT:http-referrer=
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+#EXTVLCOPT:http-referrer=https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1703787733.png&s=d8d69d5d37ea",Mono29 plus
 #EXTVLCOPT:http-referrer=https://kicksball.com/tv/mono29-plus-280
 https://dov.streaming-api.xyz/kicksballcom/mono29plus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDI2IDQ6NDg6MDIgQU0maGFzaF92YWx1ZT1ENzlMMW1BZlNWbGhQejJqME9KeVR3PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://i.postimg.cc/WzT9cJHK/IMG-2565.png",Workpoint
-#EXTVLCOPT:http-referrer=https://kicksball.com/tv/workpoint-tv-519
-https://dov.streaming-api.xyz/kicksballcom/workpointtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDI2IDQ6NTE6NTEgQU0maGFzaF92YWx1ZT0yOGhCTkVsdytzbHduT0hEQXhvMTFnPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://i.postimg.cc/WzT9cJHK/IMG-2565.png",Workpoint
 #EXTVLCOPT:http-referrer=https://www.workpointtv.com/live-stream-page/
 https://live-global-cdn-v02.sooplive.com/live-stm-16/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.Jbe8_dYWz71wYMmHkf71hXm2bPTM2cLg7mZMnyVnwVGFQ5qI3p1XwzqwBE5PruXrx5Y2jQw85jxT2es7QX5nLrR4rbqO525Xk9QLCW60kZlB5P0n4YyxPpV1K4rKG0C4IUO-5QuaJ02QxH0jlmzhWyiMZdUjoEA56Gm7jK47xx0oEv2wYjvtt0NGwQK32Kaudo07PcUiyLzJlAxnU-NTfg
-#EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://i.postimg.cc/WzT9cJHK/IMG-2565.png",Workpoint
-#EXTVLCOPT:http-referrer=https://tv.trueid.net/th-th/live/workpointtv
-https://cdn764.stm.trueid.net/p202aes/d83_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=3e55536791&did=aTdpaEYzWnZ3Q0MtWWtVaXJ3dWhmV296RU5QdFBZb3E&mpass=_Ew8219I_i4o6rPKvb2QmUnmzjeZaYZjUHRZQ77BWd46bBrtnz19eqJIkK4HyM7qdEBaFwCzoShv5nXDTQo_otwP_9pwAP8oNcbpMu7DXDA-4btqn0v2Up9QfcJYf5Y5ICBDr031A3NTKJLymnvxZoFr&sid=78431f6dd9&rt=1787202376&ds=25200&tk=gcoS-IH0tO3D0Bw1iPcPjiIfC0JYGOocDEa8wZa9QvY
-#EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png",PPTV
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.pptvhd36.com/live
-https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1787220001&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=YWq2WtxLzCUpaswPgIYKEw
-#EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png",PPTV
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kicksball.com/tv/pptv-37
-https://dov.streaming-api.xyz/kicksballcom/pptv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDI2IDQ6NDQ6MTEgQU0maGFzaF92YWx1ZT0xSmZtYkRuYUZRNFhoQmcvdEYvTExRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-chno="9" group-title="" tvg-logo="https://madoball.com/upload/1664.jpg", PPTV HD
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1664/playlist.m3u8
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/18/e007f990-9082-11ec-9efa-2d434afe2b14_webp_320.png",Amarin TV
 #EXTVLCOPT:http-referrer=https://www.88-hd.com
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
