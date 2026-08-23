@@ -13,7 +13,8 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTVLCOPT:http-referrer=https://www.mcot.net
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png",Mono29
-https://hls.iptv-th.workers.dev/live/1229/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.adintrend.tv/hd/index.php?t=live&ch=38
+https://p0.cdn.vet/live/ch38/i/ch38i.m3u8?sid=b5yOGM0YjVlNTRlMTAyODZjMWZmNAMjYyODc3NmY5YmI1YjFm
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1703787733.png&s=d8d69d5d37ea",Mono29 plus
 #EXTVLCOPT:http-referrer=https://kicksball.com
 https://dov.streaming-api.xyz/kicksballcom/mono29plus/chunks.m3u8?nimblesessionid=528275&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI2IDEwOjEyOjA2IEFNJmhhc2hfdmFsdWU9a25ZdUVSUlV1S0xvNEduR2tydXBqZz09JnZhbGlkbWludXRlcz0yMA==
