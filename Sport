@@ -10,16 +10,35 @@
 "stations": [
 
 
-{ "name":"Live 23:00 น. เร็กซ์แฮม VS  ซันเดอร์แลนด์", 
+{ "name":"Live 20:00 น.  ไบรท์ตัน แอนด์ โฮฟ อัลเบี้ยน VS  แอสตัน วิลล่า", 
 "image":"https://media0.giphy.com/avatars/Ab-gedreht/hMG6MOF40kTZ.gif", 
-"url":"https://warpdooball.net/live-football/?id=2326784", 
+"url":"https://warpdooball.net/live-football/?id=2328354", 
 "info":"", "playInNatPlayer": "true", "referer": "https://warpdooball.net/"},
 
-
-{ "name":"Live 03:00 น. ลิเวอร์พูล VS  ลีดส์ ยูไนเต็ด", 
+{ "name":"Live 20:00 น.  ไบรท์ตัน แอนด์ โฮฟ อัลเบี้ยน VS  แอสตัน วิลล่า", 
 "image":"https://media0.giphy.com/avatars/Ab-gedreht/hMG6MOF40kTZ.gif", 
-"url":"https://warpdooball.net/live-football/?id=2326783", 
+"url":"https://ealivefotex.com/maxsport2/index.m3u8", 
+"info":"", "playInNatPlayer": "true", "referer": "https://warpsport24.online/dooball/?id=6a87c2028e7999a682cbe131&id_league=6320c95ad3cc66f6af1b6cf6&ch=0"},
+
+{ "name":"Live 20:00 น. แมนเชสเตอร์ ซิตี้ VS  เอเอฟซี บอร์นมัธ", 
+"image":"https://media0.giphy.com/avatars/Ab-gedreht/hMG6MOF40kTZ.gif", 
+"url":"https://warpdooball.net/live-football/?id=2328355", 
 "info":"", "playInNatPlayer": "true", "referer": "https://warpdooball.net/"},
+
+{ "name":"Live 20:00 น. แมนเชสเตอร์ ซิตี้ VS  เอเอฟซี บอร์นมัธ", 
+"image":"https://media0.giphy.com/avatars/Ab-gedreht/hMG6MOF40kTZ.gif", 
+"url":"https://ealivefotex.com/maxsport1/index.m3u8", 
+"info":"", "playInNatPlayer": "true", "referer": "https://warpsport24.online/dooball/?id=6a87c2028e7999a682cbe139&id_league=6320c95ad3cc66f6af1b6cf6&ch=0"},
+
+{ "name":"Live 22:00 น. นิวคาสเซิ่ล ยูไนเต็ด VS  ลิเวอร์พูล", 
+"image":"https://media0.giphy.com/avatars/Ab-gedreht/hMG6MOF40kTZ.gif", 
+"url":"https://warpdooball.net/live-football/?id=2328356", 
+"info":"", "playInNatPlayer": "true", "referer": "https://warpdooball.net/"},
+
+{ "name":"Live 22:00 น. นิวคาสเซิ่ล ยูไนเต็ด VS  ลิเวอร์พูล", 
+"image":"https://media0.giphy.com/avatars/Ab-gedreht/hMG6MOF40kTZ.gif", 
+"url":"https://silentpacketrelay.xyz/maxsport3/tracks-v1a1/mono.m3u8", 
+"info":"", "playInNatPlayer": "true", "referer": "https://warpsport24.online/dooball/?id=6a87c2028e7999a682cbe141&id_league=6320c95ad3cc66f6af1b6cf6&ch=0"},
 
 
 {
