@@ -4,9 +4,11 @@
 #EXTVLCOPT:http-referrer=https://www.88-hd.com
 https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png",CH5
-#EXTVLCOPT:http-referrer=https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTVLCOPT:http-referrer=
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://i.postimg.cc/8kMvzGt1/IMG-2393.png",7HD
-#EXTVLCOPT:http-referrer=https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+#EXTVLCOPT:http-referrer=
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://i.postimg.cc/8cpTGLZf/IMG-2397.png",McotHD
 #EXTVLCOPT:http-referrer=https://www.mcot.net
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
