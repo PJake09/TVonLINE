@@ -16,17 +16,14 @@ https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/pla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
-#EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1703787733.png&s=d8d69d5d37ea",Mono29 plus
-#EXTVLCOPT:http-referrer=https://kicksball.com
-https://dov.streaming-api.xyz/kicksballcom/mono29plus/chunks.m3u8?nimblesessionid=528275&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI2IDEwOjEyOjA2IEFNJmhhc2hfdmFsdWU9a25ZdUVSUlV1S0xvNEduR2tydXBqZz09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1742428538.png&s=59def1189bbd",Mono29 Music
-#EXTVLCOPT:http-referrer=https://kicksball.com
-https://dov.streaming-api.xyz/kicksballcom/mono-29-music-station/chunks.m3u8?nimblesessionid=528605&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI2IDEwOjIzOjIzIEFNJmhhc2hfdmFsdWU9aHh4b3ZwQlFnY1EwUzNLSmxEUS9uZz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://i.postimg.cc/WzT9cJHK/IMG-2565.png",Workpoint
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
 #https://lb-gmmz.sky-cdn.com/gmm/workpoint.m3u8
+#EXTINF:-1 tvg-chno="9" group-title="" tvg-logo="https://madoball.com/upload/1664.jpg", PPTV HD
+#EXTVLCOPT:http-referrer=https://tv.trueid.net/th-th/live/pptv-hd
+https://cdn733.stm.trueid.net/p101aes/da7_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=b79cc2ec34&did=UmZzZ3ZJWlhCbjF2b1pMajhVbGp1UjBGclRWTGtBX18&mpass=DenHFqhTkjjBJlImmz-mycAryxTuTfEfb1NWvTP5M84y96CoGEYMjW5IfvfyiuCxHFZ8L3Qapz3UK7n2ZjT1zhJIby7SUMb8gnQxyD9jb8O2oIpLOJk2hKT-QIhVFpuNICDSAAFBf2q3NvCwHgHpJ0YP&sid=aad4ba65fc&rt=1787648698&ds=25200&tk=o3MYM-HNuDjxh7ZJM2VY4TxyUOL5KjKIoPZ4IvlbC0A
 #EXTINF:-1 group-title="📺DIGITAL.TV" tvg-logo="https://madoball.com/upload/1664.jpg", PPTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
